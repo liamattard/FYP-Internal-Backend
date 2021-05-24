@@ -1,0 +1,193 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.89811940000001,
+          "lng": 14.4519517
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89947617989272,
+            "lng": 14.45328737989272
+          },
+          "southwest": {
+            "lat": 35.89677652010728,
+            "lng": 14.45058772010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Carolina's Petit Cafe",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100565093834042775573\">Oliver Tabone</a>"
+          ],
+          "photo_reference": "ATtYBwKmxFs5emGx5nXp4FcZOplC9hedQ_Sh6U7zUQKZ0uLFqKU1czly7vkzqfOr9NvzQdWbtlKFAOPojmm_bWzOGpxFOQsmIuIwxYXpN0onNZPmG8zW0OSwKPsjrgDV0HWLvLy3aE1B3qk6Q7cj_gKjDg9scHFdwvM77oxnnyjpyPLpcVvd",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJVVXFIx9QDhMRk-ZSPboMeYI",
+      "plus_code": {
+        "compound_code": "VFX2+6Q Balzan",
+        "global_code": "8F7PVFX2+6Q"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJVVXFIx9QDhMRk-ZSPboMeYI",
+      "scope": "GOOGLE",
+      "types": ["cafe", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 445,
+      "vicinity": "Pjazza Bertu Fenech 79/80, Balzan"
+    },
+
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.88470179999999,
+          "lng": 14.4034154
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88603347989272,
+            "lng": 14.40479852989272
+          },
+          "southwest": {
+            "lat": 35.88333382010727,
+            "lng": 14.40209887010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Mdina",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118254626848940230374\">Aleksandar Vuckovic</a>"
+          ],
+          "photo_reference": "ATtYBwKPx4F2pg_BXJri0kAY6LpMDBxrTZW6m9Lk2gvfLOm4SjX0iKvQuSW689CHE7YjCbdxjQvuMyklm_-tTHNgOc6AxUFMXuEvBORNi_YTPM1-9IOQEVswggMdXOUXquAtELX375ZWSXj-J0R346re8hhd7w6D8_aandXSOIPn3dbtz5zT",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJFRVRzL9RDhMR6XcXFs1Gm2k",
+      "plus_code": {
+        "compound_code": "VCM3+V9 Mdina",
+        "global_code": "8F7PVCM3+V9"
+      },
+      "rating": 4.7,
+      "reference": "ChIJFRVRzL9RDhMR6XcXFs1Gm2k",
+      "scope": "GOOGLE",
+      "types": ["tourist_attraction", "point_of_interest", "establishment"],
+      "user_ratings_total": 18643,
+      "vicinity": "Mdina"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.89866,
+          "lng": 14.514691
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89992382989272,
+            "lng": 14.51609807989272
+          },
+          "southwest": {
+            "lat": 35.89722417010727,
+            "lng": 14.51339842010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "Malta Postal Museum",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2844,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114995714560985864265\">Malta Postal Museum</a>"
+          ],
+          "photo_reference": "ATtYBwLE_L132Stl1UFTgnMWqDYiTQ9K_zYdy-rzfHMOZt7SoaaOcCraVoWFnTsEwqWlroKQ3iFKZP_meagG1kNNkhSP91rle6F4UcOUsJeq2BDPeBpIlVjc2wUtAzgaASmXT3VqELT9jB7Uk9eXNyqNIV5lPiItXnYJWtakxY0FAbopWD6g",
+          "width": 4284
+        }
+      ],
+      "place_id": "ChIJlTtEvitFDhMRMMEoOxd-Z_M",
+      "plus_code": {
+        "compound_code": "VGX7+FV Valletta",
+        "global_code": "8F7PVGX7+FV"
+      },
+      "rating": 4.6,
+      "reference": "ChIJlTtEvitFDhMRMMEoOxd-Z_M",
+      "scope": "GOOGLE",
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 61,
+      "vicinity": "135 Archbishop St, Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8904147,
+          "lng": 14.5077842
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89178612989272,
+            "lng": 14.50910577989272
+          },
+          "southwest": {
+            "lat": 35.88908647010728,
+            "lng": 14.50640612010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "The Valletta Waterfront",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104657497249688396805\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwJ6kD3A_mWix44Z92Ti0Eg1ECgEATbSBw4k63MZS6anGMgovUyJ9KDvjdskVEG8qqipqzGnLwADut5AbXYy2HesMaUJS6yYtY5ZrOuHR-2eY41eJNYl2FHejh3pYjociK7z1B8fVvaMktnghurnorYKe65dDc9ll9guVF2QEioffFm3",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJazNW99FaDhMRN6wX2fAGmlU",
+      "plus_code": {
+        "compound_code": "VGR5+54 Floriana",
+        "global_code": "8F7PVGR5+54"
+      },
+      "rating": 4.5,
+      "reference": "ChIJazNW99FaDhMRN6wX2fAGmlU",
+      "scope": "GOOGLE",
+      "types": ["tourist_attraction", "point_of_interest", "establishment"],
+      "user_ratings_total": 5062,
+      "vicinity": "Triq il-Vittmi Furjaniżi tal-Gwerra, Il-Furjana"
+    }
+  ],
+  "status": "OK"
+}

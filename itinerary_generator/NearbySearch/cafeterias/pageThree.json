@@ -1,0 +1,495 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9146664,
+          "lng": 14.4962627
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91606117989273,
+            "lng": 14.49763387989273
+          },
+          "southwest": {
+            "lat": 35.91336152010729,
+            "lng": 14.49493422010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Zwiit Cravings Cafe",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115483093304277392869\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwJVfeTCQ2rMocp16hv_npn4QFCsqdVA2kOkxgix9Zea-ynLIUnoSOT3LjUvjLBcU72Uth4ER3wDNJ5Sna6QLyErrppOs3jkQq8xUmB3FCWou4XFxru70Ybn2BDYtxP2aH5tDoU5BxTPPXorKWPF0O3PW8it7OqLLwkue5WLjARcuP4i",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJn-e-qpZFDhMRvGgj9PuO86Y",
+      "plus_code": {
+        "compound_code": "WF7W+VG St Julian's",
+        "global_code": "8F7PWF7W+VG"
+      },
+      "rating": 4.2,
+      "reference": "ChIJn-e-qpZFDhMRvGgj9PuO86Y",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "bakery",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 280,
+      "vicinity": "270, Zwiit, Churros Home Tower Road Sliema"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9055876,
+          "lng": 14.4967838
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90694137989272,
+            "lng": 14.49813512989272
+          },
+          "southwest": {
+            "lat": 35.90424172010727,
+            "lng": 14.49543547010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Cinnabon",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2879,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103401881607237656604\">Sigitas Rokas</a>"
+          ],
+          "photo_reference": "ATtYBwK3Jff-7Mnv8qJFQzMsczQmV5JwEKfunGkDYr7OEzxoPp1CgThizU81mzoto0DbHHfz-wQ2jSbl7pBjh5j7yjzn920GuBdxaFHM8WRL4r57BFRqyBQ0Ifghh44s9hMpO2whwan7NFJkA78w34nGjcM2L-dO1TgSNnWtZUtYv-A5_aSo",
+          "width": 3839
+        }
+      ],
+      "place_id": "ChIJXzUnyTdFDhMROwYaHIEJ-g8",
+      "plus_code": {
+        "compound_code": "WF4W+6P Gzira",
+        "global_code": "8F7PWF4W+6P"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJXzUnyTdFDhMROwYaHIEJ-g8",
+      "scope": "GOOGLE",
+      "types": ["cafe", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 920,
+      "vicinity": "Triq Sir Patrick Stuart, Il-Gżira"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8822317,
+          "lng": 14.398633
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88356322989272,
+            "lng": 14.39996132989272
+          },
+          "southwest": {
+            "lat": 35.88086357010728,
+            "lng": 14.39726167010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "La Piazza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107025743748872398527\">barath gopagoni</a>"
+          ],
+          "photo_reference": "ATtYBwIi5hdZy5dSSWeiwZBa9CsNX2BOus9uxnfGGYiCjheIN2IpJhX67PJvBViZc7okvpc_PVtM4e9DzgFyLX892xfE6851yNO4_D11qIaYgAGvvVYAXg8slg65gqnUfUcd06-50TIi-5AISRp9Fz4ttJr9kvKVpCb84orHg5X-F1AP1s2Q",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJ5bxWnJZRDhMR7OEsxwzebLA",
+      "plus_code": {
+        "compound_code": "V9JX+VF Rabat",
+        "global_code": "8F7PV9JX+VF"
+      },
+      "rating": 3.7,
+      "reference": "ChIJ5bxWnJZRDhMR7OEsxwzebLA",
+      "scope": "GOOGLE",
+      "types": ["cafe", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 185,
+      "vicinity": "148 Triq Santa Rita, Ir-Rabat"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.886961,
+          "lng": 14.3995376
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88828272989272,
+            "lng": 14.40085362989272
+          },
+          "southwest": {
+            "lat": 35.88558307010728,
+            "lng": 14.39815397010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "L-Istazzjon Bar and kitchen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116597845466252701697\">James Cutajar</a>"
+          ],
+          "photo_reference": "ATtYBwKTwWw0rZbSpnnQDOm4OunZuJ3G8Os3zNp9CvXo57H8Z-ZPyGd8MzxphXhLdHPkZ03zEYHpNDk_PnIuJKSuV7rqBa24dGSoULfUSyGHV_kSGtG9u4ryt5XPnErv5afKTEQDPmQm1L8NQzBFHq0V14bL013_IuivVkW6OAq5R0MkWAH1",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJP7EA15RRDhMRSsDwH-1U3EM",
+      "plus_code": {
+        "compound_code": "V9PX+QR Mdina",
+        "global_code": "8F7PV9PX+QR"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJP7EA15RRDhMRSsDwH-1U3EM",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 599,
+      "vicinity": "old railway station triq ghajn hammam Mdina"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.917907,
+          "lng": 14.4894274
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91925682989272,
+            "lng": 14.49077722989272
+          },
+          "southwest": {
+            "lat": 35.91655717010727,
+            "lng": 14.48807757010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Manouche Craft Bakery & Bistro",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100359166405805782284\">Leonardo Demurtas</a>"
+          ],
+          "photo_reference": "ATtYBwJlGWAF02XYVO197mudZ0mSeNZPoQ06lPW79-HjuE503_rIvJZnCvfbudluQA-iCPweoJLf4vt8RCxnN2-sRxkgla3lmStQXEB6lyInyXbUeVpPOrp_jeXiMzx4jIJV3Ivzn-T6OsoLLX8YjJ64z6zi8a4L2ZF7jv2d0SKpPxk03CZ9",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJsUggIkJFDhMRE5_G4yj4Tq4",
+      "plus_code": {
+        "compound_code": "WF9Q+5Q St Julian's",
+        "global_code": "8F7PWF9Q+5Q"
+      },
+      "rating": 4.5,
+      "reference": "ChIJsUggIkJFDhMRE5_G4yj4Tq4",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "bakery",
+        "cafe",
+        "bar",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 1278,
+      "vicinity": "Spinola Park, SPK 1000, San Ġiljan"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 36.0450142,
+          "lng": 14.2393325
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.04631987989272,
+            "lng": 14.24067177989272
+          },
+          "southwest": {
+            "lat": 36.04362022010728,
+            "lng": 14.23797212010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Café Jubilee",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112442514349314443214\">Taras Vladimirovich</a>"
+          ],
+          "photo_reference": "ATtYBwLTFYsGDSYH2Ywv2qqPMOd4Ta4N5pezduxYoGi5or1jQa7XLVhUKvlhBHX0unwtmNGgP4XExp-IUWd0yySYSuxvYmcltD--1_EgDNyA30ksW7Yh3PGbdY-exHsZ2yGdi4bgf5cR1-7gAA4tZPx3oOqI5cNfWi76lAVh-9AH8E741xzO",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJJxxB4_e0DxMRba0VUfbZddY",
+      "plus_code": {
+        "compound_code": "26WQ+2P Victoria",
+        "global_code": "8F8P26WQ+2P"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJJxxB4_e0DxMRba0VUfbZddY",
+      "scope": "GOOGLE",
+      "types": ["cafe", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 826,
+      "vicinity": "Pjazza l-Indipendenza, Ir-Rabat Għawdex"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8882183,
+          "lng": 14.522134
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88949297989272,
+            "lng": 14.52346787989272
+          },
+          "southwest": {
+            "lat": 35.88679332010727,
+            "lng": 14.52076822010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Cafe Du Brazil",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101651661021056785447\">remmie davies</a>"
+          ],
+          "photo_reference": "ATtYBwJ_4alG_ohPyyQwlC5g7J8bvn4iCc2zZBUXX36tfl4shkDe16xJdYZnUuapJCnC6yQJXFc7-XYAvaId6VlRj5XASy-_THrESpUjuGF8dE_nunTqyDKDWXzmGRrGVFr_EBSNTRPEwvzYZbiojm0tEkO9dwcQ0zxfHD_ah6hvhavIBxI5",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJhR9beSlbDhMRS424YRsY3VM",
+      "plus_code": {
+        "compound_code": "VGQC+7V Birgu",
+        "global_code": "8F7PVGQC+7V"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJhR9beSlbDhMRS424YRsY3VM",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 317,
+      "vicinity": "1 Pjazza tal-Belt Vittoriosa, Birgu"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.935351,
+          "lng": 14.344314
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.93690012989273,
+            "lng": 14.34566092989272
+          },
+          "southwest": {
+            "lat": 35.93420047010728,
+            "lng": 14.34296127010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Mokka - Radisson Golden Bay",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108478340720697391448\">Sabine Spiteri Gehring</a>"
+          ],
+          "photo_reference": "ATtYBwLHvPV8WHowu4LjxqlZXKzJQIaW75Ox6hx3mmVX04djTiCPd-u_QlaDAAQ22jgTRQZ1lOgTcpuKoDnRKTMqqPPG7sGpOQ0xurhOkQXESnAnOA-zrXMvwuaI01lRBaRMIuxTRnpCa9WtOHnFTlGwcM64i0YE-SMKpvPjoolnkvLYr62w",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJvVfufZBNDhMRA8bwfjtARmU",
+      "plus_code": {
+        "compound_code": "W8PV+4P Mellieha",
+        "global_code": "8F7PW8PV+4P"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJvVfufZBNDhMRA8bwfjtARmU",
+      "scope": "GOOGLE",
+      "types": ["cafe", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 259,
+      "vicinity": "Level 1, Radisson BLU Resort & Spa, Golden Sands, Mellieha"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9134622,
+          "lng": 14.4439272
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91484042989272,
+            "lng": 14.44519582989272
+          },
+          "southwest": {
+            "lat": 35.91214077010728,
+            "lng": 14.44249617010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Caesar's House",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 296,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104153588299963763654\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwK4G8iXE2epeDquEqCPn7tvwy31RJ1VHQj5wrl8BkORyo4E393-hjqlLvNNO_vcWKhakZVUjwJ2_e44kkms0GoO_sT_ImEuDkfrxSdG3EYCOEGQCCpIMD8hn-8lHMr3HaCxA6jV1MFr6hUHYsEeGBYcDbQOdcFQlVxWrhat1Kzom6cL",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJUcH3r9xPDhMRRe0jE4okpxI",
+      "plus_code": {
+        "compound_code": "WC7V+9H Naxxar",
+        "global_code": "8F7PWC7V+9H"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJUcH3r9xPDhMRRe0jE4okpxI",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 226,
+      "vicinity": "33 NXR 9021, Triq Tal-Labour, Naxxar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8825232,
+          "lng": 14.3993254
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88387182989272,
+            "lng": 14.40066077989272
+          },
+          "southwest": {
+            "lat": 35.88117217010728,
+            "lng": 14.39796112010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Santa Lucia",
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108066792428450025972\">Nadine Micallef</a>"
+          ],
+          "photo_reference": "ATtYBwLgSzBo3TOt6f6KRaN8-E-4q9NDastduMOxWNfZrxoiR2NnyKZCT1Jnp3W7Y_TI7KiZRrWMLLekzIHIrNT5vl8QYSyCuLWb0jBb74pyQ00tIXBDwE0ZxMbzG4SVBFi2wb84FI610X_ywVQbVialwj-QnLPazj6Izt-VPsNZLugXfSfe",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJN4WeGd5RDhMRyugKhXqbefc",
+      "plus_code": {
+        "compound_code": "V9MX+2P Rabat",
+        "global_code": "8F7PV9MX+2P"
+      },
+      "rating": 4.5,
+      "reference": "ChIJN4WeGd5RDhMRyugKhXqbefc",
+      "scope": "GOOGLE",
+      "types": ["cafe", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 207,
+      "vicinity": "Triq San Pawl, Ir-Rabat"
+    }
+  ],
+  "status": "OK"
+}

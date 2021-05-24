@@ -1,0 +1,788 @@
+{
+  "html_attributions": [],
+  "next_page_token": "ATtYBwKDmd0AnT3XtFkB4A3lEKvUFY9H9QTMXx7DI_vPWN-DMEZ8RXFmYEZYUo75p9R-CVvkznhL5H4CtDMLttAfoOg53jTXAOGnrbnP-aRpb2s2MrBzxtrGAfk-Hkw_HVsk1ZFLBadSVe-VjEMH5iuT7iTdnESacCV-xDH9CUR2GTEkc_0WDVHU7DMSUVUwHNxqhYRYlPiZ-u_frDwRmKHmHKlx-ZkP3JBhlqGhZucD0HW3N16NLpP4osKkira0SbBAxf8PYCsrS8dopiVBR7GDTtz3ihDVqpARRGLCHxrSESzvHSf6sTCOuP23ysWKwr5xwqslWJYT-iRTut1vgXqBlOzynL2xDrtFl9OaZB007sc38--v1dr2X0OuuTMZBe3mOoDgiL8dw6AJ4fSiDnMo2_sf0efW1nAQX9VHvofwqfzHNHxt6vEE9LuVvY3BvNF9U_rjsZjN-fkpqcOZN0H_fG1MVNaJXQM8MnoizdTMRZCrNxjFyn6pFDrPz7Ja1F01i_BTZHAX15EjzOZIWGaw8OIl1OgTrTjm_sHHeehzy9TzBL52l_zk9_od323UF7_XWW6ceqL7Yx_QUed9wBsLV4vIZu2_0yIUeO5O6SsssPoWz17pvun-scLK6lnoSeT1ydIceGp-1J-U9xbbKplu1e7h1P4",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8955082,
+          "lng": 14.4511093
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89692572989272,
+            "lng": 14.45243072989273
+          },
+          "southwest": {
+            "lat": 35.89422607010728,
+            "lng": 14.44973107010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Zmerc Pub",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102078032875951529585\">bhishma bonavalee</a>"
+          ],
+          "photo_reference": "ATtYBwLpLd2Gnw3TXlyzL_YIFd50YlnonQ0m5t5CN3J9eK0SvH5MhIc9IqWB8RIAR9UXUKAbfOx7SXM06vHELSepSpuT_-S0kOWUvnSIQdMGohG3-_NPJa6YPfrzaK7AcwWzYdL5BtRojDPOveV4l2DWqbFBZdsS07AiNCQfC4IrqASBuF8p",
+          "width": 2560
+        }
+      ],
+      "place_id": "ChIJeUF55hhQDhMRykRiDRSGLd0",
+      "plus_code": {
+        "compound_code": "VFW2+6C Balzan",
+        "global_code": "8F7PVFW2+6C"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJeUF55hhQDhMRykRiDRSGLd0",
+      "scope": "GOOGLE",
+      "types": ["bar", "point_of_interest", "establishment"],
+      "user_ratings_total": 984,
+      "vicinity": "131 Birbal Street, Ħal Balzan"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8992212,
+          "lng": 14.512976
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90059092989273,
+            "lng": 14.51430617989272
+          },
+          "southwest": {
+            "lat": 35.89789127010728,
+            "lng": 14.51160652010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Loop Bistro Bar",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104160913036835339755\">Ian Thompson</a>"
+          ],
+          "photo_reference": "ATtYBwLwEyYpk6fZteYTR551G_WDnuBi7V1B7OWV3TJt2Qfu8uqmts6pQKbBxI4_R0VSTV5A7u7KbPv8bEIOcyJtOzT_GxsxjlcNJmANN4cmns5Z3RfFZnXPwHPM5BvRlhchdmktbHDue7vsYa_FlUdVja-vyHluZJ0Tt4z8u4iFNedfRY1n",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ88hnCixFDhMRPde6NGM3otg",
+      "plus_code": {
+        "compound_code": "VGX7+M5 Valletta",
+        "global_code": "8F7PVGX7+M5"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJ88hnCixFDhMRPde6NGM3otg",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 148,
+      "vicinity": "68 Strait St, Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9506874,
+          "lng": 14.4145746
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.95204812989272,
+            "lng": 14.41588482989272
+          },
+          "southwest": {
+            "lat": 35.94934847010728,
+            "lng": 14.41318517010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "O'Reilly's Gastro pub",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2208,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111500891166034770938\">O&#39;Reilly&#39;s Irish pub</a>"
+          ],
+          "photo_reference": "ATtYBwLX_Wh0lajR5O7oQF1FMb-yA-Zd1Tr6im3mcHiomrezgpbHM5aOqKWc85znwaT_Kz-qKSaW5LQZPBYECKsJZniL9xEn-4VO59Iqo8is7G3YRjy2S1fnQeU0MK1GoS4R6Cw4DHemq2fw5MVj2rvSW_ME97x_6pov8eYH-4trL12s5xHb",
+          "width": 1242
+        }
+      ],
+      "place_id": "ChIJCa9CG_hODhMRxEYUsSgzmAk",
+      "plus_code": {
+        "compound_code": "XC27+7R St Paul's Bay",
+        "global_code": "8F7PXC27+7R"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJCa9CG_hODhMRxEYUsSgzmAk",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 653,
+      "vicinity": "Triq Halel, Bugibba, Bugibba San Pawl IL Bahar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9237038,
+          "lng": 14.4895583
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92504782989273,
+            "lng": 14.49089752989272
+          },
+          "southwest": {
+            "lat": 35.92234817010728,
+            "lng": 14.48819787010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "The Long Hall Irish Pub",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116243761117977836230\">Sławomir Olczak</a>"
+          ],
+          "photo_reference": "ATtYBwKqj3w5tC8E_0X6sPToP5_PMxEnACLCClyW92T-HdgPtgdDZDXalcsGdpQxaVOlgDZbwpJOE9Nfq9DofOnkjo4aXjnPmaCkt8jlywkYyH0lNxn59dqzFEzDa1DArTeVtAjCgJ7VAn4eygWh8OvS-7oMmfEJcnXdbiTXflTZsHGJBVdJ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJTVQiHa9FDhMRes4vXScd6vM",
+      "plus_code": {
+        "compound_code": "WFFQ+FR St Julian's",
+        "global_code": "8F7PWFFQ+FR"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJTVQiHa9FDhMRes4vXScd6vM",
+      "scope": "GOOGLE",
+      "types": ["bar", "point_of_interest", "establishment"],
+      "user_ratings_total": 528,
+      "vicinity": "St George's Road, St Julian's"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9003524,
+          "lng": 14.5148317
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90175097989272,
+            "lng": 14.51623787989272
+          },
+          "southwest": {
+            "lat": 35.89905132010728,
+            "lng": 14.51353822010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Kennedy Bar and bistro",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116967388815968146047\">Samuel Borg</a>"
+          ],
+          "photo_reference": "ATtYBwItzZri8Vs7vfCkv86a-5LFipUBnulT09TYFzYNuaXPn_lQwovp9S6UQk4iRNN-fghv3hwlBy4AiBwYC3X3lgYATeJ70bSUMFHWReUPJZhYM7pCVvoS9gqa-rZLA_x3ruLLDl0J8U4tQkp4yBuEWtkxwjFrbbklQpYe4RE9v9HIMCNA",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJY2OJYylFDhMRFEEaoYPbncQ",
+      "plus_code": {
+        "compound_code": "WG27+4W Valletta",
+        "global_code": "8F7PWG27+4W"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJY2OJYylFDhMRFEEaoYPbncQ",
+      "scope": "GOOGLE",
+      "types": ["bar", "point_of_interest", "establishment"],
+      "user_ratings_total": 270,
+      "vicinity": "Strait St, Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.89075589999999,
+          "lng": 14.5418243
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89184337989271,
+            "lng": 14.54297287989272
+          },
+          "southwest": {
+            "lat": 35.88914372010727,
+            "lng": 14.54027322010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "The Londoner Pub",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103640130439024759476\">David Baker</a>"
+          ],
+          "photo_reference": "ATtYBwKgiJBJdZ5CBg7A2LZFn7ZQc5iu0moFnoXt0-NYgsd-OF0TgtjrKPRKweYLvqpCqtpmY5041xaRQ1YqkTD8PlRxC21ZfdOsq5WUt3jF7hZCYdO_tCTA9BjSH8OMLjWhWzClLOPJsrX7UmzmJ_P6X8PSdgvKEblPGmraA1wq6o9EmD-P",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJIXYvWjVbDhMR0K7DbjA3Rrg",
+      "plus_code": {
+        "compound_code": "VGRR+8P Kalkara",
+        "global_code": "8F7PVGRR+8P"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJIXYvWjVbDhMR0K7DbjA3Rrg",
+      "scope": "GOOGLE",
+      "types": ["bar", "point_of_interest", "establishment"],
+      "user_ratings_total": 1099,
+      "vicinity": "SCM 1001 Smart City,, Il-Kalkara"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8991408,
+          "lng": 14.5126232
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90044407989272,
+            "lng": 14.51401717989272
+          },
+          "southwest": {
+            "lat": 35.89774442010728,
+            "lng": 14.51131752010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Carcass - The City Bar",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103634841339762521473\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwLuUKQGauNIJ6ytfmFv8CsHS-hH1lJC1JQ4KFHoCnccxslfcDVc6JLkfd5xjs7lcdw746v5-OB1b-7B9_u1bNFTq7oKpUZeAop0xEsu1CQVzjqFMCpfX8OB_n6dPf_adlPWu37mHQBWKKDNUuySvEfegnD7mV-tXCZ_0IUXkuJcNS2G",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJlZXzCixFDhMRGSmKhtLEhq8",
+      "plus_code": {
+        "compound_code": "VGX7+M2 Valletta",
+        "global_code": "8F7PVGX7+M2"
+      },
+      "rating": 4.6,
+      "reference": "ChIJlZXzCixFDhMRGSmKhtLEhq8",
+      "scope": "GOOGLE",
+      "types": ["bar", "point_of_interest", "establishment"],
+      "user_ratings_total": 108,
+      "vicinity": "56 Strait St, Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9539061,
+          "lng": 14.4238874
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.95525927989272,
+            "lng": 14.42518017989272
+          },
+          "southwest": {
+            "lat": 35.95255962010727,
+            "lng": 14.42248052010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Cheeky Monkey Gastropub Qawra",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109541183378665793007\">Cheeky Monkey Gastropub</a>"
+          ],
+          "photo_reference": "ATtYBwI__i6PbOlHnY1s4IsAa5GDTbH1_XenYuMZtLiJnpna4_gmaUqOyJQsIWGllna-oeU6_awHsPvUaPwFzoHR_xIrAbz7FlzGnMjM-jGboCw6au5RRbTRBX320dXG0fvDvS6_R4YHThkLmii1dWdi5iLEhUBZE1cTlQaqTLlvH90Cy7p0",
+          "width": 5107
+        }
+      ],
+      "place_id": "ChIJBdRvdv5ODhMRArMstEHqNtY",
+      "plus_code": {
+        "compound_code": "XC3F+HH St Paul's Bay",
+        "global_code": "8F7PXC3F+HH"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJBdRvdv5ODhMRArMstEHqNtY",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1541,
+      "vicinity": "Dawret Il - Qawra, San Pawl il-Baħar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.918157,
+          "lng": 14.488712
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91951402989272,
+            "lng": 14.49004632989272
+          },
+          "southwest": {
+            "lat": 35.91681437010728,
+            "lng": 14.48734667010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Ryan's Pub Malta",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 540,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103618303124683607877\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwJcqyrgJp1jTUSIqDHWr-TaLDP0QgdgHkMGLfPlomBMdwqyiTaywTRNWzt765zuchVHLMCIR0aVfknlpDy-RmY-9I9T1fsFdyrAtEYxKfaZv_k2ycydSZZxD2Blt2EI6Zltz6Y7ewF68970nXqizZtY5XqI2JN5cTYT2fzwGrXBdfyN",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJSWIKFkJFDhMRMY1DGr_pQc4",
+      "plus_code": {
+        "compound_code": "WF9Q+7F St Julian's",
+        "global_code": "8F7PWF9Q+7F"
+      },
+      "price_level": 2,
+      "rating": 3.8,
+      "reference": "ChIJSWIKFkJFDhMRMY1DGr_pQc4",
+      "scope": "GOOGLE",
+      "types": ["bar", "night_club", "point_of_interest", "establishment"],
+      "user_ratings_total": 85,
+      "vicinity": "Spinola Bay, Triq Wied Ghomor, San Ġiljan"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.922142,
+          "lng": 14.4904
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92349182989273,
+            "lng": 14.49174982989272
+          },
+          "southwest": {
+            "lat": 35.92079217010728,
+            "lng": 14.48905017010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Memories Bar & Grill",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2899,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113383658446439164912\">Memories Bar &amp; Grill</a>"
+          ],
+          "photo_reference": "ATtYBwKm43tSnoSenNv2UUQ8Ku-MAhrx7CPs_CYkB0cMAsdqhlrCyAfC6wQsfX05X2Bg-redyK-O8Gn-4HOZZsjFUhvmLkp7EEhPnP1Mt56TH6fRf9n5cnVONy3U72gFs55T8mcTMcM1nSWBQ6sHMjQrjqGjL93FvR1n3_BtXjAY_mXZdWue",
+          "width": 3567
+        }
+      ],
+      "place_id": "ChIJCa9y0mtFDhMRRm6jyhkBDuM",
+      "plus_code": {
+        "compound_code": "WFCR+V5 St Julian's",
+        "global_code": "8F7PWFCR+V5"
+      },
+      "rating": 4.4,
+      "reference": "ChIJCa9y0mtFDhMRRm6jyhkBDuM",
+      "scope": "GOOGLE",
+      "types": ["bar", "point_of_interest", "establishment"],
+      "user_ratings_total": 148,
+      "vicinity": "4, Gort Street, San Ġiljan"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.898361,
+          "lng": 14.511496
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89979612989272,
+            "lng": 14.51299622989272
+          },
+          "southwest": {
+            "lat": 35.89709647010728,
+            "lng": 14.51029657010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Yard 32 Gin & Tapas Bar",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1153,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117080858299204436078\">Yard 32 gin &amp; tapas bar</a>"
+          ],
+          "photo_reference": "ATtYBwIlljSXNQNOpaPMqtyVw1KFdJrAnW_CUfygn9BPr3yPsfJHcVymgptpL1eGEpWCPOqdyjMhtDbKhF4ksmefQ6e9x5113TL8t8DUZejfGIqBddipierW297aZ9VSIBzFQBXwk4pQQPUOdAhbhp2irR27tWrFoQJ7IBUE18qW3od8PPUq",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJa8z0CixFDhMRe-KCnVwRsKQ",
+      "plus_code": {
+        "compound_code": "VGX6+8H Valletta",
+        "global_code": "8F7PVGX6+8H"
+      },
+      "price_level": 2,
+      "rating": 4.7,
+      "reference": "ChIJa8z0CixFDhMRe-KCnVwRsKQ",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 634,
+      "vicinity": "32 Strait St, Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9228407,
+          "lng": 14.4903802
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92419302989272,
+            "lng": 14.49177852989272
+          },
+          "southwest": {
+            "lat": 35.92149337010728,
+            "lng": 14.48907887010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "The Thirsty Barber",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108647844726619762544\">Vanja Pajić</a>"
+          ],
+          "photo_reference": "ATtYBwI3fq9TGwe4KDjgO7MU3VeEV04X_w4oEoeJGQb_BPKhkxlvr9bGOAL-0Q5K6zrKaJgM1-xB3euzu06YJNgjDk2ZN_Kxc0VqnDPdrjOU5qiNc7vgG_UVQqbH-o3FhPOnmCcFc0m2eO9R1WsN4EK3NJ2h6dFf4FWJ1WVb7Wo68Cy189i3",
+          "width": 4618
+        }
+      ],
+      "place_id": "ChIJ2-YB6GtFDhMRXdX7mK8x6bY",
+      "plus_code": {
+        "compound_code": "WFFR+45 St Julian's",
+        "global_code": "8F7PWFFR+45"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJ2-YB6GtFDhMRXdX7mK8x6bY",
+      "scope": "GOOGLE",
+      "types": ["bar", "point_of_interest", "establishment"],
+      "user_ratings_total": 592,
+      "vicinity": "Ball Street, San Ġiljan"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.870842,
+          "lng": 14.491218
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.87217107989272,
+            "lng": 14.49255887989272
+          },
+          "southwest": {
+            "lat": 35.86947142010727,
+            "lng": 14.48985922010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Monroe Lounge",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115425746497821945125\">Monroe Lounge</a>"
+          ],
+          "photo_reference": "ATtYBwJIS1BgSiH-wJtdlGKl_xpkGgiwBi5H3-1CPp04g4XLE561aF-7RuQgb8Eh7BfiXwX3wQy-w046mug8NmtPDqOP5IxwBkpNeHEV8PXD7x7JW6JhmYNW6Oq_ec8Yl9aJizeHjjtIIJLSnZtiyIHteFU6rNnKKf1lfT5PzTw9J0KvYmKn",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJuzqW341aDhMRmO3ob0QUG7o",
+      "plus_code": {
+        "compound_code": "VFCR+8F Luqa",
+        "global_code": "8F7PVFCR+8F"
+      },
+      "rating": 4.3,
+      "reference": "ChIJuzqW341aDhMRmO3ob0QUG7o",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 29,
+      "vicinity": "Triq Valletta, Ħal Luqa"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8871667,
+          "lng": 14.4035644
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88853592989272,
+            "lng": 14.40493872989272
+          },
+          "southwest": {
+            "lat": 35.88583627010728,
+            "lng": 14.40223907010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Vinum Wine Bar & Bistro",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 925,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103988872765298981494\">Vinum Wine Bar &amp; Bistro</a>"
+          ],
+          "photo_reference": "ATtYBwIKJ7UvWooJibc3wAfqGFYByJAAfYoEn2lVAOhIza-4ePZQGBD3KAsGgNMuKab0nFAlQsa6XrzZH2UcntWmt024A2dh8Uvio87azKb6nvZF7x2Rd1gEixRKg1Y_5ZOedmOPrDTjDf56WzYuNEi2Ej1vrAXaX7Z5ONkPz0iDaqaC-hI8",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJ198ICsBRDhMRMCxlhMZcMPg",
+      "plus_code": {
+        "compound_code": "VCP3+VC Mdina",
+        "global_code": "8F7PVCP3+VC"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ198ICsBRDhMRMCxlhMZcMPg",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 117,
+      "vicinity": "Mdina"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9083267,
+          "lng": 14.5010095
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90960707989272,
+            "lng": 14.50238447989272
+          },
+          "southwest": {
+            "lat": 35.90690742010727,
+            "lng": 14.49968482010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Tex Mex American Bar & Grill",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113819722683001161137\">Nick Mast</a>"
+          ],
+          "photo_reference": "ATtYBwLWIEkHlcFwBRnv_w7wui9hJZRiMAQsNVfyEVHEapZRnYwQ5yCdpxKcXwYbRWIFaaFqNKxCm0TxmMeRGWyxMvcQPzaAYjNglTPw5qLP55azw4BV4730DqpT9jyFS56ZW3_pf5ODeUErLmCwl4XGcgdz9MCkNmYSZ44HmoJdLAoXmJMu",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJZUVs0DxFDhMRmLQ71Ntxteo",
+      "plus_code": {
+        "compound_code": "WG52+8C Sliema",
+        "global_code": "8F7PWG52+8C"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJZUVs0DxFDhMRmLQ71Ntxteo",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1329,
+      "vicinity": "89 Triq Ix - Xatt, Tas-Sliema"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9236172,
+          "lng": 14.4904568
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92493282989272,
+            "lng": 14.49180107989272
+          },
+          "southwest": {
+            "lat": 35.92223317010727,
+            "lng": 14.48910142010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "TRUTH Malta",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100453956892544789145\">Jean Farrugia</a>"
+          ],
+          "photo_reference": "ATtYBwIMkmcFUJVaGSkAMrUzkDcyquZc9MtUs6EWCLw8kuA8NaNzeD2d6caWSDEiKddnEhuMDzqq_Yqof-BzoMpvlIjSliMkmSM8NbpB24hgLAFZ_L50N_bnRSzyI_mxge2YjGRZdGC1i0FNweWVzPxcirhX7h1W5tqFI8MrHmTkEZCb5lRS",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ74p57GtFDhMRBB8cfB3C_1g",
+      "plus_code": {
+        "compound_code": "WFFR+C5 St Julian's",
+        "global_code": "8F7PWFFR+C5"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJ74p57GtFDhMRBB8cfB3C_1g",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 545,
+      "vicinity": "Triq il-Wilga, St Julian's"
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,447 @@
+{
+  "html_attributions": [],
+  "next_page_token": "ATtYBwIaVh2kcj2_2CNBtezOivu4HCFLDcN5DLuBFokM0oVuiR9m2k9Xg32hNJ4GS2vuNSIVWf39sb9bvoD3_yLpTohyLptmQ-qR7QoZGUuxHYBuq98c8WwHzWGhaKPd6JW-ASlEpKc_CguisEupcKINQEH5J1y7V2Rrb6MoOOqdsDOYFrHs2tuae_9rvLAfbKOKfH3_S7zdwfuvJUkqzpOtdENRJl0AA1nQ5obyytITB6TQ4ai0sdJFbHfG_jQA4vc30e4OK2IIWfCunBYO_h8iAMRgmGth9WKcC-StAbU8X1uEH_PH_YCcbr8EH_jk1jnY-GPTEgQKTMIS2SEY8XAs74CYKDaGbxqYndXwtBNtGoyMnhgZsW0wPl2hmGkxLk-tSq_gbS19TJovdpYYOx9EV-rOkQhOniFe__awV8iM-PRGD1kGRQz7EwcqSHQYu9kvxkY",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.895232,
+          "lng": 14.4448191
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89656077989272,
+            "lng": 14.44621997989272
+          },
+          "southwest": {
+            "lat": 35.89386112010727,
+            "lng": 14.44352032010728
+          }
+        }
+      },
+      "name": "Villa Bologna",
+      "rating": 4.6,
+      "user_ratings_total": 457
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.89604569999999,
+          "lng": 14.4479303
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89702667989272,
+            "lng": 14.44908862989272
+          },
+          "southwest": {
+            "lat": 35.89432702010728,
+            "lng": 14.44638897010728
+          }
+        }
+      },
+      "name": "Il-Ġnien ta' Sant'Anton",
+      "rating": 4.6,
+      "user_ratings_total": 4135
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.8949004,
+          "lng": 14.5121371
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89632462989272,
+            "lng": 14.51373992989272
+          },
+          "southwest": {
+            "lat": 35.89362497010728,
+            "lng": 14.51104027010728
+          }
+        }
+      },
+      "name": "Upper Barrakka Gardens",
+      "rating": 4.7,
+      "user_ratings_total": 19680
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.8974522,
+          "lng": 14.5175869
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89866622989273,
+            "lng": 14.51895542989272
+          },
+          "southwest": {
+            "lat": 35.89596657010728,
+            "lng": 14.51625577010728
+          }
+        }
+      },
+      "name": "Lower Barrakka Gardens",
+      "rating": 4.6,
+      "user_ratings_total": 7623
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.8977699,
+          "lng": 14.5082216
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89904002989272,
+            "lng": 14.50967662989272
+          },
+          "southwest": {
+            "lat": 35.89634037010727,
+            "lng": 14.50697697010728
+          }
+        }
+      },
+      "name": "Hastings Garden Malta",
+      "rating": 4.6,
+      "user_ratings_total": 861
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.8637537,
+          "lng": 14.502813
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.86518032989272,
+            "lng": 14.5046863
+          },
+          "southwest": {
+            "lat": 35.86248067010728,
+            "lng": 14.5009688
+          }
+        }
+      },
+      "name": "Ġnien is-Serenità"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.8923693,
+          "lng": 14.5028429
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89359942989272,
+            "lng": 14.50454172989272
+          },
+          "southwest": {
+            "lat": 35.89089977010727,
+            "lng": 14.50184207010728
+          }
+        }
+      },
+      "name": "Ġnien tal-Argotti ",
+      "rating": 4.4,
+      "user_ratings_total": 654
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.9037636,
+          "lng": 14.502176
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90550747325463,
+            "lng": 14.50819568110199
+          },
+          "southwest": {
+            "lat": 35.90121706348624,
+            "lng": 14.49611204828809
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "Manoel Island",
+      "photos": [
+        {
+          "height": 1860,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112848986407979988091\">Benjamin Pullicino</a>"
+          ],
+          "photo_reference": "ATtYBwKKr6Ixq7xhxh3Yu_61XGo_byToftXaA8beQKIqdALZYwHEY3ZbTugU_06Xi3uRIequV615HbcMxiDo_S6LuiUXMRJN4kJ7Iy9KHoI2_N9oj0hFMoOxOwmdwJrCHD186jFpdNlBTdAZoF7tP65VOXEEBPcAH6dtrPAuVjWSuOi8S_3H",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJAai-OTFFDhMRjxAahCLPOXw",
+      "rating": 4.2,
+      "reference": "ChIJAai-OTFFDhMRjxAahCLPOXw",
+      "scope": "GOOGLE",
+      "types": ["natural_feature", "establishment"],
+      "user_ratings_total": 115,
+      "vicinity": "Gzira"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8521402,
+          "lng": 14.3853723
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.85350452989273,
+            "lng": 14.38671932989272
+          },
+          "southwest": {
+            "lat": 35.85080487010728,
+            "lng": 14.38401967010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name": "Dingli Cliffs",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102641139150793677767\">Krzysiek</a>"
+          ],
+          "photo_reference": "ATtYBwJ_37jM63Dugx0MPZinxso55sp7iUdbgvL_cxhdVlSYwj-yoAVKgT3zmNILBVWVBmDym0kCwjuJx_uwUhsB6uc4m78bEvPULRFLLNmpBkinznbLKjojsJGDUQ4soWzYl_FPNp7NW5z55XqEnhgak4Kt6d49WCHHg3F_wiJfuqC1-51h",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJizWIRkJRDhMRNQqRo8pSjdc",
+      "plus_code": {
+        "compound_code": "V92P+V4 Ħad-Dingli",
+        "global_code": "8F7PV92P+V4"
+      },
+      "rating": 4.5,
+      "reference": "ChIJizWIRkJRDhMRNQqRo8pSjdc",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2277,
+      "vicinity": "Ħad-Dingli"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 35.884787,
+          "lng": 14.403527
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88613652989272,
+            "lng": 14.40487732989272
+          },
+          "southwest": {
+            "lat": 35.88343687010728,
+            "lng": 14.40217767010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "The Mdina Dungeons Museum",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 1106,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100998986074514131253\">Mdina Dungeons</a>"
+          ],
+          "photo_reference": "ATtYBwKDGT68hH3MIE3qCaPSx2VaKIiK8oijiZdj_Yg7j16RkMejB1i-ccyH4aQhNejY5gbf4Hgs2FCkWxhMRwAXBEPctAIDsZlo0ay_rvo0K6dn6TyeXrQ015HYR6OWZZOoOY_9LZwfOpTdQSvb6V5G-eWsHQd9SfX2MfWqAGLbtyqvkdIX",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJL5rOaJVRDhMR05kMVE2eQYs",
+      "plus_code": {
+        "compound_code": "VCM3+WC Mdina",
+        "global_code": "8F7PVCM3+WC"
+      },
+      "rating": 4.2,
+      "reference": "ChIJL5rOaJVRDhMR05kMVE2eQYs",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 209,
+      "vicinity": "St. Publius Square, L-Imdina"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.8338979,
+          "lng": 14.4168683
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.83524087989272,
+            "lng": 14.41820177989272
+          },
+          "southwest": {
+            "lat": 35.83254122010728,
+            "lng": 14.41550212010728
+          }
+        }
+      },
+      "name": "Xaqqa Cliffs",
+      "rating": 4.8,
+      "user_ratings_total": 5
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.9592309,
+          "lng": 14.3814565
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.96048777989272,
+            "lng": 14.38280377989272
+          },
+          "southwest": {
+            "lat": 35.95778812010727,
+            "lng": 14.38010412010728
+          }
+        }
+      },
+      "name": "Selmun Palace",
+      "rating": 4.2,
+      "user_ratings_total": 401
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.9035649,
+          "lng": 14.3787894
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90491472989272,
+            "lng": 14.38013922989272
+          },
+          "southwest": {
+            "lat": 35.90221507010728,
+            "lng": 14.37743957010728
+          }
+        }
+      },
+      "name": "Victoria Lines",
+      "rating": 4.6,
+      "user_ratings_total": 550
+    },
+
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9609375,
+          "lng": 14.341154
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.96231357989272,
+            "lng": 14.34250087989272
+          },
+          "southwest": {
+            "lat": 35.95961392010727,
+            "lng": 14.33980122010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Popeye Village",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116138663805743786209\">marek mario</a>"
+          ],
+          "photo_reference": "ATtYBwL_MFjTtJCYHwmalYwLw9kN73XGIF1XwOGKMQ-tm2N_De0eybEeaedeIY99npeHGP3wNJnGFLzRhGDTUEKmdMoKyFuiJWzt5oPnaKVLoHN4RcHfhuZyRi0BbWaRdNAJ1XeoYMLL3GR2DPiJDs9a3JC7MQJuP__8iGqf3MNVopa_-pFw",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJBxs5A1NMDhMRAVSi27Sewns",
+      "plus_code": {
+        "compound_code": "X86R+9F Mellieha",
+        "global_code": "8F7PX86R+9F"
+      },
+      "rating": 4.3,
+      "reference": "ChIJBxs5A1NMDhMRAVSi27Sewns",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "amusement_park",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14738,
+      "vicinity": "Triq Tal-Prajjet, Il-Mellieħa"
+    },
+
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8210156,
+          "lng": 14.4566238
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.82282872989272,
+            "lng": 14.45760452989272
+          },
+          "southwest": {
+            "lat": 35.82012907010727,
+            "lng": 14.45490487010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Blue Grotto",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 2685,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116521686287835707326\">Maria Kohlhase</a>"
+          ],
+          "photo_reference": "ATtYBwLZkMLVcM4h3Exs6wQXp5_ckp7YnEg3O2uYnFuDMBPaiAsIWX9SwZJE5X1mQSQPLBM4KJc9ukOli9fyyoGBXZN6SQmbQ-qlvRvd33W9ascf2-g2Xh_SZ9bxHrzYVeax-O1imuk-scxHPaMG4ELUBB2YcdwyV-PdzT5lcmm7_NiQAir-",
+          "width": 3959
+        }
+      ],
+      "place_id": "ChIJVVVVybNQDhMRQT1A5vzDQZo",
+      "plus_code": {
+        "compound_code": "RFC4+CJ Qrendi",
+        "global_code": "8F7PRFC4+CJ"
+      },
+      "rating": 4.6,
+      "reference": "ChIJVVVVybNQDhMRQT1A5vzDQZo",
+      "scope": "GOOGLE",
+      "types": ["tourist_attraction", "point_of_interest", "establishment"],
+      "user_ratings_total": 5870,
+      "vicinity": "Blue Grotto"
+    }
+  ],
+  "status": "OK"
+}

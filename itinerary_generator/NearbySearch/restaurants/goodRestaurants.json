@@ -1,0 +1,354 @@
+{
+  "html_attributions": [],
+  "next_page_token": "ATtYBwLL4oV6jFAEoucTN03zOaQMoXyWt-fCxb7booqUWUXT8tVJW6U4kvJACfNLZsQq3t1rfBda5zEbpTF6M0_7MR8Tpa_oQyjJrQjiOAXoXjlDo3ZSQaJfXFoIgiIiINiwquyRglIEvt2M-5nT20rfG3j1uIQd86L5iHmNwZouJRXRHon3lob6C8zPExC2SHnEuRBIyPyOpPb-w8Ks9boWUnmckwrD-JOFSfY0azJcKCl56pgLexVJndk1rl6wXZX7YYUvGUgWLz0GGZo3_e9uBE5p5hd8Ifo_hVZHEk9qBilOMYnWuE4Qr3dlxZWt_Np1wIIqbRQ6cqPVowvBIGnahSO8kRDozTYcSWKJvVsqMLLTqqBlxt3Tk6hJox_T1DCytKTdtDtEYE9654IbyKY79UK1hPLfIYvjHSDoXJXKnvBnH0lxbxhUF4YStg0LFZFZI3v4n9hG2oyHZw",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.91522459999999,
+          "lng": 14.4950825
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91654197989271,
+            "lng": 14.49641962989272
+          },
+          "southwest": {
+            "lat": 35.91384232010727,
+            "lng": 14.49371997010728
+          }
+        }
+      },
+      "name": "Piccolo Padre Restaurant",
+      "price_level": 2,
+      "rating": 4.4,
+      "user_ratings_total": 1146
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.89731099999999,
+          "lng": 14.493866
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89867927989273,
+            "lng": 14.49520477989272
+          },
+          "southwest": {
+            "lat": 35.89597962010728,
+            "lng": 14.49250512010728
+          }
+        }
+      },
+      "name": "Mamma Mia Restaurant",
+      "price_level": 2,
+      "rating": 4.5,
+      "user_ratings_total": 3095
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.9506874,
+          "lng": 14.4145746
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.95204812989272,
+            "lng": 14.41588482989272
+          },
+          "southwest": {
+            "lat": 35.94934847010728,
+            "lng": 14.41318517010728
+          }
+        }
+      },
+      "name": "O'Reilly's Gastro pub",
+      "price_level": 2,
+      "rating": 4.4,
+      "user_ratings_total": 653
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.9147461,
+          "lng": 14.4968249
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91609887989272,
+            "lng": 14.49812952989272
+          },
+          "southwest": {
+            "lat": 35.91339922010727,
+            "lng": 14.49542987010728
+          }
+        }
+      },
+      "name": "Fresco's Cafe & Restaurant",
+      "price_level": 2,
+      "rating": 4.3,
+      "user_ratings_total": 1436
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.9241143,
+          "lng": 14.490055
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92549527989272,
+            "lng": 14.49137397989272
+          },
+          "southwest": {
+            "lat": 35.92279562010727,
+            "lng": 14.48867432010728
+          }
+        }
+      },
+      "name": "NapolEat",
+      "rating": 4.4,
+      "user_ratings_total": 406
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.94938,
+          "lng": 14.4109873
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.95073897989272,
+            "lng": 14.41233427989272
+          },
+          "southwest": {
+            "lat": 35.94803932010727,
+            "lng": 14.40963462010728
+          }
+        }
+      },
+      "name": "Made in Sud",
+      "price_level": 2,
+      "rating": 4.7,
+      "user_ratings_total": 973
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.9221008,
+          "lng": 14.4910367
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92345092989272,
+            "lng": 14.49236492989272
+          },
+          "southwest": {
+            "lat": 35.92075127010727,
+            "lng": 14.48966527010728
+          }
+        }
+      },
+      "name": "Hermanos Burger",
+      "rating": 4.6,
+      "user_ratings_total": 456
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.9227223,
+          "lng": 14.4909212
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92407112989272,
+            "lng": 14.49231227989272
+          },
+          "southwest": {
+            "lat": 35.92137147010728,
+            "lng": 14.48961262010728
+          }
+        }
+      },
+      "name": "Il Pirata Restaurant",
+      "price_level": 2,
+      "rating": 4.4,
+      "user_ratings_total": 919
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.9688997,
+          "lng": 14.3506975
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.97022692989272,
+            "lng": 14.35200022989272
+          },
+          "southwest": {
+            "lat": 35.96752727010728,
+            "lng": 14.34930057010728
+          }
+        }
+      },
+      "name": "Il Pirata Mellieha Bay",
+      "rating": 4.4,
+      "user_ratings_total": 456
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.9243774,
+          "lng": 14.4887094
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92573542989272,
+            "lng": 14.49015532989272
+          },
+          "southwest": {
+            "lat": 35.92303577010728,
+            "lng": 14.48745567010728
+          }
+        }
+      },
+      "name": "Hugo's Pizza & Pasta",
+      "price_level": 2,
+      "rating": 4.4,
+      "user_ratings_total": 271
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.8871467,
+          "lng": 14.4037212
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88846807989272,
+            "lng": 14.40505092989272
+          },
+          "southwest": {
+            "lat": 35.88576842010728,
+            "lng": 14.40235127010728
+          }
+        }
+      },
+      "name": "Fontanella Tea Garden",
+      "price_level": 2,
+      "rating": 4.4,
+      "user_ratings_total": 5721
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.8884803,
+          "lng": 14.5203452
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88981737989273,
+            "lng": 14.52165052989272
+          },
+          "southwest": {
+            "lat": 35.88711772010728,
+            "lng": 14.51895087010728
+          }
+        }
+      },
+      "name": "Don Berto Restaurant",
+      "price_level": 2,
+      "rating": 4.2,
+      "user_ratings_total": 586
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.9540173,
+          "lng": 14.4183966
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.95536352989272,
+            "lng": 14.41973107989272
+          },
+          "southwest": {
+            "lat": 35.95266387010728,
+            "lng": 14.41703142010728
+          }
+        }
+      },
+      "name": "Carvv Steakhouse",
+      "rating": 4.7,
+      "user_ratings_total": 262
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.89933240000001,
+          "lng": 14.5127162
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90077357989272,
+            "lng": 14.51402022989272
+          },
+          "southwest": {
+            "lat": 35.89807392010728,
+            "lng": 14.51132057010728
+          }
+        }
+      },
+      "name": "Taproom",
+      "price_level": 2,
+      "rating": 4.5,
+      "user_ratings_total": 726
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.9148199,
+          "lng": 14.504701
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91616877989272,
+            "lng": 14.50601647989272
+          },
+          "southwest": {
+            "lat": 35.91346912010727,
+            "lng": 14.50331682010728
+          }
+        }
+      },
+      "name": "La Cuccagna",
+      "price_level": 2,
+      "rating": 4.5,
+      "user_ratings_total": 343
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.9126486,
+          "lng": 14.5067384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91399887989272,
+            "lng": 14.50812242989272
+          },
+          "southwest": {
+            "lat": 35.91129922010727,
+            "lng": 14.50542277010728
+          }
+        }
+      },
+      "name": "Marrobbio Restaurant",
+      "rating": 4.4,
+      "user_ratings_total": 501
+    }
+  ],
+  "status": "OK"
+}

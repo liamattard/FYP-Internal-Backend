@@ -15,7 +15,7 @@ def scene_detection(img_url):
     arch = "resnet18"
 
     # load the pre-trained weights
-    model_file = "%s_places365.pth.tar" % arch
+    model_file = "image_classifier/%s_places365.pth.tar" % arch
     if not os.access(model_file, os.W_OK):
         weight_url = "http://places2.csail.mit.edu/models_places365/" + model_file
         os.system("wget " + weight_url)

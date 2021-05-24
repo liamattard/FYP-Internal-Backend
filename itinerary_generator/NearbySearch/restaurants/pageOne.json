@@ -1,0 +1,456 @@
+{
+  "html_attributions": [],
+  "next_page_token": "ATtYBwLL4oV6jFAEoucTN03zOaQMoXyWt-fCxb7booqUWUXT8tVJW6U4kvJACfNLZsQq3t1rfBda5zEbpTF6M0_7MR8Tpa_oQyjJrQjiOAXoXjlDo3ZSQaJfXFoIgiIiINiwquyRglIEvt2M-5nT20rfG3j1uIQd86L5iHmNwZouJRXRHon3lob6C8zPExC2SHnEuRBIyPyOpPb-w8Ks9boWUnmckwrD-JOFSfY0azJcKCl56pgLexVJndk1rl6wXZX7YYUvGUgWLz0GGZo3_e9uBE5p5hd8Ifo_hVZHEk9qBilOMYnWuE4Qr3dlxZWt_Np1wIIqbRQ6cqPVowvBIGnahSO8kRDozTYcSWKJvVsqMLLTqqBlxt3Tk6hJox_T1DCytKTdtDtEYE9654IbyKY79UK1hPLfIYvjHSDoXJXKnvBnH0lxbxhUF4YStg0LFZFZI3v4n9hG2oyHZw",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9103222,
+          "lng": 14.4244274
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91170652989273,
+            "lng": 14.42582857989272
+          },
+          "southwest": {
+            "lat": 35.90900687010728,
+            "lng": 14.42312892010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Ta' Marija Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102734736545315228298\">yair chaitman</a>"
+          ],
+          "photo_reference": "ATtYBwJ_kEGXjvN258SOlB7aw17Rp6mik1jE9VxrLqt-JCYqWu8PaVfLaD2fPgnJCY9eW4Rj5j-_krvIJM4UG0n4NUhqCKjzpJT3B1yMYPD8HDHAtkBC9OAYtWHnNDWcOPwXan9XutviSFb3Dr_akePWFwl1AhBVn6gEnt3mC6L11EIvtT3H",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJnRvlJCVODhMRHwFE4jPEcNI",
+      "plus_code": {
+        "compound_code": "WC6F+4Q Mosta",
+        "global_code": "8F7PWC6F+4Q"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJnRvlJCVODhMRHwFE4jPEcNI",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 734,
+      "vicinity": "Constitution Street Mosta MT MST, 9058, Constitution St, Mosta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9091173,
+          "lng": 14.5063778
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91051097989273,
+            "lng": 14.50768542989272
+          },
+          "southwest": {
+            "lat": 35.90781132010729,
+            "lng": 14.50498577010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Ta' Kris",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115314458825035048020\">Tóbi Csaba</a>"
+          ],
+          "photo_reference": "ATtYBwLrbdZirdS-HNLpvTBMbS4I_HC9T4VFJVBgwzuiCRMOAJln3qA2qAv1PYuZIsSyzQMH1O1zJuuZCs5KqQyS_hE9Cs40IjVZskvlfLeymDX0LtcmHV-N-Ckbt2R3j0wyxfHbr-NJOcqp5gDIaJgXYHvg4sKBFhFaJ-Lc8tYFXPwzJKO1",
+          "width": 2976
+        }
+      ],
+      "place_id": "ChIJsxP52TpFDhMRiDrlm6ZIwT8",
+      "plus_code": {
+        "compound_code": "WG54+JH Sliema",
+        "global_code": "8F7PWG54+JH"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJsxP52TpFDhMRiDrlm6ZIwT8",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 2597,
+      "vicinity": "80 Fawwara Ln, Sliema"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8992154,
+          "lng": 14.5119865
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90054897989272,
+            "lng": 14.51334832989272
+          },
+          "southwest": {
+            "lat": 35.89784932010728,
+            "lng": 14.51064867010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Rubino",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3008,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111567912246828088820\">Halcyon Flowers</a>"
+          ],
+          "photo_reference": "ATtYBwJYL2r-leIo1q9WBy4uEDYoEiY7SOpNO-3n3z_hPe3qm6VLhB7ionfMjAvw1rDh-AgYUS4zbv7afgVmFeEFS2Rp7690B_IpGYHDTIsaQWtgyvARsS-m71KnGxeE2FYv2MAenfOnFWaABb1uMmAkgp8glsJ7BI-TGzksRgA_q1hi9qNA",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJVxzLnStFDhMRRAT7ht56b9U",
+      "plus_code": {
+        "compound_code": "VGX6+MQ Valletta",
+        "global_code": "8F7PVGX6+MQ"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJVxzLnStFDhMRRAT7ht56b9U",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 276,
+      "vicinity": "53 Old Bakery Street, Il-Belt Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.899054,
+          "lng": 14.516344
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90039487989272,
+            "lng": 14.51768047989272
+          },
+          "southwest": {
+            "lat": 35.89769522010728,
+            "lng": 14.51498082010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Nenu The Artisan Baker",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107649486744573656130\">Jola Borys</a>"
+          ],
+          "photo_reference": "ATtYBwIjXcbZpMgjhwwlF1uYjDxUYn0vWYZ2HHa0AU977IFaZSfZSrcGhHACZbwTXFdXVQ3USmREcTzUZrLIFz-YazIfhazLCvbHDa2yDP6-l_YjjbDqBdWJ2vLr_-yft2oFOStX59SAG1CJeXLLi_wsu478UDYhnYDq8xjgGkjmIP4HXZiX",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ5SPvMypFDhMRZF1SY0v6BHc",
+      "plus_code": {
+        "compound_code": "VGX8+JG Valletta",
+        "global_code": "8F7PVGX8+JG"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJ5SPvMypFDhMRZF1SY0v6BHc",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 1097,
+      "vicinity": "143 St Domnic Street, Valletta"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 35.908175,
+          "lng": 14.500678
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90948897989273,
+            "lng": 14.50204082989272
+          },
+          "southwest": {
+            "lat": 35.90678932010728,
+            "lng": 14.49934117010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Il-Malti",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 1056,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101014858432790512017\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwLsT2nUXMhWbinFBCv178-NF6WKTTq9zsWJooo1dnkSLfobnYYC7g_HC11cRqeYI3RnfBJW1NyFckBQrRz2SvFn6LqXd62DkryYcobZBuNEarkdznahWupJLGz_sh6aQ5xGLeQTT6_fGGed4cBV9mpv7A0ZJpStJHs-dy8hixeXeuDf",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJ4aQk7jlFDhMRbqZTIGirUHc",
+      "plus_code": {
+        "compound_code": "WG52+77 Sliema",
+        "global_code": "8F7PWG52+77"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJ4aQk7jlFDhMRbqZTIGirUHc",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 647,
+      "vicinity": "The Strand, 96, Tas-Sliema"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 35.9197277,
+          "lng": 14.4911874
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92107752989272,
+            "lng": 14.49253722989272
+          },
+          "southwest": {
+            "lat": 35.91837787010728,
+            "lng": 14.48983757010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Gululu Restaurant",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116571355083578923271\">Gululu</a>"
+          ],
+          "photo_reference": "ATtYBwKJ9EsJ2MbVyT-_sX_Cdu3o4wxN1LjrdqqoJSsZrmgAOSBcPxibGHpB264Vs1-ZM9BbjdmZymAWFnlZwj0pj2ehCr-mhBd0PvZvrkA-e2xVnN_CN4GvebOGCVCDivOdNWPk2bojq-jnDg2vZB78ey1VUkA7JEk2w48EFS5W8vGfZhbD",
+          "width": 2268
+        }
+      ],
+      "place_id": "ChIJPxcDDWpFDhMRu48v6uNZo3E",
+      "plus_code": {
+        "compound_code": "WF9R+VF St Julian's",
+        "global_code": "8F7PWF9R+VF"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJPxcDDWpFDhMRu48v6uNZo3E",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 1950,
+      "vicinity": "133, Spinola bay, St Julians Road, San Ġiljan"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 35.9095109,
+          "lng": 14.5038848
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91085967989272,
+            "lng": 14.50522972989272
+          },
+          "southwest": {
+            "lat": 35.90816002010727,
+            "lng": 14.50253007010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Il-Merill",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101621587736322849490\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwKziuF77Eq8U5ilmSNR_iFJbkyOSG9Ffegeha92JB-bMBYnOQmzETs_9SC_g6fk4T2gQOv2mXJ5_dtLL_5fnxucZ-PPYIOEePQFjbnO_JA21VkKJ8WRTZTTPWJqFatDJncdR5MXuhObmk8MCtnx_j-W4dtN7MaUMNM7DV9mY9J2CD-D",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJnSFLUjpFDhMRuCYKcsaY1qo",
+      "plus_code": {
+        "compound_code": "WG53+RH Sliema",
+        "global_code": "8F7PWG53+RH"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJnSFLUjpFDhMRuCYKcsaY1qo",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 458,
+      "vicinity": "Triq San Vincenz, Tas-Sliema"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8992335,
+          "lng": 14.511769
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90056987989273,
+            "lng": 14.51309607989272
+          },
+          "southwest": {
+            "lat": 35.89787022010729,
+            "lng": 14.51039642010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Legligin Wine Bar",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104699498021975589317\">Triptramper Scout</a>"
+          ],
+          "photo_reference": "ATtYBwJBrUm_oHgbnQB7YsOQ8dLN-GZa1kWhXn2JYWXBhq49DrK7cyfC5M_tVELXsX5mRkgUPOQQb-eFwtlNUiJN2zZp7HiTpdlPU6ezMKL_9R1IxlR3AN5rQxIwg9gzguSluRgGaZ77-rlC_ksUko9dbsCBB-UOxSJ0lflmOHkCkl7F8N2s",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ_5fOaixFDhMROdxofdFPLCs",
+      "plus_code": {
+        "compound_code": "VGX6+MP Valletta",
+        "global_code": "8F7PVGX6+MP"
+      },
+      "price_level": 2,
+      "rating": 4.7,
+      "reference": "ChIJ_5fOaixFDhMROdxofdFPLCs",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 668,
+      "vicinity": "Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9003858,
+          "lng": 14.5117194
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90170482989272,
+            "lng": 14.51309932989272
+          },
+          "southwest": {
+            "lat": 35.89900517010727,
+            "lng": 14.51039967010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Zizka",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3780,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115364791963158566082\">Kirsten Portelli</a>"
+          ],
+          "photo_reference": "ATtYBwLzbOdmXa3REe9wuI0SOb_bU156GhiJIX3KxSEt6SU3otG81UIBBc6Zl3aMSza2pY2dUP0gHEVueKWNjN3tSFw7biB98_rK9mY71BWI6hd1aQLxqSP6pKKzIwCKRkQ2nrnzdt2Y5SrQW_4skCu8aUts62ft9gXIIUWKPS4vXQCaAvtl",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJlecFcYhFDhMROVWyRej_zxo",
+      "plus_code": {
+        "compound_code": "WG26+5M Valletta",
+        "global_code": "8F7PWG26+5M"
+      },
+      "rating": 4.7,
+      "reference": "ChIJlecFcYhFDhMROVWyRej_zxo",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 210,
+      "vicinity": "42a West Street, Il-Belt Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8986415,
+          "lng": 14.5111238
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89999362989272,
+            "lng": 14.51247137989272
+          },
+          "southwest": {
+            "lat": 35.89729397010728,
+            "lng": 14.50977172010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "guzé bistro",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117431996451810073584\">Tsiolis Nikos</a>"
+          ],
+          "photo_reference": "ATtYBwKZeK24bcTVBrsYeSRANwVPJ2-OWuTd2pJ1seMobEZZFP7UorV7vDa6kWce6jTXZhxy79hX76QQjcPd9qdZUemw4SLQmKat2BS_aj_a29q_L4aZtNpe8gGHZ_6hACBMv9vM4oU9b7R7PJxGDF03neiFb25DbwuDG9PRHaJvubnn9bH4",
+          "width": 4898
+        }
+      ],
+      "place_id": "ChIJsRrSRCxFDhMR71MZuBEislg",
+      "plus_code": {
+        "compound_code": "VGX6+FC Valletta",
+        "global_code": "8F7PVGX6+FC"
+      },
+      "rating": 4.4,
+      "reference": "ChIJsRrSRCxFDhMR71MZuBEislg",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 334,
+      "vicinity": "22 Old Bakery Street, Il-Belt Valletta"
+    }
+  ],
+  "status": "OK"
+}

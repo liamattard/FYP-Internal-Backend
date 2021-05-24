@@ -1,0 +1,508 @@
+{
+  "html_attributions": [],
+  "next_page_token": "ATtYBwLvfDzff9x_z6XenxompJpJxNZuXAoiIWOtjpz38n95u_bRaSjImDK5l1Vd6ZWrTMUwkelpPvFp4E0uXNzIFe38mShNiv2ymzrFo2Z2XnvJK3egJE9-hGVVUuaTDZkRMUkPtDiFju2iDRkWseC8KrzENu4KMWeKYIBuhe8zLOoX8bM0WTNm9hXb2g4YTLL-E8mb-KjY9nMT8pfRRQ4LZWUygO9zW2cTaIHTOkCXM2uwXl5iVoMnS5ZOqMGWKta4x-gGGJxCLGnec6a6KO89ZL9LT5hIR27TNPb2HXA0rm01LmH28hq1WDYNEdkgv686L-TDDuzwfu4LlZ-4d_8Y2KDReXlTHLqWOI04Hbq113matYVU6BBabyQn__KLLVf-XmoN8mdqE7h-niujVzvzUMyh6qQS3umDihA_-h9X9nPOZQbupNHF8-CaaRgSkGKTN8mZGrJeXW67z99JpCaEp1HX61Q127D8cxBMEYJoPGNHc95UTTrpseQPww2IT0nnA_m8k5oCNyR3xaWjq48RsSkyxpwvQEnq9jcnXIMMzPbgBOahe3yfDZzut762rCMBw5On96KCmieF8ETGK45o84FS1P6AtlxZ5aN6tkJprJxxuVtlVFtBglREeqKhWatTz93cyx42XUjU0V63UZC8JNlSUw",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.91364,
+          "lng": 14.443888
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91499462989272,
+            "lng": 14.44522402989272
+          },
+          "southwest": {
+            "lat": 35.91229497010728,
+            "lng": 14.44252437010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Sally Port - Caffe & Pizzeria",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107801799179789724570\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwIZTX4u9q7hXb77wSwRM2f8EpdVxD0q__Civ6RSNU3JTtPnTi8G54MhljlUZYjK3qBQWS9XGyLtg-YXEHfMG8-b6Io67qPVsIw9Fug1WxdTwaFcMBsWFGdxJbNZ_aztkp6fkwF6W5gjB6ehdMLoe4gjqCGHGSfveyWcJChPXMkj4m0",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJv0codmtFDhMRYjtLlKLFJoY",
+      "plus_code": {
+        "compound_code": "WG27+CX Valletta",
+        "global_code": "8F7PWG27+CX"
+      },
+      "rating": 4.8,
+      "reference": "ChIJv0codmtFDhMRYjtLlKLFJoY",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 266,
+      "vicinity": "102 St. Nicholas Street, Il-Belt Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.890723,
+          "lng": 14.442944
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89209402989272,
+            "lng": 14.44425632989272
+          },
+          "southwest": {
+            "lat": 35.88939437010728,
+            "lng": 14.44155667010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Saracino's Cafe`",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100933893912758717440\">Gianmassimo Corona</a>"
+          ],
+          "photo_reference": "ATtYBwLdM_aKo-RqomX_3mzS_Nvf8UGSNwOx3vWP57M0x4IZZ7w3yEEJP7faDvdAfP-wImCvCriKpTOhFcLuMyTkztUzpkWQOCHBR15eNUrXJZqG_pB7phMbqe_GfF_5KH6kVKfW8gwm1jLqnu0OzLV5Y8Oz52G596LskyBGxJHImh610cDk",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJVeFJfDtQDhMRDzN7sxXO7Uc",
+      "plus_code": {
+        "compound_code": "VCRV+75 Attard",
+        "global_code": "8F7PVCRV+75"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJVeFJfDtQDhMRDzN7sxXO7Uc",
+      "scope": "GOOGLE",
+      "types": ["cafe", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 701,
+      "vicinity": "Triq Il-Kbira, Ħ'Attard"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9036239,
+          "lng": 14.4356103
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90500657989272,
+            "lng": 14.43684827989272
+          },
+          "southwest": {
+            "lat": 35.90230692010728,
+            "lng": 14.43414862010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Cafe Cuba",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105811531371626560002\">Rubén</a>"
+          ],
+          "photo_reference": "ATtYBwLReqocZ7tmKABS8OesAanVk2pFb02TkvYOC414bdM1paJwouIzC-iZQ05oQnEBpC3f-Cggvqn3QoDcuOUbijrfjlr2prEpts19CEj6AaLxVdzX0vuFuVqAb7GuUz9Uaul_3BcDtSqDrgdP1slqUMB0kMUaLUylMqPBfcKC6AyZ3ubG",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJlScdOChQDhMRQF1uXp8-p9I",
+      "plus_code": {
+        "compound_code": "WC3P+C6 Mosta",
+        "global_code": "8F7PWC3P+C6"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJlScdOChQDhMRQF1uXp8-p9I",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1815,
+      "vicinity": "Pama Shopping Village, Valletta Road, Mosta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.89665,
+          "lng": 14.445653
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89798447989272,
+            "lng": 14.44704962989272
+          },
+          "southwest": {
+            "lat": 35.89528482010728,
+            "lng": 14.44434997010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "The president's Kitchen Garden",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2977,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111601568455739196529\">Michael Borg</a>"
+          ],
+          "photo_reference": "ATtYBwIq-U2F1F05tcP7hiORYey6FkKQ3g6zVJ_3RM1eBDuEJZe-usqaM3P6F01g9bVuK74YG5G9KD2x4YS2CLZRCOlNmuflvzIt1ueUn2D5Cyi5oTGJ9CidCzcA9_K59WAd42UlDI9gAKOC6j_o-HqzTmNFFIBNV-hNTa7oc6DPhcAGz5PX",
+          "width": 4001
+        }
+      ],
+      "place_id": "ChIJg_z4ySNQDhMRto2jft6gYN8",
+      "plus_code": {
+        "compound_code": "VCWW+M7 Attard",
+        "global_code": "8F7PVCWW+M7"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJg_z4ySNQDhMRto2jft6gYN8",
+      "scope": "GOOGLE",
+      "types": ["cafe", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 544,
+      "vicinity": "St Anthony St, Attard"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9088668,
+          "lng": 14.5060111
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91023627989271,
+            "lng": 14.50733052989272
+          },
+          "southwest": {
+            "lat": 35.90753662010727,
+            "lng": 14.50463087010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Giorgio's",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102273167872458792515\">Stern Anastasia</a>"
+          ],
+          "photo_reference": "ATtYBwJZrYLdI0yJF6PT_vxFy3QUSWekScq_OYyJMk4hYF7aTwIdqd-P4CE7kYLpj4U4tU5DDC72rf5XhMd189JjyD9hFwqgRGOkpk9FCMpmqbbttzTq-ybQ61HZK1Gamb11YJkhWyWnPbXsQ4wXc0T38uSJ9Ix3_X4RNpDid5dNYnHARMPj",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJRbKw3TpFDhMRQ0AxIyToN8s",
+      "plus_code": {
+        "compound_code": "WG54+GC Sliema",
+        "global_code": "8F7PWG54+GC"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJRbKw3TpFDhMRQ0AxIyToN8s",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 941,
+      "vicinity": "Tigné Seafront, Tas-Sliema"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8901299,
+          "lng": 14.4701278
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89152962989272,
+            "lng": 14.47154532989272
+          },
+          "southwest": {
+            "lat": 35.88882997010728,
+            "lng": 14.46884567010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Busy Bee Cafe",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110934266015792441315\">Pierre Darmanin</a>"
+          ],
+          "photo_reference": "ATtYBwJUFcOj7NdfFFvQC4w0UUFxTqbXABRyeOxTsQwApQ2uM-pQEVfvSCHSxG2LSqcPwBeJkax7s8NO66NFnzyTRmgpeKe86sS2X8mVWz9gLKIX8X50IOHhjyaSb-ODgwwG73GxOtvu0h31pD1LpOc3Zz5e_npQVndC7c9k53aO9xr61rkl",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJt_jZ1gdQDhMRMeTeKV0-_pQ",
+      "plus_code": {
+        "compound_code": "VFRC+33 Birkirkara",
+        "global_code": "8F7PVFRC+33"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJt_jZ1gdQDhMRMeTeKV0-_pQ",
+      "scope": "GOOGLE",
+      "types": ["cafe", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 1601,
+      "vicinity": "Zone 4, Central Business District Birkirkara CBD"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.907104,
+          "lng": 14.510825
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90845382989271,
+            "lng": 14.51217482989272
+          },
+          "southwest": {
+            "lat": 35.90575417010727,
+            "lng": 14.50947517010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "French Affaire",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106209915565080914269\">Emma The Quilter</a>"
+          ],
+          "photo_reference": "ATtYBwLtkXq8y0Tblo5ZvkaZRpim_Rv-Kyb9a3wt9qyZzunh2e54cpxB3oBdsbboDFHVOYw2Sh8PbAMXe_2gxcrij2udysoAX0MPmwnBJOqiYRHnuQ29kzb_yoyjx8objiUGegaZlJoMX3Gyieit8_oeyk4LKKd8GtjCAhIwHSnnLIZQ6QLn",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJVTrrmSVFDhMRpoTlEa6JJM8",
+      "plus_code": {
+        "compound_code": "WG46+R8 Sliema",
+        "global_code": "8F7PWG46+R8"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJVTrrmSVFDhMRpoTlEa6JJM8",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 657,
+      "vicinity": "The Point, Tigne Point, Tas-Sliema"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9002132,
+          "lng": 14.5158074
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90158492989272,
+            "lng": 14.51713717989272
+          },
+          "southwest": {
+            "lat": 35.89888527010728,
+            "lng": 14.51443752010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Gugar Hangout & BAR",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109448591776807510071\">Ujjwala Harshavardhan</a>"
+          ],
+          "photo_reference": "ATtYBwKW3S-zqGwcoXlika9hfGJfzrXeJ2cN2nk8NDFBuQ2ztRK4OZSnEfG-OmAwV-sNoRn7fPx94BNHmhofxs6U2bli-J3Q9UDhhZWBS7Mj7v4bNwlTSL_93VKwAgyg4uW2umCIiXp0CE2mGlJyPTzrKZtENYaJNqfM2QCBkGy47X8j1JwX",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJhash1itFDhMRr3wczeg0Tzw",
+      "plus_code": {
+        "compound_code": "WG28+38 Valletta",
+        "global_code": "8F7PWG28+38"
+      },
+      "price_level": 1,
+      "rating": 4.8,
+      "reference": "ChIJhash1itFDhMRr3wczeg0Tzw",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 494,
+      "vicinity": "89 Republic St, Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.89890949999999,
+          "lng": 14.5120674
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90024977989272,
+            "lng": 14.51340122989272
+          },
+          "southwest": {
+            "lat": 35.89755012010728,
+            "lng": 14.51070157010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Cafe Jubilee",
+      "photos": [
+        {
+          "height": 3480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105910586294271952838\">Alex Oanea</a>"
+          ],
+          "photo_reference": "ATtYBwKmhFeLvzOIKaABqQk3L82xfvZb1IYF3xDaordBo1xAJRAl4wCvM508miYF1xamor-SzhYmvuN3rz9NKGJPbq1g4B0_ry2Wp0bqPZPi4I4vRluntaGlDEIlKnxkqbLkw7uheLfT9Vnu2EtoKZqQA56s32RPqJSFmBd-Jumg2XWACVa2",
+          "width": 4640
+        }
+      ],
+      "place_id": "ChIJKbK0bSxFDhMR2Kl28WgpX6s",
+      "plus_code": {
+        "compound_code": "VGX6+HR Valletta",
+        "global_code": "8F7PVGX6+HR"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJKbK0bSxFDhMR2Kl28WgpX6s",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 793,
+      "vicinity": "Konvoj Ta' Sta Marija, Malta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9154411,
+          "lng": 14.5044
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91676392989272,
+            "lng": 14.50569037989272
+          },
+          "southwest": {
+            "lat": 35.91406427010727,
+            "lng": 14.50299072010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Il-Gabbana",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112966765322663353010\">Sebastián Bocha Bocchio Oguić</a>"
+          ],
+          "photo_reference": "ATtYBwI8O5eZEKiHNgMoAQWynLzSu3MQXjDuihG3egCKZkINki7kh1ZgNHm-abKPYVgr_KPyZlCcs3x2CumcUJ-Jibv8dH0ZbAuETVF_E5fl-OAajRr1QdulyBQfzT8-UkzALOuCVTAepV6r008uydkrdZpb_27J7WJZOO4O6a6o5215FdBX",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJE6o8qD1FDhMRvADVRJQUvh0",
+      "plus_code": {
+        "compound_code": "WG83+5Q Sliema",
+        "global_code": "8F7PWG83+5Q"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJE6o8qD1FDhMRvADVRJQUvh0",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1449,
+      "vicinity": "Tower Road, Sliema"
+    }
+  ],
+  "status": "OK"
+}

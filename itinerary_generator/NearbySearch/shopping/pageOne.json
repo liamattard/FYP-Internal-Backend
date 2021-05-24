@@ -1,0 +1,72 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9246952,
+          "lng": 14.4875574
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92587812989272,
+            "lng": 14.48888212989272
+          },
+          "southwest": {
+            "lat": 35.92317847010727,
+            "lng": 14.48618247010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "Bay Street Shopping Complex",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109222099761854630116\">Francesco D&#39;agostino</a>"
+          ],
+          "photo_reference": "ATtYBwKY6kD2V1BaSdnnebpEBqJYPNDh3PEyfhPI6r5kGgt3px9WAXUxi_TSc1bevTjtnZsyjsM-B5oU_4afh7k8ObgD-O5Ebsp4QEEVYjvTQ8tBchKMGBIqhzcyIr-H0p8oP_Iy_Vwz5-A6O39H1ZTeXD2724DSg4RBF_2FdxWaLozTlzvZ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJPfXmLWlFDhMRdPXKydEebEo",
+      "plus_code": {
+        "compound_code": "WFFQ+V2 St Julian's",
+        "global_code": "8F7PWFFQ+V2"
+      },
+      "rating": 4.1,
+      "reference": "ChIJPfXmLWlFDhMRdPXKydEebEo",
+      "scope": "GOOGLE",
+      "types": ["shopping_mall", "point_of_interest", "establishment"],
+      "user_ratings_total": 4338,
+      "vicinity": "Triq Sqaq Lourdes, San Ġiljan"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.90739000000001,
+          "lng": 14.5110714
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90873982989273,
+            "lng": 14.51242122989272
+          },
+          "southwest": {
+            "lat": 35.90604017010729,
+            "lng": 14.50972157010728
+          }
+        }
+      },
+      "name": "The Point",
+      "rating": 4.2,
+      "user_ratings_total": 7218
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,245 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8945999,
+          "lng": 14.5125217
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89615387989273,
+            "lng": 14.51396177989272
+          },
+          "southwest": {
+            "lat": 35.89345422010729,
+            "lng": 14.51126212010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "The Saluting Battery",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117488417943671542285\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwIz9veKiQFPGfx-MvXmA-kgxxnZUMWhj1mjoXE3qsCWkMFOTEnM2zcAcpqLzgW_8zM97h9RmdHMUIh7htNyRG1CjHyXuBNHLixAa5-sn9cpPECdDA1-ZfVS4GFSgEXoziOpfXyeu6fX-Wct4ha4Y9Y58o8HWaP8EUaf7MmEXXwW0NCi",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJU89VUNNaDhMRhj5xgaYBN7I",
+      "plus_code": {
+        "compound_code": "VGV7+R2 Valletta",
+        "global_code": "8F7PVGV7+R2"
+      },
+      "rating": 4.6,
+      "reference": "ChIJU89VUNNaDhMRhj5xgaYBN7I",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 379,
+      "vicinity": "Battery Street, Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.82658980000001,
+          "lng": 14.4365263
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.82852112989273,
+            "lng": 14.44838910000001
+          },
+          "southwest": {
+            "lat": 35.82582147010729,
+            "lng": 14.4281075
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Mnajdra",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105541525324107378296\">Renato Serra</a>"
+          ],
+          "photo_reference": "ATtYBwJgQ7WQaxhrQxZ1Ev6egbwxST5O2rII1CfhaeNn0WGCCemoRMI6fKgmFTPv_vUPamptPCduHxhXGbU9ZLwT06lp8nxxcDIeC82hNfl5NY190nM5_cSG28KuHv4LOzY8_uNN1AQSAgHvlvfRBV3QcaewnAaj67V1ptXp319Ped6gOizo",
+          "width": 900
+        }
+      ],
+      "place_id": "ChIJM3AMzNFQDhMRt-tQ3O0M25A",
+      "plus_code": {
+        "compound_code": "RCGP+JJ Qrendi",
+        "global_code": "8F7PRCGP+JJ"
+      },
+      "rating": 4.6,
+      "reference": "ChIJM3AMzNFQDhMRt-tQ3O0M25A",
+      "scope": "GOOGLE",
+      "types": ["tourist_attraction", "point_of_interest", "establishment"],
+      "user_ratings_total": 1317,
+      "vicinity": "Qrendi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8521402,
+          "lng": 14.3853723
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.85350452989273,
+            "lng": 14.38671932989272
+          },
+          "southwest": {
+            "lat": 35.85080487010728,
+            "lng": 14.38401967010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name": "Dingli Cliffs",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102641139150793677767\">Krzysiek</a>"
+          ],
+          "photo_reference": "ATtYBwIXMivr6iKztoBGUUbMwheeWevS1UiqrKAzuJyQfquAtiTIgtzk0pNrdvz0JuCM0HAhmG3gTG6mwmqH696a6GTw4TTan14CBX6ztOXywFwIgjUSq_cPo8jIwDJm-IncQOXemCEfxeN5N9ydRcvxgUCgEZlwgO63bnkfa6yGeVZEhUQe",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJizWIRkJRDhMRNQqRo8pSjdc",
+      "plus_code": {
+        "compound_code": "V92P+V4 Ħad-Dingli",
+        "global_code": "8F7PV92P+V4"
+      },
+      "rating": 4.5,
+      "reference": "ChIJizWIRkJRDhMRNQqRo8pSjdc",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2277,
+      "vicinity": "Ħad-Dingli"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8818832,
+          "lng": 14.3989918
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88329777989271,
+            "lng": 14.40034117989272
+          },
+          "southwest": {
+            "lat": 35.88059812010727,
+            "lng": 14.39764152010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "name": "Basilica Kolleġġjata u Proto-Parroċċa ta' San Pawl",
+      "photos": [
+        {
+          "height": 980,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104906359112523600099\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwLS9KNW6nZnaRgOXuzn0c-wpsQnZjRPcSSlwfGTRMpPhLOvdJMVJ_fteM2ol8KzQwd_ov2kORNk0yXNjs-ypUMSnA5mGly3qxRjML0reiBBNwBuaLIXAxKlnfXB2ksZ5ESeV_ARRjNBKfQ-7idh2mXb3Os3VYUMjV-CK3AQn9CE4TfE",
+          "width": 1500
+        }
+      ],
+      "place_id": "ChIJOeqpiJZRDhMRceQKKJdWuGY",
+      "plus_code": {
+        "compound_code": "V9JX+QH Rabat",
+        "global_code": "8F7PV9JX+QH"
+      },
+      "rating": 4.6,
+      "reference": "ChIJOeqpiJZRDhMRceQKKJdWuGY",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 605,
+      "vicinity": "64 Triq Ir-Rebha, Ir-Rabat"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8964431,
+          "lng": 14.4463108
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89809407989272,
+            "lng": 14.44747427989272
+          },
+          "southwest": {
+            "lat": 35.89539442010727,
+            "lng": 14.44477462010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "San Anton Palace",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105645528405185950689\">Horst Jagmeng</a>"
+          ],
+          "photo_reference": "ATtYBwLp54rLa_eLXomdtaiRihm7cm6J4rYih3PB9ACPp3hNG-U-905ciSnf8Pj08bzF1_OufN357S47LQpEUfwRcSUWAiXl0vu3k-BMhqzjVu-E5LQnE6lY7ycUwBGN0MMsydwEsd0OoTKYWeMPBMCTM4GIYAJx2o8VPKRmWd1QQFQcu4rd",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ8zcNSyJQDhMRrh_5V25W21U",
+      "plus_code": {
+        "compound_code": "VCWW+HG Attard",
+        "global_code": "8F7PVCWW+HG"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ8zcNSyJQDhMRrh_5V25W21U",
+      "scope": "GOOGLE",
+      "types": ["tourist_attraction", "point_of_interest", "establishment"],
+      "user_ratings_total": 610,
+      "vicinity": "24 G.Portelli, Ħ'Attard"
+    }
+  ],
+  "status": "OK"
+}
+

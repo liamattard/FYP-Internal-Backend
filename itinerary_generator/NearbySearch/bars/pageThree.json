@@ -1,0 +1,535 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.895546,
+          "lng": 14.511578
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89691002989272,
+            "lng": 14.51295217989272
+          },
+          "southwest": {
+            "lat": 35.89421037010728,
+            "lng": 14.51025252010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "The Beer Cave",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117579848186389850867\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwJ35IFBd2W8DW09vwNktjQGE330cZqja_QDJSAGdkROnoVzsIwHJO15XwK3ysoAcK_s---oaUncgzl9JfmqzSpIy_hsf8mLOJ9Yz6kaOfBPEQ82gU0Coo_UcPNw6-faQSDkX2ui0MiwzP_llmzSdkfCvyDFg4NylgsPg5nUBGCx5Jf0",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ7R8LyixFDhMRRZliC7QbHRk",
+      "plus_code": {
+        "compound_code": "VGW6+6J Valletta",
+        "global_code": "8F7PVGW6+6J"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJ7R8LyixFDhMRRZliC7QbHRk",
+      "scope": "GOOGLE",
+      "types": ["bar", "point_of_interest", "establishment"],
+      "user_ratings_total": 394,
+      "vicinity": "The Beer Cave Castille Hotel, Castille Square, Valletta, Malta, Il-Belt Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8975982,
+          "lng": 14.5095471
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89894707989272,
+            "lng": 14.51089532989272
+          },
+          "southwest": {
+            "lat": 35.89624742010727,
+            "lng": 14.50819567010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "The Queen Victoria City Pub, Valletta",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 766,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111895990063745345602\">Erment Shele</a>"
+          ],
+          "photo_reference": "ATtYBwLClDdSalQs0-ZmxDTnbvNcaqTngopbD_ejWm2P5ewwgdjJXfBVS46U1TE2fCbgeELiA3J4Fp7I7oKE8w1q5OFrg0E5RyZDqdYAOYjxZEGPaSdt3NXgT2rm9LeG0qGsWiSEL2ZTmETKSwi7ohuZPZwdzuDyXe0LgeSfpNwDKhjeJmop",
+          "width": 778
+        }
+      ],
+      "place_id": "ChIJ7SnUueRFDhMRSaHyc3eCxr8",
+      "plus_code": {
+        "compound_code": "VGX5+2R Valletta",
+        "global_code": "8F7PVGX5+2R"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJ7SnUueRFDhMRSaHyc3eCxr8",
+      "scope": "GOOGLE",
+      "types": ["bar", "point_of_interest", "establishment"],
+      "user_ratings_total": 746,
+      "vicinity": "20 South St Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9508907,
+          "lng": 14.4147306
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.95226012989272,
+            "lng": 14.41600922989272
+          },
+          "southwest": {
+            "lat": 35.94956047010728,
+            "lng": 14.41330957010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Monavale Pub",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108978532319912319343\">mark debono</a>"
+          ],
+          "photo_reference": "ATtYBwIfrScunniIzXLaw1_RPj6pnqD1dc4KU_GhJ6eT_ma3RXRLDLvJjVxD4sBhN9RzVYDx0gkBflRqXRIYyvO4XPpVwS-3BjtDHx-mGwm9vSxjQuKPAvzCl27G-KFI0TVK3FIvHN_C949lJDHvImhVJAvsN4i2LMa1wjv1H2nL0Gyp-sF9",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJd1IIGfhODhMRwllo0vVaLLU",
+      "plus_code": {
+        "compound_code": "XC27+9V St Paul's Bay",
+        "global_code": "8F7PXC27+9V"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJd1IIGfhODhMRwllo0vVaLLU",
+      "scope": "GOOGLE",
+      "types": ["bar", "point_of_interest", "establishment"],
+      "user_ratings_total": 335,
+      "vicinity": "Triq Halel, San Pawl il-Baħar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9243354,
+          "lng": 14.488902
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92569082989272,
+            "lng": 14.49029417989272
+          },
+          "southwest": {
+            "lat": 35.92299117010728,
+            "lng": 14.48759452010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "The Network (St Julians, Malta)",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1281,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113399989924007520421\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwLSdHzIBUO8seb7AmhOYwVvHqyFBYuIeGO8f4vJ78gYPSR_L1boTr7Vkg6zpM42Octo3dwXv_3SvyW5H5rfueg787dRtJKi2ROkFcDejNvvuR1rmLWa-_sK6Xzs33-z_BvnEE6uql-DGrNgonf6OSb63yDUhmRikbsHEXQdlEQ--X_K",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ2wv81D9FDhMRxe2rvsmCs2A",
+      "plus_code": {
+        "compound_code": "WFFQ+PH St Julian's",
+        "global_code": "8F7PWFFQ+PH"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ2wv81D9FDhMRxe2rvsmCs2A",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 180,
+      "vicinity": "The Axis complex Triq San Gorg St. Julians, Paceville"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.922635,
+          "lng": 14.490584
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92398252989272,
+            "lng": 14.49188882989272
+          },
+          "southwest": {
+            "lat": 35.92128287010728,
+            "lng": 14.48918917010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Alex House shot Bar",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117369119611040074855\">Alex House</a>"
+          ],
+          "photo_reference": "ATtYBwLDZd28z5kaFvSINtcYuUC3ErHfNkXWYu4R01sul5omKXIcFsHT55_FUHNRqAQR1NFIWvyGpQkoF0DpWAJ3MURCyGPVQd-bvXBZlJU2B_JF6SdQ2jIOZxIplArVzEwdwxK9dmmUgPogR1CHH5QDs9Qqecps628uX5bawYgNq5yrOygn",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJYcQUxWtFDhMR2hRAa1kHHKA",
+      "plus_code": {
+        "compound_code": "WFFR+36 St Julian's",
+        "global_code": "8F7PWFFR+36"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJYcQUxWtFDhMR2hRAa1kHHKA",
+      "scope": "GOOGLE",
+      "types": ["bar", "point_of_interest", "establishment"],
+      "user_ratings_total": 196,
+      "vicinity": "STJ2030, 27 Triq Ball, San Ġiljan"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.897376,
+          "lng": 14.5099598
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89872582989272,
+            "lng": 14.51130962989273
+          },
+          "southwest": {
+            "lat": 35.89602617010728,
+            "lng": 14.50860997010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Trabuxu Wine Bar",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1575,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107543411743038756528\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwJuq2Fpfhs1jHoTteN_NuUg1Zov8qcTBGFwfFjfvFHhrO-4nGabNTY4jLR_vSuB52RKxSkkJy2mt86OgBCxhk6z0x38vp1ZJ-ua_yqsRXX3Mug1tkaOjp-ZkGkJ884Z6V_0HIikdkmrADv3hU9atZX5bSenX7SYWdlzcAk1ISSnzArB",
+          "width": 2362
+        }
+      ],
+      "place_id": "ChIJf8z0CixFDhMRw5fkg6x-ZSg",
+      "plus_code": {
+        "compound_code": "VGW5+XX Valletta",
+        "global_code": "8F7PVGW5+XX"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJf8z0CixFDhMRw5fkg6x-ZSg",
+      "scope": "GOOGLE",
+      "types": ["bar", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 194,
+      "vicinity": "2 Strait St, Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.903713,
+          "lng": 14.4982766
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90509322989272,
+            "lng": 14.49963932989272
+          },
+          "southwest": {
+            "lat": 35.90239357010728,
+            "lng": 14.49693967010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Funky Monkey",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106494773617482917430\">Funky Monkey</a>"
+          ],
+          "photo_reference": "ATtYBwLCMP3nAUJVbCcr3oGHceBNFVW5qkNjyx2-akkYManx_ne_NaUQrFFQ3W4ByImSnQzR452mKhplpW3zcabjy7CmaLqTZGIWXGJu07SqFaml6YCbK05DMRQzO1ouPVqaw9NybZmXRiEN8U44bUfUCXa1Tk2ZgmM4bAcVz-mZsufV0xpC",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ6VBcXjZFDhMRNXASG_LwmfY",
+      "plus_code": {
+        "compound_code": "WF3X+F8 Gzira",
+        "global_code": "8F7PWF3X+F8"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJ6VBcXjZFDhMRNXASG_LwmfY",
+      "scope": "GOOGLE",
+      "types": ["bar", "night_club", "point_of_interest", "establishment"],
+      "user_ratings_total": 901,
+      "vicinity": "Gzira"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9163318,
+          "lng": 14.503765
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91760937989272,
+            "lng": 14.50504572989272
+          },
+          "southwest": {
+            "lat": 35.91490972010728,
+            "lng": 14.50234607010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Surfside",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116974643552423463344\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwK95Dcm9Ub3UOR3x6g389yyz9B8Fxmt8SWms7dXExgbwgPnsjoL7EnAM_0K9i3zrS2o1uN5B6TVLo3RCmYJvVQjfAM4X2Lq0NpEODarPfZqSbDeI2nalBSwzEBNZVNAK1MwfQXUDiLWaXvkCkfVrkMhjJimkVQZm9TmOCXfvQm55smm",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJKWeAmD1FDhMR4cBu6gRT__k",
+      "plus_code": {
+        "compound_code": "WG83+GG Sliema",
+        "global_code": "8F7PWG83+GG"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJKWeAmD1FDhMR4cBu6gRT__k",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2908,
+      "vicinity": "Tower Road, Sliema"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8355368,
+          "lng": 14.5455741
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.83675527989272,
+            "lng": 14.54661522989272
+          },
+          "southwest": {
+            "lat": 35.83405562010728,
+            "lng": 14.54391557010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "TEX MEX South",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2112,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116967388815968146047\">Samuel Borg</a>"
+          ],
+          "photo_reference": "ATtYBwLxU523Y4UypKzzfNwzkXCYWszRgvou6QxHUzX4GQ8RP1ZIYPHr29OORhb2iZKhunH1Cc8hYT6c2G4hJYhRb8CWjDwxUOP-uECXbK0jy9Ki9ghx0thvg8kVCgUo6Mea_c1TeLsox6fuKFFNDk1lLGUgUmuYz87is4nzhl-xCmoC79Om",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ_ec8B5dbDhMRrhla7Iy1ZRU",
+      "plus_code": {
+        "compound_code": "RGPW+66 Marsaxlokk",
+        "global_code": "8F7PRGPW+66"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ_ec8B5dbDhMRrhla7Iy1ZRU",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1311,
+      "vicinity": "MXK1521, Triq Tat Trunciera, Marsaxlokk"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9181831,
+          "lng": 14.4984211
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91953292989272,
+            "lng": 14.49977092989272
+          },
+          "southwest": {
+            "lat": 35.91683327010727,
+            "lng": 14.49707127010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "The Exiles Beach Club",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 425,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102008728820447568058\">The Exiles Restaurant &amp; Beach club</a>"
+          ],
+          "photo_reference": "ATtYBwJ2RsLIy5dUErH-JztRPvJMCRr4OhwSNrG8XSX0jD4IpFBoVTEhK1r1hMzC75aA7-maJqwc99knowRYKg2zZ3rRjmBUmzQWZ-EjOzLhel9knF9pR3l_n8-cO_zyBP2iiNIt3Ai2QO_Y6KwYDtlG8l6VcTNcVztdLL9Tv5B9wS7Wmw-z",
+          "width": 638
+        }
+      ],
+      "place_id": "ChIJjx31gBVFDhMR-wc9nd9NcIE",
+      "plus_code": {
+        "compound_code": "WF9X+79 Sliema",
+        "global_code": "8F7PWF9X+79"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJjx31gBVFDhMR-wc9nd9NcIE",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 479,
+      "vicinity": "Tower Road Sliema"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9200595,
+          "lng": 14.4907549
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92140932989272,
+            "lng": 14.49210472989273
+          },
+          "southwest": {
+            "lat": 35.91870967010728,
+            "lng": 14.48940507010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Juuls",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100631917918004502828\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwIY7gUgGAlTe_BPVdmkCE9W2HlHhnuVeBTkHmbOIXqlzGwc3mb4vdASu_C-All0hWVOB62X3V9KS2oeQwJAVDdKivD5VU-EPJiQp10W-uI_xwtEisJ81Z1H9IViHJOm5wGnqUxU8mPjyoirB3mfPMCRcUxuIkP2GnV-SCCT9G7yD84w",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJqQkaEWpFDhMRrQtQPpNAjA8",
+      "plus_code": {
+        "compound_code": "WFCR+28 St Julian's",
+        "global_code": "8F7PWFCR+28"
+      },
+      "rating": 4.6,
+      "reference": "ChIJqQkaEWpFDhMRrQtQPpNAjA8",
+      "scope": "GOOGLE",
+      "types": ["bar", "point_of_interest", "establishment"],
+      "user_ratings_total": 428,
+      "vicinity": "St Joseph Street 8 STJ08, San Ġiljan"
+    }
+  ],
+  "status": "OK"
+}

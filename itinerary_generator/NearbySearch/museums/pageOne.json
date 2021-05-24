@@ -1,0 +1,894 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.897445,
+          "lng": 14.51113
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89870817989272,
+            "lng": 14.51242627989273
+          },
+          "southwest": {
+            "lat": 35.89600852010727,
+            "lng": 14.50972662010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "National Museum Of Archaeology",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3492,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116783469303370362113\">Kelly Beamsley</a>"
+          ],
+          "photo_reference": "ATtYBwJM0orclhhS2NR_vBZiMCZAiPZq_OdQckXJo2vbvOdz68J4o2ytiazbdLgL1aC_Fq9eXeOWney1PVV3i3fVfV1XWyaLP_wUuZaImPlO01wJ8ErsZsIFAYNo549aGCcAIv8QTjzbsPWb_2SKPAchlakKa9itnz2TxTaIbrPtnDHrwBOB",
+          "width": 3492
+        }
+      ],
+      "place_id": "ChIJzd0W8SxFDhMRbPweoAQyG6Y",
+      "plus_code": {
+        "compound_code": "VGW6+XF Valletta",
+        "global_code": "8F7PVGW6+XF"
+      },
+      "rating": 4.3,
+      "reference": "ChIJzd0W8SxFDhMRbPweoAQyG6Y",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1761,
+      "vicinity": "Republic St, Valletta"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 35.884787,
+          "lng": 14.403527
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88613652989272,
+            "lng": 14.40487732989272
+          },
+          "southwest": {
+            "lat": 35.88343687010728,
+            "lng": 14.40217767010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "The Mdina Dungeons Museum",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 1106,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100998986074514131253\">Mdina Dungeons</a>"
+          ],
+          "photo_reference": "ATtYBwJvaYmwqJ4SwbZwCPTlZsF6ZM8N4l1LaIavSo2wqm1X79HsRRKb0-lm8nvfh_wtr-Nv-7sSmsgGBX1h0DABzAOfrn3_8Lfc_QAvRlA8K53xk8Y13L8laNaXmvJZ2SeDUJ8mfwLdGm6fjtlINYvzl7m4apDw2ucQunALe-rDYTXazbwN",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJL5rOaJVRDhMR05kMVE2eQYs",
+      "plus_code": {
+        "compound_code": "VCM3+WC Mdina",
+        "global_code": "8F7PVCM3+WC"
+      },
+      "rating": 4.2,
+      "reference": "ChIJL5rOaJVRDhMR05kMVE2eQYs",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 209,
+      "vicinity": "St. Publius Square, L-Imdina"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 35.887032,
+          "lng": 14.403092
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88838002989272,
+            "lng": 14.40440267989272
+          },
+          "southwest": {
+            "lat": 35.88568037010728,
+            "lng": 14.40170302010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "Palazzo Falson",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104764737295882008313\">Palazzo Falson</a>"
+          ],
+          "photo_reference": "ATtYBwLZRlyXAPkH7kL8jqyzVAwBQNpdEQ-x8eZpI_Iz_2SqrwLUfDPEttc-vYdenlUHToIuRAssWbOEbGZl55abaSui4zrgFr3xAcGwlvjwRPA4PDl7ha2dhYS9lAwNqgrXCUFSd7U6eFiB21_qXj9mQGCJhD3KwrYeO34NSVNWM2YDj210",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJL5rOaJVRDhMRXL6O-JHfBsY",
+      "plus_code": {
+        "compound_code": "VCP3+R6 Mdina",
+        "global_code": "8F7PVCP3+R6"
+      },
+      "rating": 4.5,
+      "reference": "ChIJL5rOaJVRDhMRXL6O-JHfBsY",
+      "scope": "GOOGLE",
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 307,
+      "vicinity": "Villegaignon Street, Triq IL Villegaignon, Mdina"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 35.8877091,
+          "lng": 14.52068
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88904692989272,
+            "lng": 14.52197767989272
+          },
+          "southwest": {
+            "lat": 35.88634727010728,
+            "lng": 14.51927802010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "Malta Maritime Museum",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 987,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104906359112523600099\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwJctBuPc18E4NVwTi9ZujWmoesjaQ3NPz_vzLIqOeU3KngdoBoLPb-mq6T5Av_oMLyFU_oJZfrUvQpZYOS-tcUOyyxwaionvSv-qj2TSRik6e3tA7sDcvwb35QWTtOJevTZFhaOPmm-qQwHAydNJmW6YuXmQtc1FbLxLtipljwVAXi3",
+          "width": 1500
+        }
+      ],
+      "place_id": "ChIJUY3VlSlbDhMRNmgJNFDNoTQ",
+      "plus_code": {
+        "compound_code": "VGQC+37 Birgu",
+        "global_code": "8F7PVGQC+37"
+      },
+      "rating": 4.3,
+      "reference": "ChIJUY3VlSlbDhMRNmgJNFDNoTQ",
+      "scope": "GOOGLE",
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 717,
+      "vicinity": "Ex-Naval Bakery Vittoriosa Waterfront, Birgu"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9010462,
+          "lng": 14.5188394
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90232807989272,
+            "lng": 14.52022732989272
+          },
+          "southwest": {
+            "lat": 35.89962842010727,
+            "lng": 14.51752767010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "National War Museum - Fort St Elmo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106425711304058436448\">François HUCHET</a>"
+          ],
+          "photo_reference": "ATtYBwJhRw5BrbrApyzKbacVxICXdmuSkizzBjZ8NO-XWw5ADm8JeUmAvsys_Dmi2KC3naVlYgOCE-Qva6GmCi6ZLhbiGhO1pPmfD0XsTlTZpBa6PJgTP9LPDIFKA5dKqnO6lhUAxz91FzSTW_38rY8vD9T95njtHNZJu365PHpnoPUiYp3_",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ9eWK1ylFDhMRDLrImWpYQAU",
+      "plus_code": {
+        "compound_code": "WG29+CG Valletta",
+        "global_code": "8F7PWG29+CG"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ9eWK1ylFDhMRDLrImWpYQAU",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4617,
+      "vicinity": "Fort St Elmo, Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8872361,
+          "lng": 14.52246
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88851142989272,
+            "lng": 14.52384972989272
+          },
+          "southwest": {
+            "lat": 35.88581177010727,
+            "lng": 14.52115007010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "Inquisitor's Palace",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110947617185943863098\">David</a>"
+          ],
+          "photo_reference": "ATtYBwLl7AZMuCaT1M9QZV-i9gUyIR66qPyQbE8pkLvdarKAAUmfkh37LB84PliMJnlFlk3b1Lc4k38Oj4oRSWK3LSiJUmVn3hmlOkV3i-zY8WlIfbuGqtdQUEL5uDt75Q_WxZZLY6iLzh1gepDwet0w_bmuRAxpCHjgEdinC5Viezg-ga0u",
+          "width": 5120
+        }
+      ],
+      "place_id": "ChIJq6qqailbDhMRnwUWQc9sj28",
+      "plus_code": {
+        "compound_code": "VGPC+VX Birgu",
+        "global_code": "8F7PVGPC+VX"
+      },
+      "rating": 4.2,
+      "reference": "ChIJq6qqailbDhMRnwUWQc9sj28",
+      "scope": "GOOGLE",
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 893,
+      "vicinity": "Triq Il-Palazz Ta' L-Isqof, Birgu"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.884894,
+          "lng": 14.403593
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88624742989272,
+            "lng": 14.40490937989272
+          },
+          "southwest": {
+            "lat": 35.88354777010728,
+            "lng": 14.40220972010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "National Museum of Natural History",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114474641633318411474\">Ergin Eroğlu</a>"
+          ],
+          "photo_reference": "ATtYBwKCM0sdzcYHuC4EFQyptpOT12EOwYQDcqHwml4rlzzZ8wv3FDWfKM7V7eua8ieDCdPhZQGD99odHG2XxwjYhEiAasyLkOn60wh8bWeULWtnsIr0XcATHooQ1ce3wZaUJWAmb3TLuBy8h873DOL6O8pxgRzWCO-3pPakpBooq4wLxmr1",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJRTNMyb9RDhMRh4_U0UjRiPY",
+      "plus_code": {
+        "compound_code": "VCM3+XC Mdina",
+        "global_code": "8F7PVCM3+XC"
+      },
+      "rating": 3.7,
+      "reference": "ChIJRTNMyb9RDhMRh4_U0UjRiPY",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 154,
+      "vicinity": "Pjazza Publju, L-Imdina"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8998646,
+          "lng": 14.5181346
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90119247989272,
+            "lng": 14.51964232989272
+          },
+          "southwest": {
+            "lat": 35.89849282010727,
+            "lng": 14.51694267010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "The Knights Hospitallers",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117726484648349747004\">Taner Günal</a>"
+          ],
+          "photo_reference": "ATtYBwK9pJnprn2p0y8rA8GHb5FeztBKmPK8nEvxT7GV-DG5S_5y6c2aw3lGuguUVb-tiGYGSIlAfEDc_AR8rsVbrHaHDXPrjf6tSUYvvOidsiiA654MFDcc6ZsNoREn-j0awOcW8WX6LLafE8ZL9XU0F86Ox1iLcfk96y7N6RI9Q11LE6v3",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJ4abt9ylFDhMR7D9aPIZNf4Y",
+      "plus_code": {
+        "compound_code": "VGX9+W7 Valletta",
+        "global_code": "8F7PVGX9+W7"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ4abt9ylFDhMR7D9aPIZNf4Y",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 205,
+      "vicinity": "Mediterranean Street, Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8816092,
+          "lng": 14.3989364
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88296787989272,
+            "lng": 14.40030577989272
+          },
+          "southwest": {
+            "lat": 35.88026822010728,
+            "lng": 14.39760612010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "Wignacourt Museum",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109713300700615304560\">Patricia Díaz</a>"
+          ],
+          "photo_reference": "ATtYBwJ9Gpxoz25JL5le9I7UB5RofqjbQWkOReA62Nb6-5LQnYaSZa9B-0ZM2O7UdU_-rqJ0gb8o_UVzjZOrFoDsnF3ThR2mQ-P1xXfmAhhRdKk-FBg1ufetRPMZJ5mCSqkve03lSzw0B9iaSMw3BRI5Z0aywghP_dHqlrb_pMbxqqZjzVvK",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJb8vZj5ZRDhMRSTI4Fywq_jw",
+      "plus_code": {
+        "compound_code": "V9JX+JH Rabat",
+        "global_code": "8F7PV9JX+JH"
+      },
+      "rating": 4.5,
+      "reference": "ChIJb8vZj5ZRDhMRSTI4Fywq_jw",
+      "scope": "GOOGLE",
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 184,
+      "vicinity": "College Street, Rabat"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 35.8919339,
+          "lng": 14.5241819
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89328472989272,
+            "lng": 14.52555392989272
+          },
+          "southwest": {
+            "lat": 35.89058507010728,
+            "lng": 14.52285427010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "Esplora",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 2832,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108636259963693397540\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwISOtWLnsSFexzLk6X_9KKFCkXfD3B0ADaU-PUTx5mbcbuoyhBqh7Nx4i5YaiB2AtlXlRwmUWw3PCmjPQrE-wNf0F7CVs2nERODOy7Fk-uM6RpMknG0wzCZhPRcEscxPx0zi58JpUfYY7FWpXD467kOm25VhSuiikqu4ZRaufB7BlqD",
+          "width": 4240
+        }
+      ],
+      "place_id": "ChIJ0VeLZStbDhMRkhanX_cX_3I",
+      "plus_code": {
+        "compound_code": "VGRF+QM Kalkara",
+        "global_code": "8F7PVGRF+QM"
+      },
+      "rating": 4.7,
+      "reference": "ChIJ0VeLZStbDhMRkhanX_cX_3I",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1372,
+      "vicinity": "Villa Bighi Triq Marina Il-Kalkara"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.894577,
+          "lng": 14.532573
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89592682989272,
+            "lng": 14.53392282989272
+          },
+          "southwest": {
+            "lat": 35.89322717010728,
+            "lng": 14.53122317010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Fort Rinella",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100598463463892088595\">Stefan Saur</a>"
+          ],
+          "photo_reference": "ATtYBwLfyu1IvfNfEe392Jbk9ROjz7UgdMCWlk6LtMANzV4rHhf4nXNkpo1De9DIOvJCo17oDxW7TRP8m06NqtjVxuR4DKFJdrstPyqgb6JUGWiuWYqCtMJvfVm9YNPltnkUnkTZY6AXCefEBccZslQQrgKfIQ4m-48nPqKSWCjCRHwk5xzb",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJTSqzEc1EDhMRrywPHVpmz3k",
+      "plus_code": {
+        "compound_code": "VGVM+R2 Kalkara",
+        "global_code": "8F7PVGVM+R2"
+      },
+      "rating": 4.7,
+      "reference": "ChIJTSqzEc1EDhMRrywPHVpmz3k",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 550,
+      "vicinity": "Kalkara"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8804077,
+          "lng": 14.3976566
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88178772989273,
+            "lng": 14.39887577989272
+          },
+          "southwest": {
+            "lat": 35.87908807010728,
+            "lng": 14.39617612010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "St Paul’s Catacombs",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103464042901607287759\">agustin villar</a>"
+          ],
+          "photo_reference": "ATtYBwJLLAvSTSv5BFpiDhj_W_-qH-LV81SczMctPjl-cMvd8ntrxK6pfQPN-cZZqg_aXOXQamt0zpZPKwlAhBZsGF7ImWxjZA-qMTS1gXoaE1F-pNbWiq7pJJVT4452M4tiy_LuFogKwdOxfOtSE899BJHtkrTuI8yr8lvLvs9heKEuet1E",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJG9eux5ZRDhMRgOBxE7gDfVI",
+      "plus_code": {
+        "compound_code": "V9JX+53 Rabat",
+        "global_code": "8F7PV9JX+53"
+      },
+      "rating": 4.3,
+      "reference": "ChIJG9eux5ZRDhMRgOBxE7gDfVI",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5665,
+      "vicinity": "Hal-Bajjada, Ir-Rabat"
+    },
+
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8945999,
+          "lng": 14.5125217
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89615387989273,
+            "lng": 14.51396177989272
+          },
+          "southwest": {
+            "lat": 35.89345422010729,
+            "lng": 14.51126212010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "The Saluting Battery",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117488417943671542285\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwJhnbYvjQStDAPaPJrWGG8Z-vg2tURKbg69PD6g9lbV63XbPa1RqM7U6hpVoJqe0VHfdrMEz4XwKYzNnF-pZ7QRhpT4oIOXcXux2mYBoJcR9Tz7sPwD4oamCTDNiR0hpVGpIdoP7cj4bwshCR4q288q6XUZOUv-WUOH-QlyJt96YZjL",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJU89VUNNaDhMRhj5xgaYBN7I",
+      "plus_code": {
+        "compound_code": "VGV7+R2 Valletta",
+        "global_code": "8F7PVGV7+R2"
+      },
+      "rating": 4.6,
+      "reference": "ChIJU89VUNNaDhMRhj5xgaYBN7I",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 379,
+      "vicinity": "Battery Street, Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.884806,
+          "lng": 14.403889
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88626942989272,
+            "lng": 14.40527227989272
+          },
+          "southwest": {
+            "lat": 35.88356977010728,
+            "lng": 14.40257262010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Palazz Vilhena",
+      "photos": [
+        {
+          "height": 3948,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106301421219434376924\">John Holmes</a>"
+          ],
+          "photo_reference": "ATtYBwLttIX68TDprUvMuGKQmzAgJ876XE2SkzJQV33Owmm4BqRtjp3g6HP_6sCh3d5IUySkAnkonGDGNjo-ZzMieYWGPxKGm62SAs431KPYDjUBLsU6EKjHt_keuovag07WIeeJw0pGEfNMoMtDtx7Y3lwfEMV6taflMZOVj8rlG1s7XL5F",
+          "width": 5922
+        }
+      ],
+      "place_id": "ChIJFS_6yb9RDhMRvQ0wC47EopY",
+      "plus_code": {
+        "compound_code": "VCM3+WH Mdina",
+        "global_code": "8F7PVCM3+WH"
+      },
+      "rating": 4.7,
+      "reference": "ChIJFS_6yb9RDhMRvQ0wC47EopY",
+      "scope": "GOOGLE",
+      "types": ["tourist_attraction", "point_of_interest", "establishment"],
+      "user_ratings_total": 33,
+      "vicinity": "35°53'05. 14°24'14.0\"E, Mdina"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 36.0472454,
+          "lng": 14.2691021
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.04868547989273,
+            "lng": 14.27072772989272
+          },
+          "southwest": {
+            "lat": 36.04598582010728,
+            "lng": 14.26802807010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Ġgantija",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3343,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104275272344604649061\">Marcus Fishenden</a>"
+          ],
+          "photo_reference": "ATtYBwK6bZFozmvDlQyGf2-nPxVtPI4OAOczCDof_V13KXX74gZSth33T7sR0DrPIjN9Wv-lFqcxkdNZB4KrM9tcjEdr8QWUiToQ8gT3VbFHQzZXMjwlgk-4bDK-o3pTj053kqjRyR8x6TXOLKtM17MicSKGENCsUnNHM-iJYLlg2KcaODkC",
+          "width": 4785
+        }
+      ],
+      "place_id": "ChIJk8jh_Nu0DxMR6LWcGLbQ7Pg",
+      "plus_code": {
+        "compound_code": "27W9+VJ Xagħra",
+        "global_code": "8F8P27W9+VJ"
+      },
+      "rating": 4.3,
+      "reference": "ChIJk8jh_Nu0DxMR6LWcGLbQ7Pg",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4079,
+      "vicinity": "Triq John Otto Bayer, Ix-Xagħra"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.86957,
+          "lng": 14.506885
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.87083532989273,
+            "lng": 14.50824512989272
+          },
+          "southwest": {
+            "lat": 35.86813567010728,
+            "lng": 14.50554547010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Ħal Saflieni Hypogeum",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 454,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105721853112269549501\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwIuVyyVy_TNnbLwtokDJG-1QFblDP1UTQ2kmia9-_4DOCnRozpkTEFjPjlDAPI5F5OXHlLd2lwTzi_I2KTZ1lkcfDqGbjmHkIXy6R9kel-aGgWKc8bvDUnX5zr2M42GYZ7T5GJSg4C57LBdBb21DtGBzRJlqdHONuvJ--Zb0r30Y_dv",
+          "width": 676
+        }
+      ],
+      "place_id": "ChIJy6WOsOhaDhMR6ijmChZNFgA",
+      "plus_code": {
+        "compound_code": "VG94+RQ Paola",
+        "global_code": "8F7PVG94+RQ"
+      },
+      "rating": 4.4,
+      "reference": "ChIJy6WOsOhaDhMR6ijmChZNFgA",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1991,
+      "vicinity": "Triq Ic Cimiterju Raħal Ġdid PLA"
+    },
+
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8863679,
+          "lng": 14.4039146
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88757127989272,
+            "lng": 14.40537777989272
+          },
+          "southwest": {
+            "lat": 35.88487162010728,
+            "lng": 14.40267812010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "name": "Mdina Cathedral",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111761889263270242553\">Haldun Tantur</a>"
+          ],
+          "photo_reference": "ATtYBwI2cNXgXog46K0_GPkPaxsPc7tNg720OY1z6mlySlAf6e7DQia5eDLNlQMUvLDEdTFennfFjQUKGcYh-nsYEug-7YhaRjXOao2B8suPyQRBXgSqzEU7LtZw027PKT9KAVzR2LjpfKqC5Emzexa20p0GaNcvNoEknuCX0SZ8FKNhEBc2",
+          "width": 3002
+        }
+      ],
+      "place_id": "ChIJQYG08r9RDhMRqkjwiMzSO3Y",
+      "plus_code": {
+        "compound_code": "VCP3+GH Mdina",
+        "global_code": "8F7PVCP3+GH"
+      },
+      "rating": 4.6,
+      "reference": "ChIJQYG08r9RDhMRqkjwiMzSO3Y",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1564,
+      "vicinity": "2 Triq San Pawl, L-Imdina"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8365032,
+          "lng": 14.5280405
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.83807587989272,
+            "lng": 14.52946782989272
+          },
+          "southwest": {
+            "lat": 35.83537622010727,
+            "lng": 14.52676817010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "Għar Dalam Cave",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 660,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115623347689500802552\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwL-Cu0xp7SePFORnpgQrhgpIlM-3HWhhUjxAeYCPlUrmYKflDXj6xyFuk89calJZI_bUQpHh4vmGzSWHxMERtsGFuxaakIrvIQMj2nOEVUWKkIozWfeS_UEAjpxj6p8isoApka1itPDLFVABLamG2tYwJ0Tlebf2hrqySnfMcuWJMG6",
+          "width": 990
+        }
+      ],
+      "place_id": "ChIJS8in5LBbDhMRspBZLhtuM_A",
+      "plus_code": {
+        "compound_code": "RGPH+J6 Birżebbuġa",
+        "global_code": "8F7PRGPH+J6"
+      },
+      "rating": 3.8,
+      "reference": "ChIJS8in5LBbDhMRspBZLhtuM_A",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1022,
+      "vicinity": "Ghar Dalam Cave, Triq Ghar Dalam, Birżebbuġa"
+    }
+  ],
+  "status": "OK"
+}

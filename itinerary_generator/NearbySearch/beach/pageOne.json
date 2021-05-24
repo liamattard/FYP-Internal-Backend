@@ -1,0 +1,656 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9204876,
+          "lng": 14.3433952
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.9295232,
+            "lng": 14.3594026
+          },
+          "southwest": {
+            "lat": 35.911451,
+            "lng": 14.3273878
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "Ġnejna Bay Beach",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104946820377314890777\">Rafael Guaita Redondo</a>"
+          ],
+          "photo_reference": "ATtYBwKBvvxeb8YtGL-64b4aEFG_mqkGxqUKU5Uc_SCKR1jc76lcgzDX9byef8icPE7Dgj9u5mHJPOiKBfYwsh_101j1-RERsUgL6OMt3314OBb1QDvWyxefRHbp86mo1j76Tvl7AzVxvOPi0h5CbiDwX5HRx5ZI6sKomT003ll5AMU98Q1b",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJd48pEIZNDhMRa5iXwCJy50A",
+      "rating": 4.4,
+      "reference": "ChIJd48pEIZNDhMRa5iXwCJy50A",
+      "scope": "GOOGLE",
+      "types": ["natural_feature", "point_of_interest", "establishment"],
+      "user_ratings_total": 1542,
+      "vicinity": "Mgarr"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9338697,
+          "lng": 14.3444612
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.93507602989272,
+            "lng": 14.34562402989272
+          },
+          "southwest": {
+            "lat": 35.93237637010728,
+            "lng": 14.34292437010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "Golden Bay",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107256768146747626008\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwJcKbL8qVqneVT8-bC2fWCALj9GVLvxvjJsqjuuXxw0RoSL7iln2jwk6LazRQhALflfXmCebO5q4f2VBuVZqKC99ceXszWSCItVMLxwUtZ1OxmotH-0j25OdWALx5qJjR1WKQudeeQ5_DtScuYu6w-n3BiFjG8VTiFMbGNhxJes69cQ",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJQUUQ2JlNDhMRIjec7ddy85w",
+      "rating": 4.4,
+      "reference": "ChIJQUUQ2JlNDhMRIjec7ddy85w",
+      "scope": "GOOGLE",
+      "types": ["natural_feature", "establishment"],
+      "user_ratings_total": 12506,
+      "vicinity": "Mellieha"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.91438490000001,
+          "lng": 14.494046
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.9234212,
+            "lng": 14.5100534
+          },
+          "southwest": {
+            "lat": 35.9053476,
+            "lng": 14.4780386
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "Balluta Bay Beach",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113785627083337817922\">Sylwia Filipek</a>"
+          ],
+          "photo_reference": "ATtYBwL41KYjC_yhBel6KSJ54QeiO7a3a4IU4Sx5kRBGSjUVFnoYJWlSjNbhzciZetn-Jol49yd3jmoitWOs7NkrgQMhjlY0XK-k7RpgaxmRDQcw1weuylHeI4WBL8Gb9iyOb_3LkNeSwEzpv_DYlZkLv3HMc0pxjsYmaBKbaDRUEWLlsYba",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJl286x0BFDhMRzmRtF5AkFvA",
+      "rating": 4.2,
+      "reference": "ChIJl286x0BFDhMRzmRtF5AkFvA",
+      "scope": "GOOGLE",
+      "types": ["natural_feature", "point_of_interest", "establishment"],
+      "user_ratings_total": 952,
+      "vicinity": "St Julian's"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9525841,
+          "lng": 14.409443
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.961616,
+            "lng": 14.4254504
+          },
+          "southwest": {
+            "lat": 35.9435512,
+            "lng": 14.3934356
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "St. Paul's Bay Waterfront.",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112235521478541652304\">P B</a>"
+          ],
+          "photo_reference": "ATtYBwKDnnmWA3VGZT2FaZmLTCfYfgIsqVhrlDfS71MIhy3nnZEhtBpbJtfIbF00cxFuiUnWyHqkQRVu-b3MaPNeTOncpTE6QIiwmhNrkFu_1wRFxLhyXHTYURpI_tatYNvgpRjn8QzaG-J_eX5UjA-ozewTG4hwhGNm6_ZnjQZit58xqjPq",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJd3fHsf5PDhMRDjWEV-91CEA",
+      "rating": 4.9,
+      "reference": "ChIJd3fHsf5PDhMRDjWEV-91CEA",
+      "scope": "GOOGLE",
+      "types": ["natural_feature", "point_of_interest", "establishment"],
+      "user_ratings_total": 9,
+      "vicinity": "St Paul's Bay"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9258157,
+          "lng": 14.4878437
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92721982989272,
+            "lng": 14.48934942989272
+          },
+          "southwest": {
+            "lat": 35.92452017010727,
+            "lng": 14.48664977010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "St George's Bay",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101907192567982898780\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwJCCLm5uzR1PmgOVm4NHEih10HKnmG8qYSmAQMva4fdAInVk_UayAdw0RlgHbCVGxCJOFjuEK5eb2Qw-YjyzxdpRDxdKjfM4H_ejfFv60pXZFH37s4Gn3whWNr12oawY5eCzMM8Fwly6JgAxZm64uE324Ydjqk7aU7i28Jf_wUmOyR2",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ3Rw7wW5FDhMRCHQxQ53p7zg",
+      "rating": 3.9,
+      "reference": "ChIJ3Rw7wW5FDhMRCHQxQ53p7zg",
+      "scope": "GOOGLE",
+      "types": ["natural_feature", "establishment"],
+      "user_ratings_total": 342,
+      "vicinity": "St Julian's"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8934274,
+          "lng": 14.5277727
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89478052989273,
+            "lng": 14.52911112989272
+          },
+          "southwest": {
+            "lat": 35.89208087010729,
+            "lng": 14.52641147010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "Rinella Bay",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105111844487895420038\">Cédric Larouche</a>"
+          ],
+          "photo_reference": "ATtYBwL8n29PMIPqxXR4RMX7Kfy4O-RbdtkrCzgL6PyeXSyq7omx4Bujqi_OVnUrQ5hwXYBmUzczfRKifN-NLIq_VP5hxfB8nMgBSYqYfK31qMofHmjCZe29IaZFqrf1LhOUSy6iXpqt4ftJu31L4GtYF2qJop6NWByWXsk14hEiHpfLhCrT",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJDS611dJEDhMRZEUSzBKUkFU",
+      "rating": 4.2,
+      "reference": "ChIJDS611dJEDhMRZEUSzBKUkFU",
+      "scope": "GOOGLE",
+      "types": ["natural_feature", "establishment"],
+      "user_ratings_total": 418,
+      "vicinity": "Kalkara"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9694507,
+          "lng": 14.3506429
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.9733808,
+            "lng": 14.3534944
+          },
+          "southwest": {
+            "lat": 35.9662378,
+            "lng": 14.3495654
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "Għadira Bay",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103790711263015316741\">Dave T</a>"
+          ],
+          "photo_reference": "ATtYBwJGbk1Nrb8o6d-fZwbNbR-eUAIKyd-2gjn6wLnWstE86WP7f-YelwWsQaPoLhP1gpXaI5vUDBC5-V0he46zYWNLCjKsmnqaPcDX1A9_OMIiuYrnT_E66FbU6uZPf1NvTsq8be1-7jmwHBKPmgHciSKcNoIWdg3eiBkf5yjWcEo3K2LO",
+          "width": 1620
+        }
+      ],
+      "place_id": "ChIJT3gGakZMDhMRAH4wskI9a5U",
+      "rating": 4.5,
+      "reference": "ChIJT3gGakZMDhMRAH4wskI9a5U",
+      "scope": "GOOGLE",
+      "types": ["natural_feature", "establishment"],
+      "user_ratings_total": 422,
+      "vicinity": "Mellieha"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.95210040000001,
+          "lng": 14.3884139
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.9611324,
+            "lng": 14.4044213
+          },
+          "southwest": {
+            "lat": 35.9430674,
+            "lng": 14.3724065
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "Fekruna Beach",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104852843618051715000\">Vlad Dzenisevich</a>"
+          ],
+          "photo_reference": "ATtYBwIi_oLGO8hB7JZ3yN04dwrfzbBhtf1L0dopTg6a0w6dmVDMtooxIK7jXF4B4FkYPdYwznbLY-GqME0IfYpHe5IQd2wpzAhDV3UI2Ms3xqS7m6YrjsYrxa9sr6ANT0OGp6y4ZMnkPSKA3LmMuoirqtwTH5nemHaMJHQ8e4WnbLOfKkfs",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJEzltcX1ODhMReDxricTWABU",
+      "rating": 4.3,
+      "reference": "ChIJEzltcX1ODhMReDxricTWABU",
+      "scope": "GOOGLE",
+      "types": ["natural_feature", "point_of_interest", "establishment"],
+      "user_ratings_total": 209,
+      "vicinity": "St Paul's Bay"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9499733,
+          "lng": 14.3978552
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.95127817989273,
+            "lng": 14.39915552989272
+          },
+          "southwest": {
+            "lat": 35.94857852010728,
+            "lng": 14.39645587010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "Il-Bajja tax-Xama'",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102612689911016812525\">Peter Pan</a>"
+          ],
+          "photo_reference": "ATtYBwJba8siMS4FylxvgYAxL4vRaSxBg2RD0t3Cr8U0A9L3Mh1or1mwyozIO-bIwnoW58DJIL_e4ir9G8fazjTrifonRVMN-Q3vumIpv-xIjTosYCuhkvC1w1rJSv_qRivvYLKgpLiD6rcsIC_4tvwiR2aFyeiw_iBHnE_j91CabvxibJgH",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ52NEl2FODhMRYCX2lfwpzGQ",
+      "rating": 3.6,
+      "reference": "ChIJ52NEl2FODhMRYCX2lfwpzGQ",
+      "scope": "GOOGLE",
+      "types": ["natural_feature", "establishment"],
+      "user_ratings_total": 5,
+      "vicinity": "St Paul's Bay"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.98609010000001,
+          "lng": 14.3730538
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.98741927989272,
+            "lng": 14.37430212989272
+          },
+          "southwest": {
+            "lat": 35.98471962010728,
+            "lng": 14.37160247010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "Slugs Bay",
+      "photos": [
+        {
+          "height": 3094,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108210517838950727514\">David Caruana</a>"
+          ],
+          "photo_reference": "ATtYBwK8nBrdI0hk14RpsluPIRpQQtXd_EHUgFGT9K7ZzjXMxqy4LPsId1I8WMiZOdp55TlgpPsizicsChnUsE8xfwzjODwVppgLA3r1PENxMtSndVSb9xekUPo5Tj4nc8DsiMFeJ1Lt8U7rkf3PS4lpIuSQh1SV2KhzJlwDU99-JrtGo2X8",
+          "width": 6240
+        }
+      ],
+      "place_id": "ChIJU_wyWhtMDhMRL_bP9okxogM",
+      "rating": 4.6,
+      "reference": "ChIJU_wyWhtMDhMRL_bP9okxogM",
+      "scope": "GOOGLE",
+      "types": ["natural_feature", "establishment"],
+      "user_ratings_total": 169,
+      "vicinity": "Mellieha"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9544444,
+          "lng": 14.4169444
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.9634761,
+            "lng": 14.4329518
+          },
+          "southwest": {
+            "lat": 35.9454117,
+            "lng": 14.400937
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "Buġibba Perched Beach",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114708093909159776777\">Wojciech Waszak</a>"
+          ],
+          "photo_reference": "ATtYBwIlBvM5ibtj-8uaNY75hkUIikOFiYkPTdZflBpjYRDxt42iNENc6W6EReZ1caTucFeatX9tLl3GSlxJPZtFMY0AOBOVJSI2C9YE9eh50rXpClBmH3QY2Kaj4kVcKeIFT0GmHWciu5GcF7goRXNyTcDr37jzymMB-VjzaowdeVRG3coq",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJYQZrgvlODhMR4bwMmQkOO_s",
+      "rating": 4.1,
+      "reference": "ChIJYQZrgvlODhMR4bwMmQkOO_s",
+      "scope": "GOOGLE",
+      "types": ["natural_feature", "establishment"],
+      "user_ratings_total": 320,
+      "vicinity": "St Paul's Bay"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8248858,
+          "lng": 14.5292972
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.82635307989272,
+            "lng": 14.53101017989272
+          },
+          "southwest": {
+            "lat": 35.82365342010728,
+            "lng": 14.52831052010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "Pretty Bay",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105111844487895420038\">Cédric Larouche</a>"
+          ],
+          "photo_reference": "ATtYBwI97rGhURYO992PFCci3ZtwL2KrB7CjintPCD_LIZBpAezX1LyO_xYWDSA2dEljh2bLrBMyp4ZYinPaK7tBO1HFbPvrde1N857X5tBb6-zq9ZznF88HzDpPX99Jid-piHJuCOQqwN218ZBrvicqPHB6CZ_XJRN6a5nQS4_x3aOc32mZ",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJe-KGvchbDhMR8LxLF8XGrq4",
+      "rating": 3.8,
+      "reference": "ChIJe-KGvchbDhMR8LxLF8XGrq4",
+      "scope": "GOOGLE",
+      "types": ["natural_feature", "establishment"],
+      "user_ratings_total": 162,
+      "vicinity": "Pretty Bay, Malta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9537324,
+          "lng": 14.416285
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.9627642,
+            "lng": 14.4322924
+          },
+          "southwest": {
+            "lat": 35.9446996,
+            "lng": 14.4002776
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "SPB Public Beach",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100873728924897584738\">Andrei Soroca</a>"
+          ],
+          "photo_reference": "ATtYBwLPfMQHBBjE1tDAk0ve4liuxYJu9YQj5xy9F2OHJeyXdodifWXU9NLr5AV_BrH72TDfw6rY58zW9rGVKe-Q22w1N8K3hWSWMIjApfxPeV5nsRcWwGSmlT2nbPkaOOmLrTpIgDQig4oro67p-5Q-qxYDgumYXJY1GOLdQ7SJRYdt6I7m",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJK62Jl_lODhMR0NDpdfh2c-I",
+      "rating": 4.3,
+      "reference": "ChIJK62Jl_lODhMR0NDpdfh2c-I",
+      "scope": "GOOGLE",
+      "types": ["natural_feature", "point_of_interest", "establishment"],
+      "user_ratings_total": 468,
+      "vicinity": "St Paul's Bay"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8599241,
+          "lng": 14.5733981
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.8689666,
+            "lng": 14.5894055
+          },
+          "southwest": {
+            "lat": 35.8508806,
+            "lng": 14.5573907
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "Wara l-Jerma Bay",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103899725855156909636\">Magdalena Tosic</a>"
+          ],
+          "photo_reference": "ATtYBwIPBOa4_VRCmS8a4VvbnFuHpCyrMeiWjNfrV2fpEj8thoW3LT4ERqL5CH6FKO_A4HU36NAvzY-itCkvLkhLWtqCUwYsl_TUO3DWUFLp0IJ1qkF9Br_rFaqAJcWSkbvlXurZupVZVbuZsdp3f2sUcLhXNTfPstDBGArSbEroIVOUcs7k",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ8-tlxptcDhMR9IZYPNp-xC8",
+      "rating": 4.3,
+      "reference": "ChIJ8-tlxptcDhMR9IZYPNp-xC8",
+      "scope": "GOOGLE",
+      "types": ["natural_feature", "point_of_interest", "establishment"],
+      "user_ratings_total": 90,
+      "vicinity": "Marsaskala"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.9209421,
+          "lng": 14.3424613
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92279382989273,
+            "lng": 14.3441705
+          },
+          "southwest": {
+            "lat": 35.92009417010728,
+            "lng": 14.3401803
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "Ġnejna Bay",
+      "photos": [
+        {
+          "height": 4618,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101987835121117879126\">Kim Camilleri</a>"
+          ],
+          "photo_reference": "ATtYBwKwQQLVk_MAIxa2AsMsnb4BpTaqNPIU0407JZzmvEiyJYK8U7BItT1CtEqabUvJtEpUX3Qfnpc5PJbYZQNF-TiYGq8QDXbDqXoAezai12jHv25qQuGWcKh0hdBvo1RPqOgqwwgbY9pYzHPpK0tnkJB-96JiBpD-NiTP5R4YNPGvT48u",
+          "width": 3464
+        }
+      ],
+      "place_id": "ChIJW7E82IVNDhMRrm-42YbFaEM",
+      "rating": 4.6,
+      "reference": "ChIJW7E82IVNDhMRrm-42YbFaEM",
+      "scope": "GOOGLE",
+      "types": ["natural_feature", "establishment"],
+      "user_ratings_total": 147,
+      "vicinity": "Ġnejna Bay, Malta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9593461,
+          "lng": 14.425889
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.9683772,
+            "lng": 14.4418964
+          },
+          "southwest": {
+            "lat": 35.9503139,
+            "lng": 14.4098816
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "Qawra Point Beach",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103663719572073733745\">Margaret Cutajar</a>"
+          ],
+          "photo_reference": "ATtYBwJrNvaJRzDCFhYzDktrpX4WcvTin91re86sThmW5E9D_K8S5kPRJe3q8FaTq8iri5UqEWUcPGE9WlUYvf5t1cuOTgjEqty-s54qX6jxLw-QLSrC28YIjhKlb9h4CHQsv6GpbOO0I2kkoGZtY7GnXEVL9hiJyIuuEW-wEh26UVB1F9KS",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJCde5VR1PDhMRZbUuulorFJ4",
+      "rating": 4.4,
+      "reference": "ChIJCde5VR1PDhMRZbUuulorFJ4",
+      "scope": "GOOGLE",
+      "types": ["natural_feature", "point_of_interest", "establishment"],
+      "user_ratings_total": 949,
+      "vicinity": "St Paul's Bay"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9889518,
+          "lng": 14.356734
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.99040592989272,
+            "lng": 14.35812837989272
+          },
+          "southwest": {
+            "lat": 35.98770627010727,
+            "lng": 14.35542872010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "Armier Bay Beach",
+      "place_id": "ChIJawrMWQ1MDhMRWc856fTojJ0",
+      "rating": 4.1,
+      "reference": "ChIJawrMWQ1MDhMRWc856fTojJ0",
+      "scope": "GOOGLE",
+      "types": ["natural_feature", "establishment"],
+      "user_ratings_total": 34,
+      "vicinity": "Mellieha"
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,329 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8869412,
+          "lng": 14.4021387
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88828027989273,
+            "lng": 14.40351432989272
+          },
+          "southwest": {
+            "lat": 35.88558062010728,
+            "lng": 14.40081467010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "The Knights Of Malta",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117258727528535602107\">Michele Colalillo</a>"
+          ],
+          "photo_reference": "ATtYBwIwjZvmzpYubo24_2hPCTR_vvtCANvH4s6uxqiF65Sv_M3qRi7v1fuyr5b0vV5wKsi8D76t-kB18fQFkV35bYaqWQqpTRbl8ZhlmHYYbnQQnehZHPWmgRwg2vIHd-fkt1LxatQdIsshqnrx-_TnIVT4Y56_3P7w-zQSSmF8hkqxeNZZ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJixixVpVRDhMRPdhXWcIIlJ4",
+      "plus_code": {
+        "compound_code": "VCP2+QV Mdina",
+        "global_code": "8F7PVCP2+QV"
+      },
+      "rating": 4.2,
+      "reference": "ChIJixixVpVRDhMRPdhXWcIIlJ4",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 248,
+      "vicinity": "Triq L Imhazen, L-Imdina"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8872361,
+          "lng": 14.52246
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88851142989272,
+            "lng": 14.52384972989272
+          },
+          "southwest": {
+            "lat": 35.88581177010727,
+            "lng": 14.52115007010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "Inquisitor's Palace",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110947617185943863098\">David</a>"
+          ],
+          "photo_reference": "ATtYBwL0Om378Y9TkQcmNDY3lpfIYce-OSSb5H282oy_WS5K1t9XtFghTpmWDjBYhikqB3bOnjQJz7HQsTv5xAlcVlLcObiWZY2FyK-hbTJdpnHPUrlPfGSW6ERsku8GdnuJpHLEIeW7naR-y3zjI9Mt3n4YAUyz5GJkEmzPgpOsrCITjFdA",
+          "width": 5120
+        }
+      ],
+      "place_id": "ChIJq6qqailbDhMRnwUWQc9sj28",
+      "plus_code": {
+        "compound_code": "VGPC+VX Birgu",
+        "global_code": "8F7PVGPC+VX"
+      },
+      "rating": 4.2,
+      "reference": "ChIJq6qqailbDhMRnwUWQc9sj28",
+      "scope": "GOOGLE",
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 893,
+      "vicinity": "Triq Il-Palazz Ta' L-Isqof, Birgu"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8904147,
+          "lng": 14.5077842
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89178612989272,
+            "lng": 14.50910577989272
+          },
+          "southwest": {
+            "lat": 35.88908647010728,
+            "lng": 14.50640612010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "The Valletta Waterfront",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104657497249688396805\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwJ6kD3A_mWix44Z92Ti0Eg1ECgEATbSBw4k63MZS6anGMgovUyJ9KDvjdskVEG8qqipqzGnLwADut5AbXYy2HesMaUJS6yYtY5ZrOuHR-2eY41eJNYl2FHejh3pYjociK7z1B8fVvaMktnghurnorYKe65dDc9ll9guVF2QEioffFm3",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJazNW99FaDhMRN6wX2fAGmlU",
+      "plus_code": {
+        "compound_code": "VGR5+54 Floriana",
+        "global_code": "8F7PVGR5+54"
+      },
+      "rating": 4.5,
+      "reference": "ChIJazNW99FaDhMRN6wX2fAGmlU",
+      "scope": "GOOGLE",
+      "types": ["tourist_attraction", "point_of_interest", "establishment"],
+      "user_ratings_total": 5062,
+      "vicinity": "Triq il-Vittmi Furjaniżi tal-Gwerra, Il-Furjana"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8964431,
+          "lng": 14.4463108
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89809407989272,
+            "lng": 14.44747427989272
+          },
+          "southwest": {
+            "lat": 35.89539442010727,
+            "lng": 14.44477462010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "San Anton Palace",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105645528405185950689\">Horst Jagmeng</a>"
+          ],
+          "photo_reference": "ATtYBwIWUxLfAFgLGeIh_kRJlRV9UIIhvLlIX_qD9BGs8gTfK0t1b4RJZ2jE0Hv92yEWrhlErPiqjxzPOm3dLN_yKlHiBuF95_6Q0ivYP9BwVavKnTWOPDFVUVSV528goqVEx6u0ChE4c8pb44PncPcIv9nIE9ifqKREPtF_gneZGt2iRMPA",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ8zcNSyJQDhMRrh_5V25W21U",
+      "plus_code": {
+        "compound_code": "VCWW+HG Attard",
+        "global_code": "8F7PVCWW+HG"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ8zcNSyJQDhMRrh_5V25W21U",
+      "scope": "GOOGLE",
+      "types": ["tourist_attraction", "point_of_interest", "establishment"],
+      "user_ratings_total": 610,
+      "vicinity": "24 G.Portelli, Ħ'Attard"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8984755,
+          "lng": 14.5138645
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89982532989272,
+            "lng": 14.51521432989272
+          },
+          "southwest": {
+            "lat": 35.89712567010727,
+            "lng": 14.51251467010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Grandmaster Palace Courtyard",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118181384948706802599\">Katerina Rakhova</a>"
+          ],
+          "photo_reference": "ATtYBwKIpZ_J2Tg-AGG620lj_OHdbBu0jZ3bzjnJY0QtHo_sHmityQOPM8oCKkVwpA21a0olKWWGyiw9WZEwbAJ_AoHXzyiDlfIGXRmG23PwVvuWTsEYh_Tp53k0ijNoYZif0RUbs9XlnineYV3C-E6Du-zPCgmYVfD_6o2Sd7tmQnoWJUR8",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJQy2a1ytFDhMRv14qui21blQ",
+      "plus_code": {
+        "compound_code": "VGX7+9G Valletta",
+        "global_code": "8F7PVGX7+9G"
+      },
+      "rating": 4.3,
+      "reference": "ChIJQy2a1ytFDhMRv14qui21blQ",
+      "scope": "GOOGLE",
+      "types": ["tourist_attraction", "point_of_interest", "establishment"],
+      "user_ratings_total": 375,
+      "vicinity": "President's Palace, Il-Belt Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.895232,
+          "lng": 14.4448191
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89656077989272,
+            "lng": 14.44621997989272
+          },
+          "southwest": {
+            "lat": 35.89386112010727,
+            "lng": 14.44352032010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Villa Bologna",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103290786188209227015\">Dionis Santin</a>"
+          ],
+          "photo_reference": "ATtYBwKuB9OnddXkwesAvp52NBivYfyUmYkc01murJ3FeKEEfhtovmtR49MkrfI2eLTHNvWyLOa1xqoqRrfg2QqUEv0mtTrS6XNwJTeQ0MIRgp7c5A_HZKPi0X85FE1ed6v6wSJ-4PpwgZ5r6TwEDODh8sNTzhAkv06MMFH153Z_rzHdr2X-",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJFbz3byNQDhMREP7prAQxu4Y",
+      "plus_code": {
+        "compound_code": "VCWV+3W Attard",
+        "global_code": "8F7PVCWV+3W"
+      },
+      "rating": 4.6,
+      "reference": "ChIJFbz3byNQDhMREP7prAQxu4Y",
+      "scope": "GOOGLE",
+      "types": ["tourist_attraction", "point_of_interest", "establishment"],
+      "user_ratings_total": 456,
+      "vicinity": "St Anthony St, Attard"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8991167,
+          "lng": 14.5135722
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90045297989272,
+            "lng": 14.51518677989272
+          },
+          "southwest": {
+            "lat": 35.89775332010728,
+            "lng": 14.51248712010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "St George’s Square",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3496,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107701787108728835196\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwLJPJcb7lAKwfnZ5z4zuNUcwOaeXspXAjF6OipM8PlWnnYY3IFfmbIqXodpGgGBLaj1l2nspx_Hp2jhthvRYU3a63j055KgxH4en-BhEvZFA0LZckmI-Lf6YyRS4wUSFqxsQXkbtZ0tcYZzzjgZDKlTHh0_qCngDMho0xKQxg7EMLUh",
+          "width": 4656
+        }
+      ],
+      "place_id": "ChIJ7xoO8ytFDhMRXaqsPBpCiP4",
+      "plus_code": {
+        "compound_code": "VGX7+JC Valletta",
+        "global_code": "8F7PVGX7+JC"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ7xoO8ytFDhMRXaqsPBpCiP4",
+      "scope": "GOOGLE",
+      "types": ["tourist_attraction", "point_of_interest", "establishment"],
+      "user_ratings_total": 3079,
+      "vicinity": "Republic St, Valletta"
+    }
+  ],
+  "status": "OK"
+}
+

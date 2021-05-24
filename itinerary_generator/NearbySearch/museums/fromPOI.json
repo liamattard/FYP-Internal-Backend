@@ -1,0 +1,456 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8975921,
+          "lng": 14.5124951
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89885667989272,
+            "lng": 14.51371227989272
+          },
+          "southwest": {
+            "lat": 35.89615702010727,
+            "lng": 14.51101262010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "name": "St. John's Co-Cathedral",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3499,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100964993678191580894\">Andy Ong</a>"
+          ],
+          "photo_reference": "ATtYBwLKcA1c8ee09IHMXVgcz44Qw-ouTG4rVh1Kjmg6SeiwqIQRTWAFRG5yTPhhSqF_BlUwSrr42PxtwFdeX1Bov5qRikbLpjnTloynpTY6DxeFgFyaWmVoHq86PJkFuQVj8Zy9iO-v1EHlFWQcsIgfyIfuAMm-T4wdcMvRToZW5cO-D3LB",
+          "width": 5249
+        }
+      ],
+      "place_id": "ChIJbXBWgCxFDhMRz9geY_Enn2c",
+      "plus_code": {
+        "compound_code": "VGX6+2X Valletta",
+        "global_code": "8F7PVGX6+2X"
+      },
+      "rating": 4.7,
+      "reference": "ChIJbXBWgCxFDhMRz9geY_Enn2c",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11286,
+      "vicinity": "Triq San Gwann, Il-Belt Valletta"
+    },
+
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9099382,
+          "lng": 14.4259352
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91108102989272,
+            "lng": 14.42742172989272
+          },
+          "southwest": {
+            "lat": 35.90838137010728,
+            "lng": 14.42472207010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "name": "Mosta Rotunda",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2439,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111239736634102772824\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwJUYttEVdWr7At3TbI0zAjKZzAiavN1Rx4h2ZHYtJ6iM99KJ9Bun8gnyr8dUjkzb44P1Sy1yHBsywWRy6uMN6Pu67oax1zSFjqOiDqbGUxUc8nNk6yYjR8wqqzwBFQiHDV5KeOtf93KpPSmplUYgZi2JiMBF4_Zn0h1QwjCN-pepuWQ",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJhZvztNRPDhMR2xTJg-0odqI",
+      "plus_code": {
+        "compound_code": "WC5G+X9 Mosta",
+        "global_code": "8F7PWC5G+X9"
+      },
+      "rating": 4.7,
+      "reference": "ChIJhZvztNRPDhMR2xTJg-0odqI",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5898,
+      "vicinity": "Rotunda Square, Mosta, Malta, Mosta"
+    },
+
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8869412,
+          "lng": 14.4021387
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88828027989273,
+            "lng": 14.40351432989272
+          },
+          "southwest": {
+            "lat": 35.88558062010728,
+            "lng": 14.40081467010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "The Knights Of Malta",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117258727528535602107\">Michele Colalillo</a>"
+          ],
+          "photo_reference": "ATtYBwJYtAjDgrBnaku3dYMZDhnPxMOnUHIIlu6JUOnHIU9dKkhobixXNgbr6JjVEEJ-MZevT8cknNhh285N75bhIEzkogG2qNOys5fjcNF18nkB4-c_midHRTmnTY3NUCm5bo0tRTwdKOdfmFl3rUidqgx_3XwEy-lqpcpmAZer2-wn69Ib",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJixixVpVRDhMRPdhXWcIIlJ4",
+      "plus_code": {
+        "compound_code": "VCP2+QV Mdina",
+        "global_code": "8F7PVCP2+QV"
+      },
+      "rating": 4.2,
+      "reference": "ChIJixixVpVRDhMRPdhXWcIIlJ4",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 248,
+      "vicinity": "Triq L Imhazen, L-Imdina"
+    },
+
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8924685,
+          "lng": 14.517839
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89352502989271,
+            "lng": 14.51891782989272
+          },
+          "southwest": {
+            "lat": 35.89082537010727,
+            "lng": 14.51621817010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Fort St. Angelo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105686227257562012276\">Jean-Philippe Agius</a>"
+          ],
+          "photo_reference": "ATtYBwICD4PTAT9NdzaKfkeRQt4uuKhQ4Jz-doJ6pe7VFwD3M3j9SPjMMtZOBhjhO28P9462LKY4Cm9lZT0Fb6vLlGrVohXKAmXTHnnTAhc7KBnUf1OZp9_LBf8aNfE95oo3SpHORSwPDSnCkjo_DB4IyGWx7sew0-V26QzK6pB69Fc-JkW9",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJnUdleNVaDhMR1yoxb3uPVEQ",
+      "plus_code": {
+        "compound_code": "VGR9+X4 Birgu",
+        "global_code": "8F7PVGR9+X4"
+      },
+      "rating": 4.6,
+      "reference": "ChIJnUdleNVaDhMR1yoxb3uPVEQ",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3143,
+      "vicinity": "Birgu Waterfront, Birgu"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8277061,
+          "lng": 14.4417664
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.82891302989272,
+            "lng": 14.44409425
+          },
+          "southwest": {
+            "lat": 35.82621337010728,
+            "lng": 14.44099045
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Ħaġar Qim",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102466492953758495297\">guido ochoa</a>"
+          ],
+          "photo_reference": "ATtYBwJcngD11Tg8htCWogmRxZVQYlrrqurfENV_w7WeQ-VN1hhfMX1TjH3BIe7Z7Xdb74cuarfadIW8CkS9vjcUwLpvUkOboYcyxBuH44ym5qLwf8hVJY8RzgAR8M8OvyDab9dvBn2gpZqHqlin4MgLA6JiyxM2yYyUPHTsbCszojP76rrj",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJeaxoR89QDhMRi6GYXIptHTw",
+      "plus_code": {
+        "compound_code": "RCHR+3P Qrendi",
+        "global_code": "8F7PRCHR+3P"
+      },
+      "rating": 4.5,
+      "reference": "ChIJeaxoR89QDhMRi6GYXIptHTw",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2865,
+      "vicinity": "Triq Hagar Qim, Il-Qrendi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8948648,
+          "lng": 14.512804
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89628632989272,
+            "lng": 14.51407337989272
+          },
+          "southwest": {
+            "lat": 35.89358667010728,
+            "lng": 14.51137372010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "The Lascaris War Rooms",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110740079706071460679\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwKfTQ4uQ3uFK84qGGO023AQPsd9uyIkAU7eB2D5PsJIjVDVz3H24kpEnf2eu3Ek4vTj_UUEI0W3EZozOcADAKNIBfB8i9kLWZ4QHVGriAiMIM6HWdmUcOMIVe8cZ2MQg5fdFX61f7BQi3932G7eiXLoexZbUDzpi9K4qgv5o1NUCo-Y",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ748UVNNaDhMRqUGX4FPJ5eA",
+      "plus_code": {
+        "compound_code": "VGV7+W4 Valletta",
+        "global_code": "8F7PVGV7+W4"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ748UVNNaDhMRqUGX4FPJ5eA",
+      "scope": "GOOGLE",
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 626,
+      "vicinity": "Valletta"
+    },
+
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.86918,
+          "lng": 14.511933
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.87042947989272,
+            "lng": 14.51291492989272
+          },
+          "southwest": {
+            "lat": 35.86772982010728,
+            "lng": 14.51021527010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Tarxien Temples",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101894033585347805454\">Flo Slosser</a>"
+          ],
+          "photo_reference": "ATtYBwI0qnx-owbGWfJf1idSMYo2Q9AkjXWWsfH4quQ0qEY2ZFWWmeKLI_KbV394Lm5a54J4gO64BYJ6O0OIUqZnMtqdK3HJMafybNlDtbQm0vEOBwi_jfcvkRrgiTWkOiNbxlzGIpsABQ9PiKXojFjSyXqxkAtje8ynTlBbQVNaUQ-sXETk",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJoVrKvOZaDhMRyudK0lIzTG8",
+      "plus_code": {
+        "compound_code": "VG96+MQ Tarxien",
+        "global_code": "8F7PVG96+MQ"
+      },
+      "rating": 4.3,
+      "reference": "ChIJoVrKvOZaDhMRyudK0lIzTG8",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1693,
+      "vicinity": "Triq It Tempji Neolitici, Ħal Tarxien"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8850854,
+          "lng": 14.4003748
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88635812989272,
+            "lng": 14.40166857989272
+          },
+          "southwest": {
+            "lat": 35.88365847010728,
+            "lng": 14.39896892010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "Domvs Romana",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2792,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113151233389637444192\">Jơana dơѕ Sanтơѕ</a>"
+          ],
+          "photo_reference": "ATtYBwKWLgbiOC0aL9xsBwW3NGzc2kBIy1Jid3lWNZUEUTyQE7uqwLGizLlYVsNlglwe3cn-GBamYQdnn8IW2LnRAIcV48TLx8EWuvZkGMle1wsV0UQZSAy5rcewHBpACrLEIpl1HxGcNMo7ZD7w8SsD7--pEfllPBFut5lfkmLeiy-0biTW",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJt7PV7ZZRDhMReeNNXGu_BaU",
+      "plus_code": {
+        "compound_code": "VCP2+24 Rabat",
+        "global_code": "8F7PVCP2+24"
+      },
+      "rating": 4.1,
+      "reference": "ChIJt7PV7ZZRDhMReeNNXGu_BaU",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 830,
+      "vicinity": "Gheriexem, Ir-Rabat"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8997579,
+          "lng": 14.5123816
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90112002989272,
+            "lng": 14.51375077989272
+          },
+          "southwest": {
+            "lat": 35.89842037010728,
+            "lng": 14.51105112010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Teatru Manoel",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113513353537554498979\">Serge Kovacs</a>"
+          ],
+          "photo_reference": "ATtYBwL9VVJ8rQVL0POYYPXOxnhNNZCMOBuU6zr2TpxdAeVb2JTGt-aP1PJBpx8KcGIiSkygxIUdteAwW5NsufKv97Qum2RA7gfNsXfhd_yRrG6ncwocYJxt0X_9BF-KgyYvXW4uhJHODaVDyCrEARfG12l_gbp8i8zbwl2TCDyY2RPVfJ8m",
+          "width": 4864
+        }
+      ],
+      "place_id": "ChIJQyneDyxFDhMRjYu8a6OcOrg",
+      "plus_code": {
+        "compound_code": "VGX6+WX Valletta",
+        "global_code": "8F7PVGX6+WX"
+      },
+      "rating": 4.6,
+      "reference": "ChIJQyneDyxFDhMRjYu8a6OcOrg",
+      "scope": "GOOGLE",
+      "types": ["tourist_attraction", "point_of_interest", "establishment"],
+      "user_ratings_total": 852,
+      "vicinity": "Old Theatre Street, Il-Belt Valletta"
+    }
+  ],
+  "status": "OK"
+}

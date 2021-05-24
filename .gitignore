@@ -130,3 +130,5 @@ dmypy.json
 
 resnet18_places365.pth.tar
 .pth.tar
+
+demo_cache.sqlite

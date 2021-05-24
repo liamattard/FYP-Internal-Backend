@@ -1,0 +1,549 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9242361,
+          "lng": 14.4886359
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92564522989272,
+            "lng": 14.49009992989272
+          },
+          "southwest": {
+            "lat": 35.92294557010727,
+            "lng": 14.48740027010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "121 Lounge",
+      "place_id": "ChIJUXAoSWlFDhMRAtVPH0LbSbo",
+      "plus_code": {
+        "compound_code": "WFFQ+MF St Julian's",
+        "global_code": "8F7PWFFQ+MF"
+      },
+      "rating": 0,
+      "reference": "ChIJUXAoSWlFDhMRAtVPH0LbSbo",
+      "scope": "GOOGLE",
+      "types": ["night_club", "point_of_interest", "establishment"],
+      "user_ratings_total": 0,
+      "vicinity": "Triq Santa Rita, San Ġiljan"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8962109,
+          "lng": 14.5135842
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89754012989272,
+            "lng": 14.51496002989272
+          },
+          "southwest": {
+            "lat": 35.89484047010728,
+            "lng": 14.51226037010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Bridge Bar",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2770,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111433463546537928323\">dpdpowell</a>"
+          ],
+          "photo_reference": "ATtYBwKpws_xXFwOvXFLNKDVgtviQJbHvNCiNorc_SnUALnoYjcuuKg5KHSUzn98FBFRjHZYGYivdFCCnPS45Wk-Un6-2lS5Oe8sEHJHtk3n78sXlL2SbzccJShddC8ovjIQmjgs0xIIEy_VkpSJF9qAk_SPD3KTbjwZhwkfK40_C70iyvf3",
+          "width": 3907
+        }
+      ],
+      "place_id": "ChIJsc6zXStFDhMR8CHRjcCyQq8",
+      "plus_code": {
+        "compound_code": "VGW7+FC Valletta",
+        "global_code": "8F7PVGW7+FC"
+      },
+      "price_level": 1,
+      "rating": 4.5,
+      "reference": "ChIJsc6zXStFDhMR8CHRjcCyQq8",
+      "scope": "GOOGLE",
+      "types": ["night_club", "bar", "point_of_interest", "establishment"],
+      "user_ratings_total": 796,
+      "vicinity": "Liesse, Il-Belt Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9242598,
+          "lng": 14.4886755
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92566682989272,
+            "lng": 14.49012897989272
+          },
+          "southwest": {
+            "lat": 35.92296717010727,
+            "lng": 14.48742932010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "The Nordic Bar",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112613376434905922477\">Luca Zacchi</a>"
+          ],
+          "photo_reference": "ATtYBwJuQgLZ-siYUxQpPEFmeYdGbhZATO1IQcG-sj39SJDe9GU6-JSPkbGH5kd0Egj4WEk--3loD_BMJgNY_FLrzfzXXxSO2SG_2RwPm-vNwtjUWCCQlrLQFu_ZirZU25iBQEcyOIxhbqc6vEi4l54S3veKCeQJ1HN7CMsZElxj-TtZwa8t",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJYfKcSWlFDhMRPbgZkB44jng",
+      "plus_code": {
+        "compound_code": "WFFQ+PF St Julian's",
+        "global_code": "8F7PWFFQ+PF"
+      },
+      "rating": 3.4,
+      "reference": "ChIJYfKcSWlFDhMRPbgZkB44jng",
+      "scope": "GOOGLE",
+      "types": ["night_club", "point_of_interest", "establishment"],
+      "user_ratings_total": 83,
+      "vicinity": "Triq Santa Rita, San Ġiljan"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9240471,
+          "lng": 14.4889996
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92540132989272,
+            "lng": 14.49035422989272
+          },
+          "southwest": {
+            "lat": 35.92270167010728,
+            "lng": 14.48765457010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Havana",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4624,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107635689545110388116\">Roberto Gaglio</a>"
+          ],
+          "photo_reference": "ATtYBwJiU997ob_nD-GRn-_tGsgljKlwGSekkZmp8NLLc-5fvCSJaUjjHYCjTsU5-R-qWZLB01OYvCeO37Y4cFjWpmEBYZqE_mIKT20H3HzpN-IwHi2dLhOedbMb-mNkdKhebwMQLU0Uc9oCmMZJEF9Ob5XzBWM6wsF4OhZ7GSgG0rXdky5I",
+          "width": 3472
+        }
+      ],
+      "place_id": "ChIJjdpjRWlFDhMRtDGHfgcNy1A",
+      "plus_code": {
+        "compound_code": "WFFQ+JH St Julian's",
+        "global_code": "8F7PWFFQ+JH"
+      },
+      "price_level": 2,
+      "rating": 3.6,
+      "reference": "ChIJjdpjRWlFDhMRtDGHfgcNy1A",
+      "scope": "GOOGLE",
+      "types": ["night_club", "point_of_interest", "establishment"],
+      "user_ratings_total": 418,
+      "vicinity": "St George's Road, St Julian's"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8823845,
+          "lng": 14.3999306
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88371317989272,
+            "lng": 14.40127927989272
+          },
+          "southwest": {
+            "lat": 35.88101352010727,
+            "lng": 14.39857962010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "The Birdcage Lounge",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105545996278429845441\">The Birdcage Lounge</a>"
+          ],
+          "photo_reference": "ATtYBwKb_NUMF6VN7WIY96EVqqtv2CD6fEL8Ycki-W5zvQgqDIsAxHgJE8917qsNMCEFK-VxiAJhPUJ4FA2GrjTiw0RxoKiLzYmpDn_tQEwuBcZcZT7m1WnSAUEerSCHde2-Gqmq9EACZum5qzSxws0AIAunv4ZxfO2ndHot6hyvSnR-H5P_",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJpZV31pVRDhMRGJdL9KJf_WA",
+      "plus_code": {
+        "compound_code": "V9JX+XX Rabat",
+        "global_code": "8F7PV9JX+XX"
+      },
+      "price_level": 1,
+      "rating": 4.8,
+      "reference": "ChIJpZV31pVRDhMRGJdL9KJf_WA",
+      "scope": "GOOGLE",
+      "types": ["bar", "night_club", "point_of_interest", "establishment"],
+      "user_ratings_total": 21,
+      "vicinity": "Triq il-Kbira, Ir-Rabat"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8913586,
+          "lng": 14.4192291
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89268647989272,
+            "lng": 14.42043462989272
+          },
+          "southwest": {
+            "lat": 35.88998682010727,
+            "lng": 14.41773497010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "UNO Malta",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110823628911333122845\">Tomas Z</a>"
+          ],
+          "photo_reference": "ATtYBwLEmEya2NR9M_gx9VKa0m2cDv_ivl7UT-a6M2CitNtexh8GGSDaVWGfQ0wz1NyTfnN3nQL2JwX31JvzSseRB3vg8VSGnrmwFyybFqHeZ5qJCwEZ_8OPPD3DYrZY0x_RFPDWQAizRJYivSFP6b8bbWW9xYEOg4OGW_VS9X9KKF3wgr65",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJdbmlpc5RDhMR3EwuAnoN_v8",
+      "plus_code": {
+        "compound_code": "VCR9+GM Attard",
+        "global_code": "8F7PVCR9+GM"
+      },
+      "rating": 4.5,
+      "reference": "ChIJdbmlpc5RDhMR3EwuAnoN_v8",
+      "scope": "GOOGLE",
+      "types": ["night_club", "point_of_interest", "establishment"],
+      "user_ratings_total": 83,
+      "vicinity": "Uno Malta, Crafts Village, Ta'Qali, Attard ATD"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8756637,
+          "lng": 14.418182
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.87683517989272,
+            "lng": 14.41947187989272
+          },
+          "southwest": {
+            "lat": 35.87413552010728,
+            "lng": 14.41677222010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Gianpula Main Room",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3948,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103665443605698246747\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwLdiriI2tEJdJSECu47WBCVqKRsrPoeIpY_S6Aqj-QlOYBMBBtxnli14TpKubceq9uXqSwN-HKcSUbW3jHdXWBDUxxIQAUZpmL5YU_Pu_QfLb-zP2r9fSLmtvpIbCjJC7hK6qjRjVGqGMGoEv6_burWv14CWBiVtGjtoJTdojoSFymZ",
+          "width": 5272
+        }
+      ],
+      "place_id": "ChIJoyrQUFJRDhMREFmTn9DVJcs",
+      "plus_code": {
+        "compound_code": "VCG9+77 Haz-Zebbug",
+        "global_code": "8F7PVCG9+77"
+      },
+      "rating": 4.2,
+      "reference": "ChIJoyrQUFJRDhMREFmTn9DVJcs",
+      "scope": "GOOGLE",
+      "types": ["night_club", "point_of_interest", "establishment"],
+      "user_ratings_total": 528,
+      "vicinity": "Gianpula Main Room at Gianpula Village Gianpula Village Road l/o Rabat RBT"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9240882,
+          "lng": 14.4890973
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92543292989271,
+            "lng": 14.49043542989272
+          },
+          "southwest": {
+            "lat": 35.92273327010727,
+            "lng": 14.48773577010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Footloose",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116216202357062578677\">Kevin Bettin</a>"
+          ],
+          "photo_reference": "ATtYBwI7cqvzPNIxR-tSd6VbTToPznP-HgwaBqz0pWxcwgSloy83Og2TlxKhFT1vnycvcurZravVwlxk3RiowGJFvD_3-R_9HVDEUi6DpNhGEKOEQcnvKCEgH6Z2Da2TKT3lER2HXsS6qGX4f_nEvl3aKD9LzXDmH-L8tQ5sXPrACa2GmDJP",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJlyZJRWlFDhMR9EhReEIIEpI",
+      "plus_code": {
+        "compound_code": "WFFQ+JJ St Julian's",
+        "global_code": "8F7PWFFQ+JJ"
+      },
+      "price_level": 1,
+      "rating": 3.7,
+      "reference": "ChIJlyZJRWlFDhMR9EhReEIIEpI",
+      "scope": "GOOGLE",
+      "types": ["night_club", "point_of_interest", "establishment"],
+      "user_ratings_total": 145,
+      "vicinity": "St George's Road, St Julian's"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.924946,
+          "lng": 14.4910352
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92635132989272,
+            "lng": 14.49254157989272
+          },
+          "southwest": {
+            "lat": 35.92365167010728,
+            "lng": 14.48984192010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Sky Club Malta",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105898425809650364596\">S P</a>"
+          ],
+          "photo_reference": "ATtYBwI1zqUi_a3mOraKQ4d41oW5s2ZlNGuMc6PUChGhjoPGjXmdWdFZK0-0tiTRrwN1pbh1u0kWExkvFKv-5qiu4sPXSuVVrF6jmj0ejiSHd9-4MvFF-RAZ1onF5XkjwQt7voRkXAe8ak-OXDV2WBHm3wmM-svhtLNXSqUiFPXDogX4avKC",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJzX5ic2xFDhMRUHcNRm7YL3I",
+      "plus_code": {
+        "compound_code": "WFFR+XC St Julian's",
+        "global_code": "8F7PWFFR+XC"
+      },
+      "rating": 4,
+      "reference": "ChIJzX5ic2xFDhMRUHcNRm7YL3I",
+      "scope": "GOOGLE",
+      "types": ["night_club", "point_of_interest", "establishment"],
+      "user_ratings_total": 54,
+      "vicinity": "Triq Dragunara, San Ġiljan"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.912267,
+          "lng": 14.462575
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91360422989272,
+            "lng": 14.46400887989272
+          },
+          "southwest": {
+            "lat": 35.91090457010728,
+            "lng": 14.46130922010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "Liquid Club Malta",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109422189273649860132\">Liquid</a>"
+          ],
+          "photo_reference": "ATtYBwLItQKN5_tEapDk8udBehCtsReGtYeGQiupT9Bpns9UIOJeidW0VKmmdvviCk-40SM4d165uP-9h-x3xIYt8MujEPhDVKIpYUs8XjlSncOul7Lnnk0lAA8S6u-5noJVNjCUtzY9OAch8U6dZUouXXEYpNygjs9uhKRM7qkTewYub6V8",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJm3T1dvBPDhMRyuKpiv6LpUA",
+      "plus_code": {
+        "compound_code": "WF67+W2 San Gwann",
+        "global_code": "8F7PWF67+W2"
+      },
+      "rating": 4.4,
+      "reference": "ChIJm3T1dvBPDhMRyuKpiv6LpUA",
+      "scope": "GOOGLE",
+      "types": ["night_club", "point_of_interest", "establishment"],
+      "user_ratings_total": 20,
+      "vicinity": "Triq Hal-Gharghur, San Ġwann"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9243354,
+          "lng": 14.488902
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92569082989272,
+            "lng": 14.49029417989272
+          },
+          "southwest": {
+            "lat": 35.92299117010728,
+            "lng": 14.48759452010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "The Network (St Julians, Malta)",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1281,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113399989924007520421\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwJIguPT0EuJJ4Yex3nQFK_DlNnVPDXW4fs21T_3ueMH20WSRFRtdlRnhwSclAoiA6hqs9R3prfOZiTz9iBzlnCb2UP6_YS37I011LC_1tpVFubVy3NC2UzBcfZvNFtClKyIoFu-6gUTtba8z_JclKvQ61uLELvzJs343nePfdLKUkMH",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ2wv81D9FDhMRxe2rvsmCs2A",
+      "plus_code": {
+        "compound_code": "WFFQ+PH St Julian's",
+        "global_code": "8F7PWFFQ+PH"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ2wv81D9FDhMRxe2rvsmCs2A",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 180,
+      "vicinity": "The Axis complex Triq San Gorg St. Julians, Paceville"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9181831,
+          "lng": 14.4984211
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91953292989272,
+            "lng": 14.49977092989272
+          },
+          "southwest": {
+            "lat": 35.91683327010727,
+            "lng": 14.49707127010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "The Exiles Beach Club",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 425,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102008728820447568058\">The Exiles Restaurant &amp; Beach club</a>"
+          ],
+          "photo_reference": "ATtYBwK-dLY-JgbmervE2aXt8EHZPrwNq0KBK3-7gJo4HdgtD5hqHnzZE8iZTFDWBH1VLuqLtSbDrRfE97NyfMWyzMSdxgWqaUQQeYHF7gpSxqkoDqmP0rUUdxu4dBDTvdmEGKt27iF42jTpdbXuZviPP2cmdx_He-qfhY9lFsWT6xlYMVz3",
+          "width": 638
+        }
+      ],
+      "place_id": "ChIJjx31gBVFDhMR-wc9nd9NcIE",
+      "plus_code": {
+        "compound_code": "WF9X+79 Sliema",
+        "global_code": "8F7PWF9X+79"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJjx31gBVFDhMR-wc9nd9NcIE",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 479,
+      "vicinity": "Tower Road Sliema"
+    }
+  ],
+  "status": "OK"
+}

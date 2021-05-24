@@ -1,0 +1,786 @@
+{
+  "html_attributions": [],
+  "next_page_token": "ATtYBwJbff83NktA9rZaMW3huKhLxEAw39jmxb9HYcv1y-JychvE3IoLDUyd6H5zVbXXB842ai2PIF12VGt0ySzWogKW40Pq4ojnRx328Lm1t-xItjd2fR8uUT4J4q2J__i4fnzuNJJvI3SODCPl8sP9s8Pm8j4gEOvAAcc3XvtCWvmj02SVji5I-E_sZTA_neQ6kMe-d752dRiPONPaHTh9JcrWEP-u2TeLqPwmZdRmhtjFyNgsakUj2H5pZSQ8_5Asy12rbceUpB4gjDvRWKsZS6ERmSNNZ3jbBEUzv_TBwjzlzAr-p9fXnH2LkqGQq6yWAZxVoxynChKYLLOo87TqZgrV54L4omYST3e9Kl4036iHvlrKVvQ7t2OY3yro9L_Uu30_6zcljjyV0GDggh0-ZkJfcQ4foz08mC65TCons0LC5d9sB3HudDd-bUTSrRk7kHx0",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.896684,
+          "lng": 14.491295
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89799392989272,
+            "lng": 14.49266097989272
+          },
+          "southwest": {
+            "lat": 35.89529427010728,
+            "lng": 14.48996132010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Busy Bee Cafe",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105314731193031504085\">Klaus Eder</a>"
+          ],
+          "photo_reference": "ATtYBwLse-0rfha8pdby7cXPeLoO8zMeCUG3Fhx8ddtLs_a6Ig7yjojZaJ4xP5WbW7X-OnX9204btxYeAd_1d8tOHj5KXl3lxehyYGKgGPC3qG8Vq11ZmYa8Fvts0T2bxziz9M0hbMqZU7WPSwL5gaUaFxWlBOe3QmPlpCXYL2WajhBneHy0",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ2fKQwLRaDhMREMnld6tLI8Q",
+      "plus_code": {
+        "compound_code": "VFWR+MG Msida",
+        "global_code": "8F7PVFWR+MG"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJ2fKQwLRaDhMREMnld6tLI8Q",
+      "scope": "GOOGLE",
+      "types": ["cafe", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 1503,
+      "vicinity": "30 ix-Xatt Ta' Xbiex, L-Imsida"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.897327,
+          "lng": 14.513373
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89867682989272,
+            "lng": 14.51472282989272
+          },
+          "southwest": {
+            "lat": 35.89597717010727,
+            "lng": 14.51202317010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Piadina Caffe",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111834115996958344176\">Juliana magalhães</a>"
+          ],
+          "photo_reference": "ATtYBwLRhME4ZJKLPECctyq_Ccs-jqEn9NTOA61GV0X2VMFovtakzHrAbabJga2nLzmt7M9DWz5e3Kp4Oz0SNShuFM4f3q-uHMF4dfnizvCMLrXbuiFLb77rrEdVD6NGooDwMLnisK8DDjC02EUukpWbrtAd2Ks4GO2XBAunmX6CJJBF4-1-",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJe_VDfCtFDhMRECkn_wNJYkE",
+      "plus_code": {
+        "compound_code": "VGW7+W8 Valletta",
+        "global_code": "8F7PVGW7+W8"
+      },
+      "price_level": 1,
+      "rating": 4.7,
+      "reference": "ChIJe_VDfCtFDhMRECkn_wNJYkE",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 554,
+      "vicinity": "24, St.Lucia Street, Il-Belt Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8985507,
+          "lng": 14.5148405
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89990052989272,
+            "lng": 14.51619032989272
+          },
+          "southwest": {
+            "lat": 35.89720087010728,
+            "lng": 14.51349067010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Vintage Cafe",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3672,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103874466616787794694\">Mark Norris</a>"
+          ],
+          "photo_reference": "ATtYBwKxZX0-3nqDiFzqXkSlydt6SwjvHxSygXf3E7X7dHTioc0EnZepH_Og8U0sdlsS1AFRE7sfPLQMcf-xlT4UxYvSBPa3N6EN7ZYkoqm9a_EM9f9YO4e90ujUayX6ALRcOAtsdo0KGBpre0H-KCajTganmfRJSQ2CX-akyOb89lWsYB0X",
+          "width": 4896
+        }
+      ],
+      "place_id": "ChIJGR2hvitFDhMRT1HpERVJ4QE",
+      "plus_code": {
+        "compound_code": "VGX7+CW Valletta",
+        "global_code": "8F7PVGX7+CW"
+      },
+      "price_level": 2,
+      "rating": 3.7,
+      "reference": "ChIJGR2hvitFDhMRT1HpERVJ4QE",
+      "scope": "GOOGLE",
+      "types": ["cafe", "food", "point_of_interest", "store", "establishment"],
+      "user_ratings_total": 60,
+      "vicinity": "Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9025665,
+          "lng": 14.452583
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90393137989273,
+            "lng": 14.45399777989272
+          },
+          "southwest": {
+            "lat": 35.90123172010728,
+            "lng": 14.45129812010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Eri’s Gourmet Café",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107679709482645776979\">Stephanie Said</a>"
+          ],
+          "photo_reference": "ATtYBwLziWsFXVaI67jsBCtYGpKv8GBihxhWEgNECMyiayz_e80bPYbokTQ1EdvXJjHZjUasMX64a6MMGMqcamBHQaVzps4HZ7pxnyskMk47itH5_oqwoPO4XKiDsTo0Vxs6KVXhxbWDMPa2Y_GQuxvko3s_6ZL8NeD8mDKo6MKJTJqS6FvW",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ12W4bV5RDhMRee0Ce3CGtFc",
+      "plus_code": {
+        "compound_code": "WF33+22 Iklin",
+        "global_code": "8F7PWF33+22"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJ12W4bV5RDhMRee0Ce3CGtFc",
+      "scope": "GOOGLE",
+      "types": ["cafe", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 190,
+      "vicinity": "5 Citru, L-Iklin"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9193541,
+          "lng": 14.4897677
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92068252989272,
+            "lng": 14.49120327989272
+          },
+          "southwest": {
+            "lat": 35.91798287010727,
+            "lng": 14.48850362010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Café Juliani",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108203837320670541579\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwL8WfQA37HhWk5gbUixOC2Izifw_XkmThrSPbEA7pKvHypgI-D3QkYo0xKZcJi7D2dUlTSi0zCe40Z7OQlBNKNJmU7rSQnSg0902eVHiBi1QAX_XCGG5ZKeM8kHfqOuTWoO-vBE_ofsKhaz9zdOmO2EBVBuh-ToZxTEdj3ol-tyj23s",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJmXoQAGpFDhMR_eQU5Eu49Ro",
+      "plus_code": {
+        "compound_code": "WF9Q+PW St Julian's",
+        "global_code": "8F7PWF9Q+PW"
+      },
+      "rating": 4.5,
+      "reference": "ChIJmXoQAGpFDhMR_eQU5Eu49Ro",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 79,
+      "vicinity": "25 Saint George's Road St Julian's"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9045235,
+          "lng": 14.4957002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90587022989272,
+            "lng": 14.49711807989272
+          },
+          "southwest": {
+            "lat": 35.90317057010728,
+            "lng": 14.49441842010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "the Crew Cafè Bar",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 796,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106445496881067942500\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwLuRwSOWvdjaTPTphjfYIFsSLgWNff0yNnNMVdsbV9rMMcNClSsGycNl20L6n8zpAQKGs9ZP-qIrijDKQ7HiMDssqgmG7qiKlL1aAgHIN4y5iT3MGqpXxQ_L3hbwev2h0kEzipmN149iU3GoZdoYWYjh6Pn_AfPlNole3eYViqu9gAc",
+          "width": 772
+        }
+      ],
+      "place_id": "ChIJL_2uV0RFDhMRgdLDdo3VmbQ",
+      "plus_code": {
+        "compound_code": "WF3W+R7 Gzira",
+        "global_code": "8F7PWF3W+R7"
+      },
+      "rating": 4.8,
+      "reference": "ChIJL_2uV0RFDhMRgdLDdo3VmbQ",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 122,
+      "vicinity": "207 Triq Ix - Xatt, Il-Gżira"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8871467,
+          "lng": 14.4037212
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88846807989272,
+            "lng": 14.40505092989272
+          },
+          "southwest": {
+            "lat": 35.88576842010728,
+            "lng": 14.40235127010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Fontanella Tea Garden",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109713300700615304560\">Patricia Díaz</a>"
+          ],
+          "photo_reference": "ATtYBwKEIkZoXw-8wKeBTR_W29Iox0Cd8NT3xdgvjuavHIitzBAjXiwb67jE0IJa0kuW0hLJH4IvxStl7p0_arnXW_AVOHPUA2xA5zz-pjJ8BrMyRh0m5Dc3ZMS8vXO8sTss3bDms1XDSRM8ZPn__ghoQdhju12BwhH8RZxC-VtFU5cQRJGC",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJJcIaCsBRDhMRu-b-D4p6Klg",
+      "plus_code": {
+        "compound_code": "VCP3+VF Mdina",
+        "global_code": "8F7PVCP3+VF"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJJcIaCsBRDhMRu-b-D4p6Klg",
+      "scope": "GOOGLE",
+      "types": ["cafe", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 5717,
+      "vicinity": "Mdina"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9137432,
+          "lng": 14.4436184
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91504992989272,
+            "lng": 14.44497367989272
+          },
+          "southwest": {
+            "lat": 35.91235027010728,
+            "lng": 14.44227402010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Becky's Cafe",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103765268484716462303\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwKQHvxR14V8c74n2DswhiGk5U44pGcCUMITT7KWrDbXXlrwBjxuYpCscBCqrb0vrfSSdBvxrhw0qfpB3_EyCYw7BPyZkzptE-rY8OsffkM2zxNuk1rBgg6iWhcK75aeEqUzlJGDG-NnR3tG-spz6DXoT21w8BHTjogrtkpEYKhvqjjs",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJF7Avr9xPDhMRPPsJKp0mdIA",
+      "plus_code": {
+        "compound_code": "WC7V+FC Naxxar",
+        "global_code": "8F7PWC7V+FC"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJF7Avr9xPDhMRPPsJKp0mdIA",
+      "scope": "GOOGLE",
+      "types": ["cafe", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 277,
+      "vicinity": "Naxxar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9542942,
+          "lng": 14.4174999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.95565072989272,
+            "lng": 14.41879902989272
+          },
+          "southwest": {
+            "lat": 35.95295107010728,
+            "lng": 14.41609937010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Delos",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3883,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110911015623898054305\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwJFXTvoakh_5NBjGanTo7PGIaF94SMM-JQgvgNBoHz3yLtCT_cvpKCnJwf-5fuRJ68MeGVnSPZHTOfnsinKY44sKlTj9eMLN679lnJGFDD5wbf9y3JxW8bkjAkMNLNXuzFxjo5mSjgnxmOuO9R8mk6TPHCNljiDD0y16iiYkpzYzuIg",
+          "width": 5817
+        }
+      ],
+      "place_id": "ChIJ-4MxZflODhMRN9T7Ovhs6N0",
+      "plus_code": {
+        "compound_code": "XC38+PX St Paul's Bay",
+        "global_code": "8F7PXC38+PX"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ-4MxZflODhMRN9T7Ovhs6N0",
+      "scope": "GOOGLE",
+      "types": ["cafe", "food", "point_of_interest", "store", "establishment"],
+      "user_ratings_total": 163,
+      "vicinity": "Dawret il Gzejer, St Paul's Bay"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8987096,
+          "lng": 14.5132758
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90005942989272,
+            "lng": 14.51462562989272
+          },
+          "southwest": {
+            "lat": 35.89735977010727,
+            "lng": 14.51192597010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Caffe Cordina",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110018002057552323624\">William V</a>"
+          ],
+          "photo_reference": "ATtYBwLRE3TGy7GfXCEyKKjdIUoJoxKkKoA6H2iFIlCxorBDv63wlsBhCZtn8Lm39fmdwgSc6a29MYRjwFXpnUS7JdP09dU5dcbFshkXhOw_NqrQWv3njAs3QfhXINHHtHJQlH7qT2z1k4Tv_qBRwPHJzXoG7cwMef5JykFd-T-kUAVwbWk-",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJBRwagilFDhMRDN0qiq1cPVk",
+      "plus_code": {
+        "compound_code": "VGX7+F8 Valletta",
+        "global_code": "8F7PVGX7+F8"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJBRwagilFDhMRDN0qiq1cPVk",
+      "scope": "GOOGLE",
+      "types": ["cafe", "food", "point_of_interest", "store", "establishment"],
+      "user_ratings_total": 2583,
+      "vicinity": "244 Republic, Il-Belt Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.897091,
+          "lng": 14.509365
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89845067989273,
+            "lng": 14.51072142989272
+          },
+          "southwest": {
+            "lat": 35.89575102010728,
+            "lng": 14.50802177010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Cafè Minas",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112651549066898176257\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwKKPu0EwNVaTm_FHCjBSDh5kIpvsms4QxrmK263l2A7o005c6mb8buZJleRZ2NxLAcMhWcXY9mDogCjbgGwWAkU96wlGGLzt3IBuhdoZvOWALcra4TKy1uGPBdWFcSMf9FLzBcA8gEeDBd0caN4c-HPrwplbo5NeBF1S-4mIZtJGRi7",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJc9MqGC1FDhMRwkRjr150y2Y",
+      "plus_code": {
+        "compound_code": "VGW5+RP Valletta",
+        "global_code": "8F7PVGW5+RP"
+      },
+      "rating": 4.7,
+      "reference": "ChIJc9MqGC1FDhMRwkRjr150y2Y",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 217,
+      "vicinity": "Shop 8 city gate, Ordinance Street, Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.89959169999999,
+          "lng": 14.5125924
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90093452989272,
+            "lng": 14.51393127989272
+          },
+          "southwest": {
+            "lat": 35.89823487010728,
+            "lng": 14.51123162010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "name": "67 Kapitali",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3909,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116954406094356195259\">il kapitali</a>"
+          ],
+          "photo_reference": "ATtYBwI6ZUTT2J8U9fcfojTUXFdS-IKQifwkkL5ETOtXYhKxtOnna_FytWOY9t3wX6V4KiiRvaD4vjvajmjTVZJOr4hH1SZcXukXE2-oDfb4Hu2CIcyU5cB8k31rG9MPI-6CgiRWISb_V3kT11N3_qfMA8ULg0UFsJZQ5DNXUHoa9vh-zA6W",
+          "width": 5856
+        }
+      ],
+      "place_id": "ChIJayqGDixFDhMRz9WHF7_w2ZE",
+      "plus_code": {
+        "compound_code": "VGX7+R2 Valletta",
+        "global_code": "8F7PVGX7+R2"
+      },
+      "price_level": 2,
+      "rating": 4.7,
+      "reference": "ChIJayqGDixFDhMRz9WHF7_w2ZE",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 877,
+      "vicinity": "67 Triq l-Ifran Il-Belt Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.9139284,
+          "lng": 14.4943954
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91529902989272,
+            "lng": 14.49569587989272
+          },
+          "southwest": {
+            "lat": 35.91259937010728,
+            "lng": 14.49299622010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "La Crema",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100185724344014824879\">jung jin</a>"
+          ],
+          "photo_reference": "ATtYBwLrlWODu4Cb6kLuarq106CZ7E5l-MlBJa33h_h5wDsvdc94jOnPZSH4L5vMgmwEjuhCq401DV9rr4FGy-Hu2TApHlMK6zIHFPgzp28Mcu4eKsyPRm2QoyvycuOCTvccXoJVOzA_QPjMAQ-MSxCg0_ogN006KIHl1R-Uw1x21M4PaoIn",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJDywpkGBFDhMRFSEUcVvMnAI",
+      "plus_code": {
+        "compound_code": "WF7V+HQ St Julian's",
+        "global_code": "8F7PWF7V+HQ"
+      },
+      "price_level": 2,
+      "rating": 4.7,
+      "reference": "ChIJDywpkGBFDhMRFSEUcVvMnAI",
+      "scope": "GOOGLE",
+      "types": ["cafe", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 320,
+      "vicinity": "Balluta Buildings, 26, Main Street, St Julian's"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.89770830000001,
+          "lng": 14.5121833
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89901052989271,
+            "lng": 14.51346062989272
+          },
+          "southwest": {
+            "lat": 35.89631087010727,
+            "lng": 14.51076097010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Kantina Café - Wine",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 9072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110268155897366415266\">Michael Redman</a>"
+          ],
+          "photo_reference": "ATtYBwKcKVg400rMjVXk3vHkMCflsl8ihvtLxWTuhZjo1Qg6oW9YnSOcgTp-mz4zAnWPi8uYuaMZ8_giRa8WHaS08TKyAEhbX83z_U9jNoLgKU75b6I8TBNZ50juB0w2z1xzS2xhqZNZBAjx-2R4rghfdG8oRqXz5Eb3kl9Nbqe8KrmLQMDz",
+          "width": 12096
+        }
+      ],
+      "place_id": "ChIJhxUWiSxFDhMRjBZn2S2NLXQ",
+      "plus_code": {
+        "compound_code": "VGX6+3V Valletta",
+        "global_code": "8F7PVGX6+3V"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJhxUWiSxFDhMRjBZn2S2NLXQ",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 699,
+      "vicinity": "Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.886864,
+          "lng": 14.4873351
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88817517989272,
+            "lng": 14.48866482989272
+          },
+          "southwest": {
+            "lat": 35.88547552010727,
+            "lng": 14.48596517010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name": "Elia Cafe'",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107187073235990283199\">Chris Cassar</a>"
+          ],
+          "photo_reference": "ATtYBwJKgtv466w9nvc091m-QLOTgiw-k9dm5C14Y9DCWX_ZXIE7vhGZSqNSqAQo17l2Uj7a6aIKKwf7H7M1meRNXTYbeMRGv76i6ocCTpzYeGplN-h1Wq2BXlrvHKgAF3EGXZzyC8rZOH9qzfx3pZw-fnCd54zqfgoqWWGFlLWwhuTcWUZU",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJP1q4ZLpaDhMRDlRkBz73z3U",
+      "plus_code": {
+        "compound_code": "VFPP+PW Hamrun",
+        "global_code": "8F7PVFPP+PW"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJP1q4ZLpaDhMRDlRkBz73z3U",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "bakery",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 497,
+      "vicinity": "Triq il-Kbira San Ġużepp, Il-Ħamrun"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.9143846,
+          "lng": 14.4444694
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.91572372989273,
+            "lng": 14.44579922989272
+          },
+          "southwest": {
+            "lat": 35.91302407010728,
+            "lng": 14.44309957010728
+          }
+        }
+      },
+      "name": "JAVA breakfast and brunch",
+      "price_level": 2,
+      "rating": 4.5,
+      "user_ratings_total": 137
+    },
+
+    {
+      "geometry": {
+        "location": {
+          "lat": 35.9203602,
+          "lng": 14.490513
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.92171322989272,
+            "lng": 14.49184992989272
+          },
+          "southwest": {
+            "lat": 35.91901357010727,
+            "lng": 14.48915027010728
+          }
+        }
+      },
+      "name": "Crust",
+      "price_level": 2,
+      "rating": 4.5,
+      "user_ratings_total": 583
+    }
+  ],
+  "status": "OK"
+}

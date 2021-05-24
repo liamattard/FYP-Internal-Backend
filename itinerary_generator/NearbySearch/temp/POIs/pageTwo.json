@@ -1,0 +1,527 @@
+{
+  "html_attributions": [],
+  "next_page_token": "ATtYBwLlX_oyTzOHlIScCrz__GIKvVA06aMH2ZrenqdiALHCUooS73njiBl3z8HXJyAQRZntv-rDDw1F0wp1nhrV3nA6wr41c51GS_zAaKfudN7hFtfbVbyh4UvOKMJ0d53pslip0iCDWyOv0_r8e-Fs7GTWT5R4JsN_UZEm3Uhxh_fEcvtIjY56rl7qJjbvP00qYJH6MM3dFgdyDH9B4IgGTikRvlpdCRCSgn2mTCLy5qaYaAKIC0KExL8nEzq_MjsYvg_8Nielxj4BlxAGHmWHIJjsTr-yyU8s0JMjv2IKuecJ14rGoLmjUJSFsfpbWtury4oxyvkNsUc1w8uZieUb6ieckqHZWUoue0liDKr4_XQYSMf4zjrIPWpa2hTw_9gUM2khTF-mfcbDv9JvZ9U20qiu9soh8rbnYiWMggGTly8MBGmhHYQVDK_o_doPrsZS76FQx09LeUCJX5u78nIeOW8iLw7f_vLyUP9jp9cv_7WYOACAzMrjGtfIvRCExmWHP65KpqCkdZ6aO5roxoPpcrQYTWfXDX67vh04HdjShzv5op9kUnrHNVOGVWJiKn0PiyNQ9Mu9iVJl2KTNcqXuIDLn0zkE4TMN8EYu1_TGX9AAsUp3VYKbLKQmeKTQAT70wWOmNnvTytr42Y4pyi0YIvlIWTUuvBlwAvon8Eo8V1O-PjZmm7TXYQ",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8997579,
+          "lng": 14.5123816
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90112002989272,
+            "lng": 14.51375077989272
+          },
+          "southwest": {
+            "lat": 35.89842037010728,
+            "lng": 14.51105112010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Teatru Manoel",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113513353537554498979\">Serge Kovacs</a>"
+          ],
+          "photo_reference": "ATtYBwL9VVJ8rQVL0POYYPXOxnhNNZCMOBuU6zr2TpxdAeVb2JTGt-aP1PJBpx8KcGIiSkygxIUdteAwW5NsufKv97Qum2RA7gfNsXfhd_yRrG6ncwocYJxt0X_9BF-KgyYvXW4uhJHODaVDyCrEARfG12l_gbp8i8zbwl2TCDyY2RPVfJ8m",
+          "width": 4864
+        }
+      ],
+      "place_id": "ChIJQyneDyxFDhMRjYu8a6OcOrg",
+      "plus_code": {
+        "compound_code": "VGX6+WX Valletta",
+        "global_code": "8F7PVGX6+WX"
+      },
+      "rating": 4.6,
+      "reference": "ChIJQyneDyxFDhMRjYu8a6OcOrg",
+      "scope": "GOOGLE",
+      "types": ["tourist_attraction", "point_of_interest", "establishment"],
+      "user_ratings_total": 852,
+      "vicinity": "Old Theatre Street, Il-Belt Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8365032,
+          "lng": 14.5280405
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.83807587989272,
+            "lng": 14.52946782989272
+          },
+          "southwest": {
+            "lat": 35.83537622010727,
+            "lng": 14.52676817010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "Għar Dalam Cave",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 660,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115623347689500802552\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwL-Cu0xp7SePFORnpgQrhgpIlM-3HWhhUjxAeYCPlUrmYKflDXj6xyFuk89calJZI_bUQpHh4vmGzSWHxMERtsGFuxaakIrvIQMj2nOEVUWKkIozWfeS_UEAjpxj6p8isoApka1itPDLFVABLamG2tYwJ0Tlebf2hrqySnfMcuWJMG6",
+          "width": 990
+        }
+      ],
+      "place_id": "ChIJS8in5LBbDhMRspBZLhtuM_A",
+      "plus_code": {
+        "compound_code": "RGPH+J6 Birżebbuġa",
+        "global_code": "8F7PRGPH+J6"
+      },
+      "rating": 3.8,
+      "reference": "ChIJS8in5LBbDhMRspBZLhtuM_A",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1022,
+      "vicinity": "Ghar Dalam Cave, Triq Ghar Dalam, Birżebbuġa"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.88470179999999,
+          "lng": 14.4034154
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88603347989272,
+            "lng": 14.40479852989272
+          },
+          "southwest": {
+            "lat": 35.88333382010727,
+            "lng": 14.40209887010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Mdina Gate",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118254626848940230374\">Aleksandar Vuckovic</a>"
+          ],
+          "photo_reference": "ATtYBwJMIRvnjJREYvG5jf6TpLQ4D9zZB6Nl1H_NXoY3vVNX1Ab00p0DHZm3103puWkMjlwPtMbe0uLb_EzcPr64pG8gtJU193HVsyvDBz1cFtuO4KpCjrOCf-fHa5dYx9ziWMgaL-chG_0JFDnoHipout0A-kZzERZA4kkP5BsIDlJIJOaK",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJFRVRzL9RDhMR6XcXFs1Gm2k",
+      "plus_code": {
+        "compound_code": "VCM3+V9 Mdina",
+        "global_code": "8F7PVCM3+V9"
+      },
+      "rating": 4.7,
+      "reference": "ChIJFRVRzL9RDhMR6XcXFs1Gm2k",
+      "scope": "GOOGLE",
+      "types": ["tourist_attraction", "point_of_interest", "establishment"],
+      "user_ratings_total": 18642,
+      "vicinity": "Mdina"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8974522,
+          "lng": 14.5175869
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89866622989273,
+            "lng": 14.51895542989272
+          },
+          "southwest": {
+            "lat": 35.89596657010728,
+            "lng": 14.51625577010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name": "Lower Barrakka Gardens",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103754407640260677768\">Rory Dack</a>"
+          ],
+          "photo_reference": "ATtYBwKYekCL_hyX5tbNGaBxj1INVbvm0nM6gHLU3K7qg3LDCTq5ngPYmKg0ldAxUmwV2O56Qk_Tr5FqHyyeVeD_FJrnywWwBdWy-k6k_JqlpZRT3LNC7DNNMBhjjohvh-trBrfRVu0qv_cMqMFYUtM9MDTj2k8zpUw-hX6dLW9BGjDHrGGG",
+          "width": 2880
+        }
+      ],
+      "place_id": "ChIJEZzvZipFDhMR4AjAdMW3R8I",
+      "plus_code": {
+        "compound_code": "VGW9+X2 Valletta",
+        "global_code": "8F7PVGW9+X2"
+      },
+      "rating": 4.6,
+      "reference": "ChIJEZzvZipFDhMR4AjAdMW3R8I",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7591,
+      "vicinity": "Quarry Wharf, Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8210156,
+          "lng": 14.4566238
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.82282872989272,
+            "lng": 14.45760452989272
+          },
+          "southwest": {
+            "lat": 35.82012907010727,
+            "lng": 14.45490487010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Blue Grotto",
+      "opening_hours": {},
+      "photos": [
+        {
+          "height": 2685,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116521686287835707326\">Maria Kohlhase</a>"
+          ],
+          "photo_reference": "ATtYBwJ2xnqEDiVLrXV5nnlzSWZCvGdijHfH83IYqKCkxboalsyqY8EcWI0RcNGQJ8gsruVSbgEi3XzBx3V28i2fqxjqTZjTkE7x-Bi5h7B3FOy4yZG6oF165LAyZtv4ixFhkVgwCWaSkfFLga3xgcbqsTtNQ4NCYNqFDhossTgaRo9HZcHk",
+          "width": 3959
+        }
+      ],
+      "place_id": "ChIJVVVVybNQDhMRQT1A5vzDQZo",
+      "plus_code": {
+        "compound_code": "RFC4+CJ Qrendi",
+        "global_code": "8F7PRFC4+CJ"
+      },
+      "rating": 4.6,
+      "reference": "ChIJVVVVybNQDhMRQT1A5vzDQZo",
+      "scope": "GOOGLE",
+      "types": ["tourist_attraction", "point_of_interest", "establishment"],
+      "user_ratings_total": 5868,
+      "vicinity": "Blue Grotto"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8863679,
+          "lng": 14.4039146
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88757127989272,
+            "lng": 14.40537777989272
+          },
+          "southwest": {
+            "lat": 35.88487162010728,
+            "lng": 14.40267812010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "name": "Mdina Cathedral",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111761889263270242553\">Haldun Tantur</a>"
+          ],
+          "photo_reference": "ATtYBwJywFLLcrgS-4VJpsdz-mVFAbp62i7sIsp_LvhSSqlEtXVyGOkdpkO9h6N5EHy3wQr4EZSOdo5eBu1HUPWcSoG4drylpUcdhzPTu32n4HlICyqRO9iscVGUIUdwcBXRVuI9e7J5idTLRVylTELoBR31vtnpggZz_31H5mgxwiRh4mBM",
+          "width": 3002
+        }
+      ],
+      "place_id": "ChIJQYG08r9RDhMRqkjwiMzSO3Y",
+      "plus_code": {
+        "compound_code": "VCP3+GH Mdina",
+        "global_code": "8F7PVCP3+GH"
+      },
+      "rating": 4.6,
+      "reference": "ChIJQYG08r9RDhMRqkjwiMzSO3Y",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1564,
+      "vicinity": "2 Triq San Pawl, L-Imdina"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.82658980000001,
+          "lng": 14.4365263
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.82852112989273,
+            "lng": 14.44838910000001
+          },
+          "southwest": {
+            "lat": 35.82582147010729,
+            "lng": 14.4281075
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Mnajdra",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105541525324107378296\">Renato Serra</a>"
+          ],
+          "photo_reference": "ATtYBwL2ncD2faCBC2CM2Ki4qfQ1x47fEHoVKEDWNs_5J1vdZkPU6qyQrvkmJu3Eky9EnuM7vt7weSV9aR-uwOF_E14mPVyJGKsFewJgtPoz5c3_f4bhPLQEkhRDzuLuJfGU87aBwJBwhev5oaNpF5nLgD5y9eVEWOcMOzqLEhZssb0sxGk_",
+          "width": 900
+        }
+      ],
+      "place_id": "ChIJM3AMzNFQDhMRt-tQ3O0M25A",
+      "plus_code": {
+        "compound_code": "RCGP+JJ Qrendi",
+        "global_code": "8F7PRCGP+JJ"
+      },
+      "rating": 4.6,
+      "reference": "ChIJM3AMzNFQDhMRt-tQ3O0M25A",
+      "scope": "GOOGLE",
+      "types": ["tourist_attraction", "point_of_interest", "establishment"],
+      "user_ratings_total": 1317,
+      "vicinity": "Qrendi"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 35.8877091,
+          "lng": 14.52068
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.88904692989272,
+            "lng": 14.52197767989272
+          },
+          "southwest": {
+            "lat": 35.88634727010728,
+            "lng": 14.51927802010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name": "Malta Maritime Museum",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 987,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104906359112523600099\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwKgSEtqFjFnehq0Is_DKymcvE77A5EiU0Gy_GmfHPXxNAXy-BAIDOQ3ksDRYmzuFLTZOyy0w16Q9pzDnHddXD9ie2afWUrOQSA4uvZnAxzfHqJQkRMtG4G5zVa5Nd0-ujzPw76-6L0CqziWlpb3AgxSTpfYAiiSAJ_ygcqigpUq3la_",
+          "width": 1500
+        }
+      ],
+      "place_id": "ChIJUY3VlSlbDhMRNmgJNFDNoTQ",
+      "plus_code": {
+        "compound_code": "VGQC+37 Birgu",
+        "global_code": "8F7PVGQC+37"
+      },
+      "rating": 4.3,
+      "reference": "ChIJUY3VlSlbDhMRNmgJNFDNoTQ",
+      "scope": "GOOGLE",
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 717,
+      "vicinity": "Ex-Naval Bakery Vittoriosa Waterfront, Birgu"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8924089,
+          "lng": 14.4206599
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89375872989272,
+            "lng": 14.42200972989272
+          },
+          "southwest": {
+            "lat": 35.89105907010727,
+            "lng": 14.41931007010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name": "Ta' Qali National Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112385584654742705480\">Milan Ščepka</a>"
+          ],
+          "photo_reference": "ATtYBwJCwDlLHgOwE6u1zo2Olcn8J7lCOECkWC-XErnkGSZ12KnAXoprwyRByjhnVDE5OhqQy5ZrW3qPb23IJgJ20enaOLaUABW5K9MYri5Fu9x_tghcrNG6y8zehUMHCCQiS1AJLMBoCDhsyisetM48VezZiurVfe7kvyEHjhYs8ivN5lbY",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJJyt0PMxRDhMRNgQ19f21Dm8",
+      "plus_code": {
+        "compound_code": "VCRC+X7 Attard",
+        "global_code": "8F7PVCRC+X7"
+      },
+      "rating": 4.4,
+      "reference": "ChIJJyt0PMxRDhMRNgQ19f21Dm8",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3166,
+      "vicinity": "Attard"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 35.899831,
+          "lng": 14.515275
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.90122272989272,
+            "lng": 14.51658497989272
+          },
+          "southwest": {
+            "lat": 35.89852307010727,
+            "lng": 14.51388532010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name": "Casa Rocca Piccola",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 645,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109571971303248165740\">Casa Rocca Piccola</a>"
+          ],
+          "photo_reference": "ATtYBwJY-uDJw9shS02IwJeHvB1O_K2fVzWPqjTwe0MC0_5rc2sYfhYQCtmx-tRM32ORJnHNmavZhx1toemcQFcRVg-N1HqjUjj0A9TRy_zZnwbdghUs3FO7deHix7KSBIAIKIjrAndY46s5_2vTfaaYkS5_pjHqeb01QGeEKDvZKYJWl18p",
+          "width": 903
+        }
+      ],
+      "place_id": "ChIJA2JG1ytFDhMRa_9kDuR5DOk",
+      "plus_code": {
+        "compound_code": "VGX8+W4 Valletta",
+        "global_code": "8F7PVGX8+W4"
+      },
+      "rating": 4.4,
+      "reference": "ChIJA2JG1ytFDhMRa_9kDuR5DOk",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "premise",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1154,
+      "vicinity": "74 Republic St, Valletta"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.8961681,
+          "lng": 14.5091557
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.89751792989273,
+            "lng": 14.51050552989272
+          },
+          "southwest": {
+            "lat": 35.89481827010728,
+            "lng": 14.50780587010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Valletta City Gate",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 965,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104906359112523600099\">A Google User</a>"
+          ],
+          "photo_reference": "ATtYBwJAS7Z35gZ8fvuPLGEYj5PrknYp-YuSB-t3mmZ3WDvhQNRRYHm_OAbLLiu7Ar3m9JgRX_QEmT7LEfwYPWUItM7k9agzzWecvseV9Rr7X0YlqyxeT7g3BA9RqJAZz2ABUIRR9b0uWgFqXf8WvVk_eBhAwip16U5NtalA76CDn6xlT7MB",
+          "width": 1500
+        }
+      ],
+      "place_id": "ChIJNfCBMC1FDhMR5GiuPPSS9GE",
+      "plus_code": {
+        "compound_code": "VGW5+FM Valletta",
+        "global_code": "8F7PVGW5+FM"
+      },
+      "rating": 4.6,
+      "reference": "ChIJNfCBMC1FDhMR5GiuPPSS9GE",
+      "scope": "GOOGLE",
+      "types": ["tourist_attraction", "point_of_interest", "establishment"],
+      "user_ratings_total": 8310,
+      "vicinity": "Valletta"
+    }
+  ],
+  "status": "OK"
+}
+
