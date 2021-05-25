@@ -19,6 +19,6 @@ class Particle:
     def get_score(self, is_Day):
         return Timetable.calculate_score(self.timetable, is_Day)
 
-    def update_timetable(self, new_timetable):
-        self.timetable.update_timetable(new_timetable)
+    def update_timetable(self, new_timetable, is_Day):
+        self.timetable.update_timetable(new_timetable, is_Day)
         self.position = new_timetable

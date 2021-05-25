@@ -7,10 +7,12 @@ from itinerary_generator.Entities.Enums.category import Category
 
 
 class Timetable:
-    def __init__(self, timetable=None, moderation=1, array=None):
+    def __init__(self, timetable=None, moderation=1):
 
-        if array == None:
-            self.days = []
+        self.days = []
+        self.places = []
+
+        if timetable != None:
 
             for day in timetable:
                 morning = np.zeros((2 + moderation), dtype=np.int32)
@@ -23,11 +25,9 @@ class Timetable:
                     evening[i] = place.id
 
                 self.days.append([morning, evening])
-        else:
-            self.days = []
-            self.days.append(array)
 
-    def __str__(self):
+    def print_normal(self):
+
         string = ""
         for i, day in enumerate(self.days):
 
@@ -86,8 +86,70 @@ class Timetable:
 
         return string
 
-    def update_timetable(self, new_timetable):
-        self.days[0][0] = new_timetable
+    def __str__(self):
+        if self.days != []:
+            self.print_normal()
+        else:
+            string = ""
+            for i, day in enumerate(self.places):
+
+                string = string + "Day " + str(i + 1) + "\n"
+                string = string + "---------\n"
+
+                string = string + "...morning... \n"
+
+                new_duration = 0
+
+                for j, place in enumerate(day[0][:-1]):
+
+                    next_place = day[0][j + 1]
+                    string = string + place.name
+                    string = string + " -> \n"
+
+                    new_duration = new_duration + place.time_to(next_place)[0]
+
+                string = string + day[0][-1].name
+                string = string + "\n Travel time:  " + str(new_duration) + " \n"
+                string = string + "\n --------- \n"
+
+                string = string + "...evening... \n"
+
+                # Evening
+
+                new_duration = 0
+
+                current_place = day[1][0]
+                string = string + current_place.name
+                string = string + " -> \n"
+
+                new_duration = new_duration + current_place.time_to(day[1][1])[0]
+
+                string = string + day[1][1].name
+                string = string + "\n Travel time:  " + str(new_duration) + " \n"
+                string = string + "\n --------- \n"
+
+            return string
+
+    def add_a_new_day(self, new_day):
+        self.days.append(new_day)
+
+        self.places.append([[], []])
+        x = self.places[-1]
+
+        for i, place_id in enumerate(new_day[0]):
+            if i == 1:
+                x[0].append(Place.cafe_places_by_id[place_id])
+            else:
+                x[0].append(Place.day_places_by_id[place_id])
+
+        x[1].append(Place.restaurant_places_by_id[new_day[1][0]])
+        x[1].append(Place.night_places_by_id[new_day[1][1]])
+
+    def update_timetable(self, new_timetable, is_Day):
+        if is_Day:
+            self.days[0][0] = new_timetable
+        else:
+            self.days[0][1] = new_timetable
 
     @staticmethod
     def calculate_score(timetable, is_Day):
@@ -117,24 +179,24 @@ class Timetable:
 
         return [day_categories, night_categories], day_norm, night_norm
 
-    def remove_days_from_list(self):
-        for day in self.days:
-            for i, place_id in enumerate(day[0]):
-                if i == 1:
-                    place = Place.cafe_places_by_id[place_id]
-                    Place.delete_place(place.category, place, self.days)
-                else:
-                    if place_id not in Place.day_places_by_id:
-                        breakpoint()
-                    place = Place.day_places_by_id[place_id]
-                    Place.delete_place(place.category, place, self.days)
-            for i, place_id in enumerate(day[1]):
-                if i == 0:
-                    place = Place.restaurant_places_by_id[place_id]
-                    Place.delete_place(place.category, place, self.days)
-                else:
-                    place = Place.night_places_by_id[place_id]
-                    Place.delete_place(place.category, place, self.days)
+    def remove_days_from_list(self, day_number):
+        day = self.days[day_number]
+        for i, place_id in enumerate(day[0]):
+            if i == 1:
+                place = Place.cafe_places_by_id[place_id]
+                Place.delete_place(place.category, place, day[0])
+            else:
+                if place_id not in Place.day_places_by_id:
+                    breakpoint()
+                place = Place.day_places_by_id[place_id]
+                Place.delete_place(place.category, place, day[0])
+        for i, place_id in enumerate(day[1]):
+            if i == 0:
+                place = Place.restaurant_places_by_id[place_id]
+                Place.delete_place(place.category, place, day[1])
+            else:
+                place = Place.night_places_by_id[place_id]
+                Place.delete_place(place.category, place, day[1])
 
     @staticmethod
     def generate_random_timetable(trip):
@@ -166,11 +228,9 @@ class Timetable:
 
         random_timetable = []
 
-        number_of_days = (trip.date[1] - trip.date[0]).days
-
         # Generating the timetable
 
-        for _ in range(number_of_days):
+        for _ in range(1):
 
             result, day_values, night_values = Timetable.generate_random_day(
                 trip, day_result, night_result, day_values, night_values

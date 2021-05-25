@@ -38,11 +38,18 @@ def switch_random(original_matrix, switch_matrix):
 
 
 def Optimse(trip):
-    x = Optimise_day(trip, 10, 50, 5, 2, 2, True)
-    y = Optimise_day(trip, 3, 20, 1, 2, 2, False)
-    new_timetable = Timetable(array=[x.days[0][0], y.days[0][1]])
-    print(new_timetable)
-    new_timetable.remove_days_from_list()
+
+    new_timetable = Timetable()
+
+    for day in range(trip.number_of_days):
+
+        x = Optimise_day(trip, 10, 50, 5, 2, 2, True)
+        y = Optimise_day(trip, 3, 20, 1, 2, 2, False)
+        new_timetable.add_a_new_day([x.days[0][0], y.days[0][1]])
+        new_timetable.remove_days_from_list(day)
+
+    new_timetable.days = []
+    return new_timetable.__dict__
 
 
 def Optimise_day(
@@ -103,7 +110,7 @@ def Optimise_day(
             new_position = clip(new_position, is_Day)
 
             particle.velocity = new_velocity
-            particle.update_timetable(new_position)
+            particle.update_timetable(new_position, is_Day)
 
             new_score = particle.get_score(is_Day)
             # print(global_best)

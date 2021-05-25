@@ -12,17 +12,22 @@ class Trip:
     """
 
     def __init__(
-        self, budget: Budget, moderation, characteristics, date, accomodation: Place
+        self,
+        budget: Budget,
+        moderation,
+        characteristics,
+        number_of_days,
+        accomodation: Place,
     ):
         super().__init__()
 
         self.budget = budget
         self.moderation = moderation
         self.characteristics = characteristics
-        self.date = date
+        self.number_of_days = number_of_days
         self.accomodation = accomodation
 
     def generate_itineraries(self):
 
-        pso.Optimse(self)
+        return pso.Optimse(self)
 

@@ -108,6 +108,25 @@ class Place:
     @staticmethod
     def set_places(characteristics):
 
+        Place.cafe_places_by_id = {}
+        Place.restaurant_places_by_id = {}
+        Place.day_places_by_id = {}
+        Place.night_places_by_id = {}
+        Place.places_of_category = {}
+
+        global day_id
+        global night_id
+        global cafe_id
+        global restaurant_id
+
+        day_id = 0
+        night_id = 0
+        cafe_id = 0
+        restaurant_id = 0
+
+        for i in Category:
+            Place.places_of_category[i] = []
+
         path = "itinerary_generator/NearbySearch/beach/"
         create_place(path, Category.beach, characteristics, type=1)
 
@@ -182,14 +201,8 @@ def tool_for_delete(place_id, dictionary, days):
         for index, temp_place_id in enumerate(days):
             if temp_place_id == i:
                 days[index] = i - 1
-        if i in days:
-            days.indexojkkk
-            i -= 1
         dictionary[i].id = i - 1
         dictionary[i - 1] = place
-        # for j in Place.places_of_category[place.category]:
-        # if j.id == i:
-        # j = dictionary[i - 1]
 
     dictionary.pop((len(dictionary) - 1), None)
     return dictionary

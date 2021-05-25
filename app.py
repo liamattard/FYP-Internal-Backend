@@ -1,5 +1,6 @@
 from flask import Flask
 from flask import request
+from flask import jsonify
 from image_classifier.classification_model import scene_detection
 from itinerary_generator.main import generateItineries
 from urllib.parse import unquote
@@ -19,8 +20,9 @@ def main():
 
 @app.route("/generate_itineraries")
 def timetable():
-    generateItineries()
-    return "hello"
+    moderation = int(request.args.get("moderation"))
+    days = int(request.args.get("days"))
+    return jsonify(generateItineries(moderation, days))
 
 
 if __name__ == "__main__":

@@ -8,7 +8,7 @@ from itinerary_generator.Entities.characteristics import Characteristic
 from itinerary_generator.Entities.timetable import Timetable
 
 
-def generateItineries():
+def generateItineries(moderation, number_of_days):
 
     accomodation = Place(
         name="Hotel",
@@ -21,22 +21,14 @@ def generateItineries():
         beach=1, museums=4, nature=1, clubbing=7, bar=2, shopping=8,
     )
 
-    dateStart = datetime.datetime(2021, 5, 17)
-    dateFinal = datetime.datetime(2021, 5, 18)
-
     trip = Trip(
         budget=3,
-        moderation=3,
+        moderation=moderation,
         characteristics=[characteristics],
-        date=[dateStart, dateFinal],
+        number_of_days=number_of_days,
         accomodation=accomodation,
     )
 
     Place.set_places(trip.characteristics[0])
-    trip.generate_itineraries()
-    trip.generate_itineraries()
-    trip.generate_itineraries()
-    trip.generate_itineraries()
-    trip.generate_itineraries()
-    trip.generate_itineraries()
-    trip.generate_itineraries()
+    return trip.generate_itineraries()
+

@@ -352,59 +352,6 @@
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
-          "lat": 35.9002132,
-          "lng": 14.5158074
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 35.90158492989272,
-            "lng": 14.51713717989272
-          },
-          "southwest": {
-            "lat": 35.89888527010728,
-            "lng": 14.51443752010728
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
-      "name": "Gugar Hangout & BAR",
-      "opening_hours": {
-        "open_now": true
-      },
-      "photos": [
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/109448591776807510071\">Ujjwala Harshavardhan</a>"
-          ],
-          "photo_reference": "ATtYBwKW3S-zqGwcoXlika9hfGJfzrXeJ2cN2nk8NDFBuQ2ztRK4OZSnEfG-OmAwV-sNoRn7fPx94BNHmhofxs6U2bli-J3Q9UDhhZWBS7Mj7v4bNwlTSL_93VKwAgyg4uW2umCIiXp0CE2mGlJyPTzrKZtENYaJNqfM2QCBkGy47X8j1JwX",
-          "width": 4032
-        }
-      ],
-      "place_id": "ChIJhash1itFDhMRr3wczeg0Tzw",
-      "plus_code": {
-        "compound_code": "WG28+38 Valletta",
-        "global_code": "8F7PWG28+38"
-      },
-      "price_level": 1,
-      "rating": 4.8,
-      "reference": "ChIJhash1itFDhMRr3wczeg0Tzw",
-      "scope": "GOOGLE",
-      "types": [
-        "cafe",
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 494,
-      "vicinity": "89 Republic St, Valletta"
-    },
-    {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
           "lat": 35.89890949999999,
           "lng": 14.5120674
         },
