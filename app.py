@@ -4,6 +4,7 @@ from flask import jsonify
 from image_classifier.classification_model import scene_detection
 from itinerary_generator.main import generateItineries
 from urllib.parse import unquote
+from itinerary_generator.Entities.timetable import Timetable
 
 app = Flask(__name__)
 
@@ -22,7 +23,10 @@ def main():
 def timetable():
     moderation = int(request.args.get("moderation"))
     days = int(request.args.get("days"))
-    return jsonify(generateItineries(moderation, days))
+    x = generateItineries(moderation, days)
+    response = jsonify(x.to_dict())
+    response.headers.add("Access-Control-Allow-Origin", "*")
+    return response
 
 
 if __name__ == "__main__":

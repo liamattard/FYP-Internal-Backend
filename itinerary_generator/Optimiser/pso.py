@@ -49,7 +49,8 @@ def Optimse(trip):
         new_timetable.remove_days_from_list(day)
 
     new_timetable.days = []
-    return new_timetable.__dict__
+    print(new_timetable)
+    return new_timetable
 
 
 def Optimise_day(

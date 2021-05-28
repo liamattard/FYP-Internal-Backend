@@ -1,12 +1,29 @@
 import numpy as np
 import random
 import collections
+from json import JSONEncoder
 
 from itinerary_generator.Entities.place import Place
 from itinerary_generator.Entities.Enums.category import Category
 
 
-class Timetable:
+class Timetable():
+
+    def to_dict(self):
+        final_dictionary = {}
+
+        for i,day in enumerate(self.places):
+            final_dictionary[i] = [] 
+            morning = day[0]
+            for place in morning:
+                final_dictionary[i].append(place.name)
+
+            night = day[1]
+            for place in night:
+                final_dictionary[i].append(place.name)
+
+        return final_dictionary
+
     def __init__(self, timetable=None, moderation=1):
 
         self.days = []
