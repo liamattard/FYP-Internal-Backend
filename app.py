@@ -23,7 +23,15 @@ def main():
 def timetable():
     moderation = int(request.args.get("moderation"))
     days = int(request.args.get("days"))
-    x = generateItineries(moderation, days)
+    beach = int(request.args.get("beach"))
+    clubbing = int(request.args.get("clubbing"))
+    nature = int(request.args.get("nature"))
+    shopping = int(request.args.get("shopping"))
+    museums = int(request.args.get("museums"))
+    bars = int(request.args.get("bars"))
+    x = generateItineries(
+        moderation, days, beach, clubbing, bars, nature, shopping, museums
+    )
     response = jsonify(x.to_dict())
     response.headers.add("Access-Control-Allow-Origin", "*")
     return response

@@ -16,11 +16,17 @@ class Timetable():
             final_dictionary[i] = [] 
             morning = day[0]
             for place in morning:
-                final_dictionary[i].append(place.name)
+                place_info = []
+                place_info.append(place.name)
+                place_info.append(place.category.name)
+                final_dictionary[i].append(place_info)
 
             night = day[1]
             for place in night:
-                final_dictionary[i].append(place.name)
+                place_info = []
+                place_info.append(place.name)
+                place_info.append(place.category.name)
+                final_dictionary[i].append(place_info)
 
         return final_dictionary
 
