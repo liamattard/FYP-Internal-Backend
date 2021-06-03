@@ -7,13 +7,12 @@ from itinerary_generator.Entities.place import Place
 from itinerary_generator.Entities.Enums.category import Category
 
 
-class Timetable():
-
+class Timetable:
     def to_dict(self):
         final_dictionary = {}
 
-        for i,day in enumerate(self.places):
-            final_dictionary[i] = [] 
+        for i, day in enumerate(self.places):
+            final_dictionary[i] = []
             morning = day[0]
             for place in morning:
                 place_info = []
@@ -175,17 +174,12 @@ class Timetable():
             self.days[0][1] = new_timetable
 
     @staticmethod
-    def calculate_score(timetable, is_Day):
-
-        # y = list(
-        # map(lambda x: get_day_score(x, timetable.moderation), timetable.timetable)
-        # )
-        # avg = sum(y)
+    def calculate_score(timetable, is_Day, trip):
 
         if is_Day:
-            avg = get_day_score(timetable.days[0][0], is_Day)
+            avg = get_day_score(timetable.days[0][0], is_Day, trip)
         else:
-            avg = get_day_score(timetable.days[0][1], is_Day)
+            avg = get_day_score(timetable.days[0][1], is_Day, trip)
 
         return avg
 
@@ -244,11 +238,6 @@ class Timetable():
                     trip.characteristics[0].get_value_by_category(category[0])
                 )
 
-        # Normalising the probabilities
-
-        day_values = [float(i) / sum(day_values) for i in day_values]
-        night_values = [float(i) / sum(night_values) for i in night_values]
-
         random_timetable = []
 
         # Generating the timetable
@@ -271,17 +260,22 @@ class Timetable():
         return Timetable(random_timetable, moderation=trip.moderation)
 
 
-def get_day_score(day, is_Day):
+def get_day_score(day, is_Day, trip):
 
     if is_Day:
 
-        # Total number of unique events
-        total_events = set(day)
-        if len(total_events) != len(day):
+        total_characteristics = 0
+
+        # Total number of unique events (except for restaurant)
+        day_without_restaurant = np.delete(day, 1)
+        total_events = set(day_without_restaurant)
+
+        if len(total_events) != len(day_without_restaurant):
             return 0
 
         total_ratings = []
         durations_list = []
+        characteristic_value = []
 
         for i, place_id in enumerate(day):
 
@@ -290,9 +284,13 @@ def get_day_score(day, is_Day):
                 if i == 1:
                     place = Place.cafe_places_by_id[place_id]
                 else:
-                    # if 65 not in Place.day_places_by_id:
-                    # breakpoint()
                     place = Place.day_places_by_id[place_id]
+                    if trip.is_personalised:
+                        characteristic_value.append(
+                            trip.characteristics[0].get_value_by_category(place.category) / 100
+                        )
+                        total_characteristics = sum(characteristic_value) / len(characteristic_value)
+
                 if i == 0:
                     next_place = Place.cafe_places_by_id[day[i + 1]]
                 else:
@@ -304,26 +302,35 @@ def get_day_score(day, is_Day):
                 total_ratings.append(place.rating)
             else:
                 total_ratings.append(0.0)
+
         avg_rating = 0
+
         if total_ratings != []:
             avg_rating = (sum(total_ratings) / len(total_ratings)) / 10.0
+
 
         total_durations = sum(durations_list)
 
         if total_durations == 0:
             return 0
+
         duration_score = 10 / total_durations
 
     else:
+        total_characteristics = 0
         place_one = Place.restaurant_places_by_id[day[0]]
         place_two = Place.night_places_by_id[day[1]]
         if place_one.time_to(place_two)[0] != 0:
             duration_score = 1 / (place_one.time_to(place_two)[0])
+            if trip.is_personalised:
+                total_characteristics = (
+                    trip.characteristics[0].get_value_by_category(place_two.category) / 100
+                )
         else:
             duration_score = 0
         avg_rating = (place_one.rating + place_two.rating) / 5
 
-    total_score = duration_score + avg_rating
+    total_score = duration_score + avg_rating + total_characteristics
 
     return total_score
 

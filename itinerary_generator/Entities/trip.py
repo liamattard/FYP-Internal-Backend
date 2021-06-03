@@ -18,6 +18,7 @@ class Trip:
         characteristics,
         number_of_days,
         accomodation: Place,
+        is_personalised,
     ):
         super().__init__()
 
@@ -26,6 +27,7 @@ class Trip:
         self.characteristics = characteristics
         self.number_of_days = number_of_days
         self.accomodation = accomodation
+        self.is_personalised = is_personalised
 
     def generate_itineraries(self):
 

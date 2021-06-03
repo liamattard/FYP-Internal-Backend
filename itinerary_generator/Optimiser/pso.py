@@ -16,13 +16,15 @@ def initialise_particles(trip, population_size, is_Day):
 
         timetable = Timetable.generate_random_timetable(trip)
 
-        current_particle = Particle(timetable, is_Day)
+        current_particle = Particle(timetable, is_Day, trip)
         particles.append(current_particle)
 
         if global_best is None:
             global_best = current_particle
 
-        if current_particle.get_score(is_Day) > global_best.get_score(is_Day):
+        if current_particle.get_score(is_Day, trip) > global_best.get_score(
+            is_Day, trip
+        ):
             global_best = current_particle
 
     return particles, global_best
@@ -65,7 +67,7 @@ def Optimise_day(
 
     particles, global_best = initialise_particles(trip, population_size, is_Day)
 
-    global_best_score = global_best.get_score(is_Day)
+    global_best_score = global_best.get_score(is_Day, trip)
     global_best_position = global_best.position
     global_best_timetable = global_best.timetable
 
@@ -113,7 +115,7 @@ def Optimise_day(
             particle.velocity = new_velocity
             particle.update_timetable(new_position, is_Day)
 
-            new_score = particle.get_score(is_Day)
+            new_score = particle.get_score(is_Day, trip)
             # print(global_best)
             if new_score > particle.personal_best_score:
 

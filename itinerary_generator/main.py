@@ -9,7 +9,15 @@ from itinerary_generator.Entities.timetable import Timetable
 
 
 def generateItineries(
-    moderation, number_of_days, beach, clubbing, bars, nature, shopping, museums
+    moderation,
+    number_of_days,
+    is_personalised,
+    beach=None,
+    clubbing=None,
+    bars=None,
+    nature=None,
+    shopping=None,
+    museums=None,
 ):
 
     accomodation = Place(
@@ -19,14 +27,24 @@ def generateItineries(
         type=0,
     )
 
-    characteristics = Characteristic(
-        beach=beach,
-        museums=museums,
-        nature=nature,
-        clubbing=clubbing,
-        bar=bars,
-        shopping=shopping,
-    )
+    characteristics = None
+
+    if is_personalised:
+
+        characteristics = Characteristic(
+            beach=beach,
+            museums=museums,
+            nature=nature,
+            clubbing=clubbing,
+            bar=bars,
+            shopping=shopping,
+        )
+
+    else:
+
+        characteristics = Characteristic(
+            beach=1, museums=1, nature=1, clubbing=1, bar=1, shopping=1,
+        )
 
     trip = Trip(
         budget=3,
@@ -34,6 +52,7 @@ def generateItineries(
         characteristics=[characteristics],
         number_of_days=number_of_days,
         accomodation=accomodation,
+        is_personalised=is_personalised,
     )
 
     Place.set_places(trip.characteristics[0])
