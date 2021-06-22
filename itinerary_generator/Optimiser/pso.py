@@ -45,13 +45,12 @@ def Optimse(trip):
 
     for day in range(trip.number_of_days):
 
-        x = Optimise_day(trip, 10, 50, 5, 2, 2, True)
-        y = Optimise_day(trip, 3, 20, 1, 2, 2, False)
+        x = Optimise_day(trip, 15, 50, 10, 2, 2, True)
+        y = Optimise_day(trip, 5, 3, 1, 2, 2, False)
         new_timetable.add_a_new_day([x.days[0][0], y.days[0][1]])
         new_timetable.remove_days_from_list(day)
 
     new_timetable.days = []
-    print(new_timetable)
     return new_timetable
 
 
@@ -116,7 +115,6 @@ def Optimise_day(
             particle.update_timetable(new_position, is_Day)
 
             new_score = particle.get_score(is_Day, trip)
-            # print(global_best)
             if new_score > particle.personal_best_score:
 
                 particle.personal_best_score = new_score

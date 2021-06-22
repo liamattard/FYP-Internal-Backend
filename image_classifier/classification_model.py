@@ -12,7 +12,7 @@ import os
 def scene_detection(img_url):
 
     # th architecture to use
-    arch = "resnet18"
+    arch = "resnet50"
 
     # load the pre-trained weights
     model_file = "image_classifier/%s_places365.pth.tar" % arch
